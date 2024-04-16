@@ -1,0 +1,3378 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{ahnTricuspidValveImaging2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d74562c90a95a6f6806897c0b617653c}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={Yura},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a35191779631d25a240c6dc6d6b69acc}{%
+           family={Koo},
+           familyi={K\bibinitperiod},
+           given={Hyun\bibnamedelima Jung},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35231641ac96bba8ffa583489c3964bf}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Joon-Won},
+           giveni={J\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e1ae20086fc25ec79f3779076e540c8}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Dong\bibnamedelima Hyun},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fd653f8ced76f3e75546b33ce0e5c89b}
+      \strng{fullhash}{252236c8095f020f8076baad4fc2ae3d}
+      \strng{fullhashraw}{252236c8095f020f8076baad4fc2ae3d}
+      \strng{bibnamehash}{252236c8095f020f8076baad4fc2ae3d}
+      \strng{authorbibnamehash}{252236c8095f020f8076baad4fc2ae3d}
+      \strng{authornamehash}{fd653f8ced76f3e75546b33ce0e5c89b}
+      \strng{authorfullhash}{252236c8095f020f8076baad4fc2ae3d}
+      \strng{authorfullhashraw}{252236c8095f020f8076baad4fc2ae3d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ahn Y, et al. Korean J Radiol. 2021 Dec;22(12):1946-1963. https://doi.org/10.3348/kjr.2020.1507}
+      \field{day}{1}
+      \field{issn}{1229-6929}
+      \field{journaltitle}{Korean Journal of Radiology}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{Tricuspid {{Valve Imaging}} and {{Right Ventricular Function Analysis Using Cardiac CT}} and {{MRI}}}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1946\bibrangedash 1963}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.3348/kjr.2020.1507
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\PGQUGAY6\Ahn et al. - 2021 - Tricuspid Valve Imaging and Right Ventricular Func.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3348/kjr.2020.1507
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3348/kjr.2020.1507
+      \endverb
+    \endentry
+    \entry{aultmanEthicsRepeatHeart2018}{incollection}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=4e72b719c4e75654c480c2be8ed0d72c}{%
+           family={Aultman},
+           familyi={A\bibinitperiod},
+           given={Julie\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=607e61a87d4bc3d236d8bb6146296db4}{%
+           family={Peshel},
+           familyi={P\bibinitperiod},
+           given={Emanuela},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a4bde9e404890e5d5e449e8fe35cc39}{%
+           family={Harfouche},
+           familyi={H\bibinitperiod},
+           given={Cyril},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ba943f6fe65132fa551b4ae8fdd32fa}{%
+           family={S.Firstenberg},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e72b719c4e75654c480c2be8ed0d72c}{%
+           family={Aultman},
+           familyi={A\bibinitperiod},
+           given={Julie\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=607e61a87d4bc3d236d8bb6146296db4}{%
+           family={Peshel},
+           familyi={P\bibinitperiod},
+           given={Emanuela},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a4bde9e404890e5d5e449e8fe35cc39}{%
+           family={Harfouche},
+           familyi={H\bibinitperiod},
+           given={Cyril},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ba943f6fe65132fa551b4ae8fdd32fa}{%
+           family={S.Firstenberg},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IntechOpen}%
+      }
+      \strng{namehash}{9e3cd0769293c9af71bf8ca9a14aa485}
+      \strng{fullhash}{e625f5846144c223952298edc88c829a}
+      \strng{fullhashraw}{e625f5846144c223952298edc88c829a}
+      \strng{bibnamehash}{e625f5846144c223952298edc88c829a}
+      \strng{authorbibnamehash}{e625f5846144c223952298edc88c829a}
+      \strng{authornamehash}{9e3cd0769293c9af71bf8ca9a14aa485}
+      \strng{authorfullhash}{e625f5846144c223952298edc88c829a}
+      \strng{authorfullhashraw}{e625f5846144c223952298edc88c829a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The treatment of patients with intravenous drug use (IVDU) has evolved to include a wide range of medications, psychiatric rehabilitation, and surgical interventions, especially for life-threatening complications such as infective endocarditis (IE). These interventions remain at the discretion of physicians, particularly surgeons, whose treatment decisions are influenced by several medical factors, unfortunately not without bias. The stigma associated with substance use disorder is prevalent, which leads to significant biases, even in the healthcare system. This bias is heightened when IVDU patients require repeat valve replacement surgeries for IE due to continued drug use. Patients who receive a valve replacement and continue to use illicit drugs intravenously often return to their medical providers, months to a few years later, with a reinfection of their bioprosthetic valve; such patients require additional surgeries which are at the center of many ethical discussions due to high mortality rates, for many complex medical and social reasons, associated with continuous chemical dependency after surgical interventions. This chapter examines the ethics of repeat heart valve replacement surgery for patients who are struggling with addiction. Considerations of justice, the fiduciary therapeutic relationship, and guiding ethical principles justify medically beneficial repeat heart valve replacement surgeries for IVDU patient populations.}
+      \field{booktitle}{Advanced {{Concepts}} in {{Endocarditis}}}
+      \field{day}{5}
+      \field{isbn}{978-1-78923-627-9}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{The {{Ethics}} in {{Repeat Heart Valve Replacement Surgery}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.5772/intechopen.76844
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\UKHQXFR8\Aultman et al. - 2018 - The Ethics in Repeat Heart Valve Replacement Surge.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.intechopen.com/chapters/61397
+      \endverb
+      \verb{url}
+      \verb https://www.intechopen.com/chapters/61397
+      \endverb
+    \endentry
+    \entry{baillargeonLivingHeartProject2014}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=56dc1370801d3400fbb5858c72e627c1}{%
+           family={Baillargeon},
+           familyi={B\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a912cc4026cd7fe650c18941d82559a9}{%
+           family={Rebelo},
+           familyi={R\bibinitperiod},
+           given={Nuno},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7cd592ef9765a582fe4a74a6806c3a3}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29bab39046818894cc5af16e83f2f770}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Robert\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdab00413ed0a40b41409bd91b17e62a}{%
+           family={Kuhl},
+           familyi={K\bibinitperiod},
+           given={Ellen},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eacea44330acc3a0e376c2d6a71db9c9}
+      \strng{fullhash}{3e384abc1bd2751d21699de66684acdc}
+      \strng{fullhashraw}{3e384abc1bd2751d21699de66684acdc}
+      \strng{bibnamehash}{3e384abc1bd2751d21699de66684acdc}
+      \strng{authorbibnamehash}{3e384abc1bd2751d21699de66684acdc}
+      \strng{authornamehash}{eacea44330acc3a0e376c2d6a71db9c9}
+      \strng{authorfullhash}{3e384abc1bd2751d21699de66684acdc}
+      \strng{authorfullhashraw}{3e384abc1bd2751d21699de66684acdc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The heart is not only our most vital, but also our most complex organ: Precisely controlled by the interplay of electrical and mechanical fields, it consists of four chambers and four valves, which act in concert to regulate its filling, ejection, and overall pump function. While numerous computational models exist to study either the electrical or the mechanical response of its individual chambers, the integrative electro-mechanical response of the whole heart remains poorly understood. Here we present a proof-of-concept simulator for a four-chamber human heart model created from computer topography and magnetic resonance images. We illustrate the governing equations of excitation–contraction coupling and discretize them using a single, unified finite element environment. To illustrate the basic features of our model, we visualize the electrical potential and the mechanical deformation across the human heart throughout its cardiac cycle. To compare our simulation against common metrics of cardiac function, we extract the pressure–volume relationship and show that it agrees well with clinical observations. Our prototype model allows us to explore and understand the key features, physics, and technologies to create an integrative, predictive model of the living human heart. Ultimately, our simulator will open opportunities to probe landscapes of clinical parameters, and guide device design and treatment planning in cardiac diseases such as stenosis, regurgitation, or prolapse of the aortic, pulmonary, tricuspid, or mitral valve.}
+      \field{day}{1}
+      \field{issn}{0997-7538}
+      \field{journaltitle}{European Journal of Mechanics - A/Solids}
+      \field{month}{11}
+      \field{series}{Frontiers in {{Finite-Deformation Electromechanics}}}
+      \field{shortjournal}{European Journal of Mechanics - A/Solids}
+      \field{shorttitle}{The {{Living Heart Project}}}
+      \field{title}{The {{Living Heart Project}}: {{A}} Robust and Integrative Simulator for Human Heart Function}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{48}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{38\bibrangedash 47}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.euromechsol.2014.04.001
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\5NH6786B\Baillargeon et al. - 2014 - The Living Heart Project A robust and integrative.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0997753814000564
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0997753814000564
+      \endverb
+      \keyw{Abaqus,Cardiac mechanics,Electro-mechanics}
+    \endentry
+    \entry{baxterChapter12Selection2006}{incollection}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=864bc0f4843986f4afb4775d2232eb9b}{%
+           family={Baxter},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2fe2ea390ecc3f2d394cb8f2288811d9}{%
+           family={Busfield},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f47741e9c16677f96eeb89ee55b3d2a}{%
+           family={Peijs},
+           familyi={P\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=59cb2b9e9c8b3439f29eccb14c70ab67}{%
+           family={Coveney},
+           familyi={C\bibinitperiod},
+           given={V.\bibnamedelimi A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Woodhead Publishing}%
+      }
+      \strng{namehash}{c0327b6833618158d0bc2a81336cae47}
+      \strng{fullhash}{891f77a332ebf7d552c3a60cd6bd5e0b}
+      \strng{fullhashraw}{891f77a332ebf7d552c3a60cd6bd5e0b}
+      \strng{bibnamehash}{891f77a332ebf7d552c3a60cd6bd5e0b}
+      \strng{authorbibnamehash}{891f77a332ebf7d552c3a60cd6bd5e0b}
+      \strng{authornamehash}{c0327b6833618158d0bc2a81336cae47}
+      \strng{authorfullhash}{891f77a332ebf7d552c3a60cd6bd5e0b}
+      \strng{authorfullhashraw}{891f77a332ebf7d552c3a60cd6bd5e0b}
+      \strng{editorbibnamehash}{59cb2b9e9c8b3439f29eccb14c70ab67}
+      \strng{editornamehash}{59cb2b9e9c8b3439f29eccb14c70ab67}
+      \strng{editorfullhash}{59cb2b9e9c8b3439f29eccb14c70ab67}
+      \strng{editorfullhashraw}{59cb2b9e9c8b3439f29eccb14c70ab67}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{SYNOPSIS The advent of the polymeric synthetic heart valve will hopefully allow the limitations of other commonly used artificial heart valves to be overcome. Currently the valves adopted in practice include mechanical heart valves and biological heart valves. The mechanical valves are prone to thrombosis formation in the blood and require long-term anticoagulant therapy. The biological valves lose their tissue replacement function as a result of their chemical treatment which results in tissue fatigue damage in service. Polymeric synthetic heart valves that mimic the function of a real valve will hopefully overcome these difficulties. In this chapter, various elastomeric materials (polyurethane, silicone rubber and EPDM), that can be used to make polymeric synthetic heart valves, have been assessed by measuring their strain energy release rate for a wide range of crack growth rates. This was measured using static loading under a variety of conditions in order to evaluate their potential performance as target materials. Polyurethane is the most suitable matrix material of the three candidates from a consideration of the tear resistance. The behaviour of the polyurethane is similar to that of a strain crystallising material and as a result it would appear that some comparable form of reinforcement takes place. At the temperatures encountered in the body there is a significant decrease in the tearing energy for a given crack growth rate due to a reduction in the viscoelasticity. Despite this, it would still appear that polyurethane is the most suitable material for use in a synthetic heart valve.}
+      \field{booktitle}{Elastomers and {{Components}}}
+      \field{day}{1}
+      \field{isbn}{978-1-84569-100-4}
+      \field{month}{1}
+      \field{title}{Chapter 12 - {{Selection}} of {{Elastomers}} for a {{Synthetic Heart Valve}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{171\bibrangedash 177}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1533/9781845691134.2.171
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\NDYIREJG\B9781845691004500128.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9781845691004500128
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9781845691004500128
+      \endverb
+    \endentry
+    \entry{bazanExperimentalValidationCardiac2016}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3e23404a430d036a91151db4ae67df77}{%
+           family={Bazan},
+           familyi={B\bibinitperiod},
+           given={Ovandir},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=beafc30890d91e804cb2902c2460267e}{%
+           family={Ortiz},
+           familyi={O\bibinitperiod},
+           given={Jayme\bibnamedelima Pinto},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sociedade Brasileira de Cirurgia Cardiovascular}%
+      }
+      \strng{namehash}{e4b479af834c1069df3180bed7f08e19}
+      \strng{fullhash}{e4b479af834c1069df3180bed7f08e19}
+      \strng{fullhashraw}{e4b479af834c1069df3180bed7f08e19}
+      \strng{bibnamehash}{e4b479af834c1069df3180bed7f08e19}
+      \strng{authorbibnamehash}{e4b479af834c1069df3180bed7f08e19}
+      \strng{authornamehash}{e4b479af834c1069df3180bed7f08e19}
+      \strng{authorfullhash}{e4b479af834c1069df3180bed7f08e19}
+      \strng{authorfullhashraw}{e4b479af834c1069df3180bed7f08e19}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Objective: This work describes the experimental validation of a cardiac simulator for three heart rates (60, 80 and 100 beats per minute), under physiological conditions, as a suitable environment for prosthetic heart valves testing in the mitral or aortic position. Methods: In the experiment, an aortic bileaflet mechanical valve and a mitral bioprosthesis were employed in the left ventricular model. A test fluid of 47.6\% by volume of glycerin solution in water at 36.5ºC was used as blood analogue fluid. A supervisory control and data acquisition system implemented previously in LabVIEW was applied to induce the ventricular operation and to acquire the ventricular signals. The parameters of the left ventricular model operation were based on in vivo and in vitro data. The waves of ventricular and systemic pressures, aortic flow, stroke volume, among others, were acquired while manual adjustments in the arterial impedance model were also established. Results: The acquired waves showed good results concerning some in vivo data and requirements from the ISO 5840 standard. Conclusion: The experimental validation was performed, allowing, in future studies, characterizing the hydrodynamic performance of prosthetic heart valves.}
+      \field{issn}{0102-7638, 1678-9741}
+      \field{journaltitle}{Brazilian Journal of Cardiovascular Surgery}
+      \field{langid}{english}
+      \field{shortjournal}{Braz. J. Cardiovasc. Surg.}
+      \field{title}{Experimental {{Validation}} of a {{Cardiac Simulator}} for {\emph{in Vitro}} {{Evaluation}} of {{Prosthetic Heart Valves}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{31}
+      \field{year}{2016-Mar-Apr}
+      \field{urldateera}{ce}
+      \field{pages}{151\bibrangedash 157}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.5935/1678-9741.20160041
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\IXA3GD5D\Bazan and Ortiz - 2016 - Experimental Validation of a Cardiac Simulator for.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scielo.br/j/rbccv/a/cGMDYQsfPj6QzqqLRJCYVBm/?lang=en
+      \endverb
+      \verb{url}
+      \verb https://www.scielo.br/j/rbccv/a/cGMDYQsfPj6QzqqLRJCYVBm/?lang=en
+      \endverb
+      \keyw{cardiovascular,Heart rate,Heart valve prosthesis,Models}
+    \endentry
+    \entry{buzzattiAnatomyTricuspidValve2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ce7dcfedc716dc43a86ef3dfa18c13f1}{%
+           family={Buzzatti},
+           familyi={B\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e932273791fd5b83d5d2709325dea455}{%
+           family={De\bibnamedelima Bonis},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07922812b620ac14eb78e07c5be1e3be}{%
+           family={Moat},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c5ed68009a4c30b3fce4de23210d069}
+      \strng{fullhash}{eceb9941f50b841f269312d348e848f4}
+      \strng{fullhashraw}{eceb9941f50b841f269312d348e848f4}
+      \strng{bibnamehash}{eceb9941f50b841f269312d348e848f4}
+      \strng{authorbibnamehash}{eceb9941f50b841f269312d348e848f4}
+      \strng{authornamehash}{7c5ed68009a4c30b3fce4de23210d069}
+      \strng{authorfullhash}{eceb9941f50b841f269312d348e848f4}
+      \strng{authorfullhashraw}{eceb9941f50b841f269312d348e848f4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{2211-7458}
+      \field{journaltitle}{Interventional Cardiology Clinics}
+      \field{month}{1}
+      \field{number}{1}
+      \field{series}{Transcatheter {{Tricuspid Valve Intervention}}/{{Interventional Therapy}} for {{Pulmonary Embolism}}}
+      \field{shortjournal}{Interventional Cardiology Clinics}
+      \field{title}{Anatomy of the {{Tricuspid Valve}}, {{Pathophysiology}} of {{Functional Tricuspid Regurgitation}}, and {{Implications}} for {{Percutaneous Therapies}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{7}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.iccl.2017.08.005
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\CEZFAHXK\S2211745817301050.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2211745817301050
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2211745817301050
+      \endverb
+      \keyw{Anatomy,Functional,Right ventricle,Transcatheter,Tricuspid}
+    \endentry
+    \entry{capelliPatientspecificSimulationsPlanning2017}{article}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=28394da788ec6c2c0711fcb556efaa09}{%
+           family={Capelli},
+           familyi={C\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ada8333072bac35ff03e0af8b4452f3}{%
+           family={Sauvage},
+           familyi={S\bibinitperiod},
+           given={Emilie},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff989744cc162fcd698fac9eb73b4688}{%
+           family={Giusti},
+           familyi={G\bibinitperiod},
+           given={Giuliano},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=badccd1a129f9fbd30df249692694918}{%
+           family={Bosi},
+           familyi={B\bibinitperiod},
+           given={Giorgia\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4aadb220538629086853b9ddbc56c1b}{%
+           family={Ntsinjana},
+           familyi={N\bibinitperiod},
+           given={Hopewell},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d34a002e655da9c2556a130c53d2f277}{%
+           family={Carminati},
+           familyi={C\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b4a19dadd2c93d1e63265bf106059fc}{%
+           family={Derrick},
+           familyi={D\bibinitperiod},
+           given={Graham},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d36a862dc21779b0daf4267473247d03}{%
+           family={Marek},
+           familyi={M\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4415924aefbf3c96adfa0ce582d1922}{%
+           family={Khambadkone},
+           familyi={K\bibinitperiod},
+           given={Sachin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ede4c790971c9728aee78aa5b0238680}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4f6743127204182d5a38a4cec934de7}{%
+           family={Schievano},
+           familyi={S\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society}%
+      }
+      \strng{namehash}{e616e5fdd96a4884472d9220c5b24c9d}
+      \strng{fullhash}{ab586feeeadd55f990fb4a91cd91ef1c}
+      \strng{fullhashraw}{ab586feeeadd55f990fb4a91cd91ef1c}
+      \strng{bibnamehash}{ab586feeeadd55f990fb4a91cd91ef1c}
+      \strng{authorbibnamehash}{ab586feeeadd55f990fb4a91cd91ef1c}
+      \strng{authornamehash}{e616e5fdd96a4884472d9220c5b24c9d}
+      \strng{authorfullhash}{ab586feeeadd55f990fb4a91cd91ef1c}
+      \strng{authorfullhashraw}{ab586feeeadd55f990fb4a91cd91ef1c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Patient-specific computational models have been extensively developed over the last decades and applied to investigate a wide range of cardiovascular problems. However, translation of these technologies into clinical applications, such as planning of medical procedures, has been limited to a few single case reports. Hence, the use of patient-specific models is still far from becoming a standard of care in clinical practice. The aim of this study is to describe our experience with a modelling framework that allows patient-specific simulations to be used for prediction of clinical outcomes. A cohort of 12 patients with congenital heart disease who were referred for percutaneous pulmonary valve implantation, stenting of aortic coarctation and surgical repair of double-outlet right ventricle was included in this study. Image data routinely acquired for clinical assessment were post-processed to set up patient-specific models and test device implantation and surgery. Finite-element and computational fluid dynamics analyses were run to assess feasibility of each intervention and provide some guidance. Results showed good agreement between simulations and clinical decision including feasibility, device choice and fluid-dynamic parameters. The promising results of this pilot study support translation of computer simulations as tools for personalization of cardiovascular treatments.}
+      \field{day}{15}
+      \field{journaltitle}{Interface Focus}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{Patient-Specific Simulations for Planning Treatment in Congenital Heart Disease}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{8}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{20170021}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsfs.2017.0021
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\WEZBZIBU\Capelli et al. - 2017 - Patient-specific simulations for planning treatmen.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rsfs.2017.0021
+      \endverb
+      \verb{url}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rsfs.2017.0021
+      \endverb
+      \keyw{cardiovascular,congenital heart disease,device,intervention,patient-specific,precision medicine}
+    \endentry
+    \entry{curioUpdateCurrentLandscape2019}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=3f1c03fdcb26ffd2546367feb00b2328}{%
+           family={Curio},
+           familyi={C\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f505d52fb9e24d41c12f38c9eddc2024}{%
+           family={Demir},
+           familyi={D\bibinitperiod},
+           given={Ozan\bibnamedelima M.},
+           giveni={O\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dff4e864da038f79a6c8b0f8a170e27b}{%
+           family={Pagnesi},
+           familyi={P\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f5fd654317eab14ed22dd99380930ad}{%
+           family={Mangieri},
+           familyi={M\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=680ba156bce8655d12994ddab5a74479}{%
+           family={Giannini},
+           familyi={G\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ec39a35fc1118af331f26a2d41ded21}{%
+           family={Weisz},
+           familyi={W\bibinitperiod},
+           given={Giora},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56620d9eee2f8ce8604385f3f35018b1}{%
+           family={Latib},
+           familyi={L\bibinitperiod},
+           given={Azeem},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4bfd1a8dd3899dd9b061805fd3c4d224}
+      \strng{fullhash}{e772c5ac5862f5b1b6791afcf20bc667}
+      \strng{fullhashraw}{e772c5ac5862f5b1b6791afcf20bc667}
+      \strng{bibnamehash}{e772c5ac5862f5b1b6791afcf20bc667}
+      \strng{authorbibnamehash}{e772c5ac5862f5b1b6791afcf20bc667}
+      \strng{authornamehash}{4bfd1a8dd3899dd9b061805fd3c4d224}
+      \strng{authorfullhash}{e772c5ac5862f5b1b6791afcf20bc667}
+      \strng{authorfullhashraw}{e772c5ac5862f5b1b6791afcf20bc667}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Tricuspid regurgitation (TR) is common, affecting 5\% of the elderly population and, when its severity reaches moderate to severe, is an independent predictor of increased mortality.1–3 The pathophysiology of TR is mainly functional as it occurs in the context of pulmonary hypertension, left-sided heart disease and AF.4 These lead to deformation of the right ventricle (RV) and the right atrium (RA), which consequently causes dilation of the tricuspid valve (TV) apparatus.5–7}
+      \field{day}{21}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{title}{Update on the {{Current Landscape}} of {{Transcatheter Options}} for {{Tricuspid Regurgitation Treatment}}}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\ZAFAJRD4\Curio et al. - 2019 - Update on the Current Landscape of Transcatheter O.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.icrjournal.com/articles/update-current-landscape-transcatheter-options-tricuspid-regurgitation-treatment
+      \endverb
+      \verb{url}
+      \verb https://www.icrjournal.com/articles/update-current-landscape-transcatheter-options-tricuspid-regurgitation-treatment
+      \endverb
+    \endentry
+    \entry{damoreHeartValveScaffold2018}{article}{}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=651d6eee11c74ecbea78c42ca4f53b52}{%
+           family={D'Amore},
+           familyi={D\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=925dab8d3c5c57111662247557cfe184}{%
+           family={Luketich},
+           familyi={L\bibinitperiod},
+           given={Samuel\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71230a5ea66cd682fd553415ac7ecab7}{%
+           family={Raffa},
+           familyi={R\bibinitperiod},
+           given={Giuseppe\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=404c5bd13bdd38aa3785f2926a4d12c9}{%
+           family={Olia},
+           familyi={O\bibinitperiod},
+           given={Salim},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=daf17a4fac0dbe9ee02fbc164825816b}{%
+           family={Menallo},
+           familyi={M\bibinitperiod},
+           given={Giorgio},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82af587fb5f9f1137ba18df8dd41acff}{%
+           family={Mazzola},
+           familyi={M\bibinitperiod},
+           given={Antonino},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49ae943249e63fd0f64f324a1292f61c}{%
+           family={D'Accardi},
+           familyi={D\bibinitperiod},
+           given={Flavio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=453d201255b0ec43decdab1d31bbd254}{%
+           family={Grunberg},
+           familyi={G\bibinitperiod},
+           given={Tamir},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2992cd3316a0bef40391dbbe9cbffce7}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Xinzhu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c61624f4b99f39ca26bf4a3e95707901}{%
+           family={Pilato},
+           familyi={P\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9350a6d391ddc04aea4b42b4cccc054b}{%
+           family={Kameneva},
+           familyi={K\bibinitperiod},
+           given={Marina\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23f28433727d9e5c69de3c7c4d0467c4}{%
+           family={Badhwar},
+           familyi={B\bibinitperiod},
+           given={Vinay},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0a283472b51a11781d394f5cf7e05f6}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a77504397b164ab8a006cee2b77432f3}
+      \strng{fullhash}{3efcfb14fb2ac317331ab66f07121bb3}
+      \strng{fullhashraw}{3efcfb14fb2ac317331ab66f07121bb3}
+      \strng{bibnamehash}{3efcfb14fb2ac317331ab66f07121bb3}
+      \strng{authorbibnamehash}{3efcfb14fb2ac317331ab66f07121bb3}
+      \strng{authornamehash}{a77504397b164ab8a006cee2b77432f3}
+      \strng{authorfullhash}{3efcfb14fb2ac317331ab66f07121bb3}
+      \strng{authorfullhashraw}{3efcfb14fb2ac317331ab66f07121bb3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Valvular heart disease is currently treated with mechanical valves, which benefit from longevity, but are burdened by chronic anticoagulation therapy, or with bioprosthetic valves, which have reduced thromboembolic risk, but limited durability. Tissue engineered heart valves have been proposed to resolve these issues by implanting a scaffold that is replaced by endogenous growth, leaving autologous, functional leaflets that would putatively eliminate the need for anticoagulation and avoid calcification. Despite the diversity in fabrication strategies and encouraging results in large animal models, control over engineered valve structure-function remains at best partial. This study aimed to overcome these limitations by introducing double component deposition (DCD), an electrodeposition technique that employs multi-phase electrodes to dictate valve macro and microstructure and resultant function. Results in this report demonstrate the capacity of the DCD method to simultaneously control scaffold macro-scale morphology, mechanics and microstructure while producing fully assembled stent-less multi-leaflet valves composed of microscopic fibers. DCD engineered valve characterization included: leaflet thickness, biaxial properties, bending properties, and quantitative structural analysis of multi-photon and scanning electron micrographs. Quasi-static ex-vivo valve coaptation testing and dynamic organ level functional assessment in a pressure pulse duplicating device demonstrated appropriate acute valve functionality.}
+      \field{day}{1}
+      \field{issn}{0142-9612}
+      \field{journaltitle}{Biomaterials}
+      \field{month}{1}
+      \field{shortjournal}{Biomaterials}
+      \field{shorttitle}{Heart Valve Scaffold Fabrication}
+      \field{title}{Heart Valve Scaffold Fabrication: {{Bioinspired}} Control of Macro-Scale Morphology, Mechanics and Micro-Structure}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{150}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{25\bibrangedash 37}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.biomaterials.2017.10.011
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\O S C A R\\Zotero\\storage\\6WF63J5W\\D'Amore et al. - 2018 - Heart valve scaffold fabrication Bioinspired cont.pdf;C\:\\Users\\O S C A R\\Zotero\\storage\\C477YFXH\\S0142961217306397.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0142961217306397
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0142961217306397
+      \endverb
+      \keyw{Aortic,Bending mechanics,Biaxial mechanics,Electrodeposition,Electrospinning,Mitral,Pulmonary heart valve structure,Tissue engineered heart valve,Tricuspid}
+    \endentry
+    \entry{filovaTissueengineeredHeartValves2009}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d9d5efc1c866c0c3a1b80fb304af2c89}{%
+           family={Filová},
+           familyi={F\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0d96355f3a68c1c1226a6206c22e7c0}{%
+           family={Straka},
+           familyi={S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b35fc113d0cec23c79c786aebe4c350a}{%
+           family={Miřejovský},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0eb1eed90e1e1aaf52c80dc36ff2c615}{%
+           family={Mašín},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2a7a583d5506fd905e6adea676c287b}{%
+           family={Bačáková},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20327b09edc7f90d3a4102d7b6b6e4af}
+      \strng{fullhash}{66e237278530f67925a4abe9a644201e}
+      \strng{fullhashraw}{66e237278530f67925a4abe9a644201e}
+      \strng{bibnamehash}{66e237278530f67925a4abe9a644201e}
+      \strng{authorbibnamehash}{66e237278530f67925a4abe9a644201e}
+      \strng{authornamehash}{20327b09edc7f90d3a4102d7b6b6e4af}
+      \strng{authorfullhash}{66e237278530f67925a4abe9a644201e}
+      \strng{authorfullhashraw}{66e237278530f67925a4abe9a644201e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Currently-used mechanical and biological heart valve prostheses have several disadvantages. Mechanical prostheses, based on carbon, metallic and polymeric components, require permanent anticoagulation treatment, and their usage often leads to adverse reactions, e.g. thromboembolic complications and endocarditis. Xenogenous and allogenous biological prostheses are associated with immune reaction, thrombosis and degeneration, and thus they have a high rate of reoperation. Biological prostheses of autologous origin, such as pulmonary autografts, often burden the patient with a complicated surgery and the risk of reoperation. Therefore, efforts are being made to prepare bioartificial heart valves with an autologous biological component by methods of tissue engineering. They should be biocompatible, durable, endowed with appropriate mechanical properties and able to grow with a child. For this purpose, scaffolds composed of synthetic materials, such as poly(lactic acid), poly(caprolactone), poly(4-hydroxybutyrate), hydrogels or natural polymers, e.g. collagen, elastin, fibrin or hyaluronic acid, have been seeded with autologous differentiated, progenitor or stem cells. Promising results have been obtained with nanostructured scaffolds, and also with cultivation in special dynamic bioreactors prior to implantation of the bioartificial grafts into an animal organism.}
+      \field{eprinttype}{pmid}
+      \field{issn}{0862-8408}
+      \field{journaltitle}{Physiological Research}
+      \field{langid}{english}
+      \field{shortjournal}{Physiol Res}
+      \field{title}{Tissue-Engineered Heart Valves}
+      \field{volume}{58 Suppl 2}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{S141\bibrangedash S158}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.33549/physiolres.931919
+      \endverb
+      \verb{eprint}
+      \verb 20131932
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\HVCB94D9\Filová et al. - 2009 - Tissue-engineered heart valves.pdf
+      \endverb
+      \keyw{Animals,Biocompatible Materials,Bioprosthesis,Heart Valve Prosthesis,Heart Valve Prosthesis Implantation,Humans,Prosthesis Design,Tissue Culture Techniques,Tissue Engineering}
+    \endentry
+    \entry{fletcherCardiacTransplantsArtificial1983}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5f8e86342e24c1a426561346fec8fbbc}{%
+           family={Fletcher},
+           familyi={F\bibinitperiod},
+           given={J\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Heart Association}%
+      }
+      \strng{namehash}{5f8e86342e24c1a426561346fec8fbbc}
+      \strng{fullhash}{5f8e86342e24c1a426561346fec8fbbc}
+      \strng{fullhashraw}{5f8e86342e24c1a426561346fec8fbbc}
+      \strng{bibnamehash}{5f8e86342e24c1a426561346fec8fbbc}
+      \strng{authorbibnamehash}{5f8e86342e24c1a426561346fec8fbbc}
+      \strng{authornamehash}{5f8e86342e24c1a426561346fec8fbbc}
+      \strng{authorfullhash}{5f8e86342e24c1a426561346fec8fbbc}
+      \strng{authorfullhashraw}{5f8e86342e24c1a426561346fec8fbbc}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Circulation}
+      \field{month}{12}
+      \field{number}{6}
+      \field{shorttitle}{Cardiac Transplants and the Artificial Heart}
+      \field{title}{Cardiac Transplants and the Artificial Heart: Ethical Considerations.}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{68}
+      \field{year}{1983}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1339\bibrangedash 1343}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1161/01.CIR.68.6.1339
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\2B2F6RTK\Fletcher - 1983 - Cardiac transplants and the artificial heart ethi.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ahajournals.org/doi/10.1161/01.CIR.68.6.1339
+      \endverb
+      \verb{url}
+      \verb https://www.ahajournals.org/doi/10.1161/01.CIR.68.6.1339
+      \endverb
+      \keyw{Health Care and Public Health}
+    \endentry
+    \entry{fraterARTIFICIALHEARTVALVES1962}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=86639d1cf2f3bb35a02c2718a59521ed}{%
+           family={Frater},
+           familyi={F\bibinitperiod},
+           given={R.\bibnamedelimi W.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{86639d1cf2f3bb35a02c2718a59521ed}
+      \strng{fullhash}{86639d1cf2f3bb35a02c2718a59521ed}
+      \strng{fullhashraw}{86639d1cf2f3bb35a02c2718a59521ed}
+      \strng{bibnamehash}{86639d1cf2f3bb35a02c2718a59521ed}
+      \strng{authorbibnamehash}{86639d1cf2f3bb35a02c2718a59521ed}
+      \strng{authornamehash}{86639d1cf2f3bb35a02c2718a59521ed}
+      \strng{authorfullhash}{86639d1cf2f3bb35a02c2718a59521ed}
+      \strng{authorfullhashraw}{86639d1cf2f3bb35a02c2718a59521ed}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0140-6736}
+      \field{journaltitle}{The Lancet}
+      \field{month}{12}
+      \field{number}{7266}
+      \field{series}{Originally Published as {{Volume}} 2, {{Issue}} 7266}
+      \field{shortjournal}{The Lancet}
+      \field{title}{{{ARTIFICIAL HEART VALVES}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{280}
+      \field{year}{1962}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1171}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(62)90938-8
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\FQLATXYD\S0140673662909388.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0140673662909388
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0140673662909388
+      \endverb
+    \endentry
+    \entry{galesTranscatheterValveReplacement2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1ed67ccbc810e124b3876eb78a820868}{%
+           family={Gales},
+           familyi={G\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6496ce1870cbe0e9808a12fa8bf668a5}{%
+           family={Krasuski},
+           familyi={K\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ba1fb24f034bf86df25a0e57172cd97}{%
+           family={Fleming},
+           familyi={F\bibinitperiod},
+           given={Gregory\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{67d699c525e8733dc8098b7ad4c0a988}
+      \strng{fullhash}{94e278ea635b642d25712356326a9ff8}
+      \strng{fullhashraw}{94e278ea635b642d25712356326a9ff8}
+      \strng{bibnamehash}{94e278ea635b642d25712356326a9ff8}
+      \strng{authorbibnamehash}{94e278ea635b642d25712356326a9ff8}
+      \strng{authornamehash}{67d699c525e8733dc8098b7ad4c0a988}
+      \strng{authorfullhash}{94e278ea635b642d25712356326a9ff8}
+      \strng{authorfullhashraw}{94e278ea635b642d25712356326a9ff8}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pulmonary and/or tricuspid valve dysfunction is common among individuals with congenital heart disease, and surgical intervention often carries prohibitive risks. Transcatheter valve replacement (TVR) of the right-sided cardiac valves has become a viable treatment option over the past two decades, while continued technological development aims to broaden its applicability to an even larger portion of those with repaired congenital heart disease. To date, two transcatheter valves have been approved for use in patients with dysfunctional right ventricular to pulmonary artery conduits as well as those with failing pulmonic bioprosthetic valves, and are also used off-label in the “native” RVOT and within surgically repaired/replaced but failing tricuspid valves. TVR has demonstrated comparable safety and short-term outcomes to that of surgical valve replacement. This article aims to review current available devices, focusing on their safety, efficacy and on and off label usage, while briefly describing some of the emerging devices and novel procedural techniques that will likely lead to significant expansion of transcatheter treatment of right sided valve disease in the future.}
+      \field{day}{1}
+      \field{issn}{0033-0620}
+      \field{journaltitle}{Progress in Cardiovascular Diseases}
+      \field{month}{9}
+      \field{number}{3}
+      \field{series}{Update on {{Adult Congenital Heart Disease}}}
+      \field{shortjournal}{Progress in Cardiovascular Diseases}
+      \field{title}{Transcatheter {{Valve Replacement}} for {{Right-sided Valve Disease}} in {{Congenital Heart Patients}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{61}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{347\bibrangedash 359}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.pcad.2018.09.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0033062018301865
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0033062018301865
+      \endverb
+      \keyw{Adult congenital heart disease,Transcatheter valve replacement,Valvular heart disease}
+    \endentry
+    \entry{ghanbariAnticalcificationPotentialSilsesquioxane2010}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=966a16d020cfe127817c8faa7a3b4b44}{%
+           family={Ghanbari},
+           familyi={G\bibinitperiod},
+           given={Hossein},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=352559e1680b85e3daace945bfab099b}{%
+           family={Kidane},
+           familyi={K\bibinitperiod},
+           given={Asmeret\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=331721e54f9b50a84b33fc71869f1425}{%
+           family={Burriesci},
+           familyi={B\bibinitperiod},
+           given={Gaetano},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=116b5b6a7f34d6e51beb2483a3de4cbd}{%
+           family={Ramesh},
+           familyi={R\bibinitperiod},
+           given={Bala},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f4b8be9b62e377670108ea7402c14e6}{%
+           family={Darbyshire},
+           familyi={D\bibinitperiod},
+           given={Arnold},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15f9da08df85a991ac196218a1fc51d6}{%
+           family={Seifalian},
+           familyi={S\bibinitperiod},
+           given={Alexander\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bbae2520bedba873693438faffa7067f}
+      \strng{fullhash}{0af0422a94d8fc8ae070dfa633fdc060}
+      \strng{fullhashraw}{0af0422a94d8fc8ae070dfa633fdc060}
+      \strng{bibnamehash}{0af0422a94d8fc8ae070dfa633fdc060}
+      \strng{authorbibnamehash}{0af0422a94d8fc8ae070dfa633fdc060}
+      \strng{authornamehash}{bbae2520bedba873693438faffa7067f}
+      \strng{authorfullhash}{0af0422a94d8fc8ae070dfa633fdc060}
+      \strng{authorfullhashraw}{0af0422a94d8fc8ae070dfa633fdc060}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Calcification currently represents a major cause of failure of biological tissue heart valves. It is a complex phenomenon influenced by a number of biochemical and mechanical factors. Recent advances in material science offer new polymers with improved properties, potentially suitable for synthetic leaflets heart valves manufacturing. In this study, the calcification-resistance efficacy and mechanical and surface properties of a new nanocomposite polymeric material (polyhedral oligomeric silsesquioxane–poly(carbonate-urea)urethane; POSS–PCU) which has been developed by our group are assessed by means of in vitro testing. In particular, thin sheets of nanocomposite, glutaraldehyde-fixed bovine pericardium (BP) and polyurethane (PU) were exposed to a calcium solution into a specially designed in vitro accelerated physiological pulsatile pressure system for a period of 31days and a total of 4×107 cycles. The samples were investigated for signs of calcification after exposure to calcium solution by means of X-ray, microscopic and chemical inspections. Mechanical and surface properties were also studied using stress–strain behaviour and surface morphology and hydrophobicity. Comparison shows that, in the experimental conditions, the level of calcification for the nanocomposite is considerably lower than for the fixed BP (p=0.008) and PU samples (p=0.015). Also, mechanical properties were unchanged in POSS–PCU, while there was a significant deterioration in PU samples (p{$<$}0.05). Hydrophobicity was significantly reduced in both the POSS–PCU and PU samples (p{$<$}0.0001). However, the POSS–PCU nanocomposite remained more hydrophobic than the PU sample (p{$<$}0.0001). Less platelet adhered to the POSS–PCU compared to the PU (p{$<$}0.0001). These results indicate that the use of this nanocomposite in synthetic leaflets heart valves may lead to potential advantages in terms of long-term performances and durability.}
+      \field{day}{1}
+      \field{issn}{1742-7061}
+      \field{journaltitle}{Acta Biomaterialia}
+      \field{month}{11}
+      \field{number}{11}
+      \field{shortjournal}{Acta Biomaterialia}
+      \field{shorttitle}{The Anti-Calcification Potential of a Silsesquioxane Nanocomposite Polymer under in Vitro Conditions}
+      \field{title}{The Anti-Calcification Potential of a Silsesquioxane Nanocomposite Polymer under in Vitro Conditions: {{Potential}} Material for Synthetic Leaflet Heart Valve}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{6}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4249\bibrangedash 4260}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.actbio.2010.06.015
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1742706110002813
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1742706110002813
+      \endverb
+      \keyw{Artificial heart valve,Bioprostheses,Calcification,Nanocomposite,Polymer}
+    \endentry
+    \entry{grbicCompleteValvularHeart2012}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=1f9ded4e2e7e862dab3a159a87672be2}{%
+           family={Grbic},
+           familyi={G\bibinitperiod},
+           given={Sasa},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed3303c8fe6471173eb73e5841734770}{%
+           family={Ionasec},
+           familyi={I\bibinitperiod},
+           given={Razvan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00e867d5bd2e61028d61c6058035a6c1}{%
+           family={Vitanovski},
+           familyi={V\bibinitperiod},
+           given={Dime},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abd53ccf434ca060fd8dcb26d3967cef}{%
+           family={Voigt},
+           familyi={V\bibinitperiod},
+           given={Ingmar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a84866b4900b3fe9a714de1f78dbf282}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77447fe4dce50348878554781b5164d7}{%
+           family={Georgescu},
+           familyi={G\bibinitperiod},
+           given={Bogdan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c107bbd317cd780c2aa7006dbe61d83f}{%
+           family={Navab},
+           familyi={N\bibinitperiod},
+           given={Nassir},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00467887280b83151c56567803878174}{%
+           family={Comaniciu},
+           familyi={C\bibinitperiod},
+           given={Dorin},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{86676d469814cbdf200f22a814baf7c1}
+      \strng{fullhash}{dd8a4423beff8c6ac76d73850431d149}
+      \strng{fullhashraw}{dd8a4423beff8c6ac76d73850431d149}
+      \strng{bibnamehash}{dd8a4423beff8c6ac76d73850431d149}
+      \strng{authorbibnamehash}{dd8a4423beff8c6ac76d73850431d149}
+      \strng{authornamehash}{86676d469814cbdf200f22a814baf7c1}
+      \strng{authorfullhash}{dd8a4423beff8c6ac76d73850431d149}
+      \strng{authorfullhashraw}{dd8a4423beff8c6ac76d73850431d149}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The cardiac valvular apparatus, composed of the aortic, mitral, pulmonary and tricuspid valves, is an essential part of the anatomical, functional and hemodynamic characteristics of the heart and the cardiovascular system as a whole. Valvular heart diseases often involve multiple dysfunctions and require joint assessment and therapy of the valves. In this paper, we propose a complete and modular patient-specific model of the cardiac valvular apparatus estimated from 4D cardiac CT data. A new constrained Multi-linear Shape Model (cMSM), conditioned by anatomical measurements, is introduced to represent the complex spatio-temporal variation of the heart valves. The cMSM is exploited within a learning-based framework to efficiently estimate the patient-specific valve parameters from cine images. Experiments on 64 4D cardiac CT studies demonstrate the performance and clinical potential of the proposed method. Our method enambles automatic quantitative evaluation of the complete valvular apparatus based on non-invasive imaging techniques. In conjunction with existent patient-specific chamber models, the presented valvular model enables personalized computation modeling and realistic simulation of the entire cardiac system.}
+      \field{day}{1}
+      \field{issn}{1361-8415}
+      \field{journaltitle}{Medical Image Analysis}
+      \field{month}{7}
+      \field{number}{5}
+      \field{shortjournal}{Medical Image Analysis}
+      \field{title}{Complete Valvular Heart Apparatus Model from {{4D}} Cardiac {{CT}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{16}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1003\bibrangedash 1014}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.media.2012.02.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S136184151200031X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S136184151200031X
+      \endverb
+      \keyw{Cardiac modeling,Heart valves modeling,Multilinear shape models}
+    \endentry
+    \entry{hellComputedTomographyImaging2021}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=47d34874e0eb4f4619793e7fc1c33a3d}{%
+           family={Hell},
+           familyi={H\bibinitperiod},
+           given={Michaela\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e36ab26d17d0e3f0770985cf12f160ba}{%
+           family={Emrich},
+           familyi={E\bibinitperiod},
+           given={Tilman},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cad654f35962797e6e962eabf5668f9c}{%
+           family={Kreidel},
+           familyi={K\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e2bb8ac3ed1ba71a0ff6cc8aaaa55b6}{%
+           family={Kreitner},
+           familyi={K\bibinitperiod},
+           given={Karl-Friedrich},
+           giveni={K\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c22c5d88d84706d13e7f3ed476d510c2}{%
+           family={Schoepf},
+           familyi={S\bibinitperiod},
+           given={U\bibnamedelima Joseph},
+           giveni={U\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d989bc47502ecb201707ce41e822631}{%
+           family={Münzel},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,useprefix=true,hash=fd11c64460ec4d164b804f543fd98477}{%
+           family={Bardeleben},
+           familyi={B\bibinitperiod},
+           given={Ralph\bibnamedelima Stephan},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0,
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{38451761f460fc22208c8eae509ef0fa}
+      \strng{fullhash}{36b013d61183a2b2ea050712d15dcb31}
+      \strng{fullhashraw}{36b013d61183a2b2ea050712d15dcb31}
+      \strng{bibnamehash}{36b013d61183a2b2ea050712d15dcb31}
+      \strng{authorbibnamehash}{36b013d61183a2b2ea050712d15dcb31}
+      \strng{authornamehash}{38451761f460fc22208c8eae509ef0fa}
+      \strng{authorfullhash}{36b013d61183a2b2ea050712d15dcb31}
+      \strng{authorfullhashraw}{36b013d61183a2b2ea050712d15dcb31}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Transcatheter tricuspid valve therapies are an emerging field in structural heart interventions due to the rising number of patients with severe tricuspid regurgitation and the high risk for surgical treatment. Computed tomography (CT) allows exact measurements of the annular plane, evaluation of adjacent structures, assessment of the access route, and can also be used to identify optimal fluoroscopic projection planes to enhance periprocedural imaging. This review provides an overview of current transcatheter tricuspid valve repair and replacement therapies and to what extent CT can support these interventions.}
+      \field{day}{1}
+      \field{issn}{2047-2404}
+      \field{journaltitle}{European Heart Journal - Cardiovascular Imaging}
+      \field{month}{6}
+      \field{number}{6}
+      \field{shortjournal}{European Heart Journal - Cardiovascular Imaging}
+      \field{title}{Computed Tomography Imaging Needs for Novel Transcatheter Tricuspid Valve Repair and Replacement Therapies}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{601\bibrangedash 610}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1093/ehjci/jeaa308
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\7543DC9D\Hell et al. - 2021 - Computed tomography imaging needs for novel transc.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/ehjci/jeaa308
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/ehjci/jeaa308
+      \endverb
+    \endentry
+    \entry{ionasecPatientSpecificModelingQuantification2010}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=adda355eb852362718811dee1bcb2639}{%
+           family={Ionasec},
+           familyi={I\bibinitperiod},
+           given={Razvan\bibnamedelima Ioan},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abd53ccf434ca060fd8dcb26d3967cef}{%
+           family={Voigt},
+           familyi={V\bibinitperiod},
+           given={Ingmar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77447fe4dce50348878554781b5164d7}{%
+           family={Georgescu},
+           familyi={G\bibinitperiod},
+           given={Bogdan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a84866b4900b3fe9a714de1f78dbf282}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f2da89e3e73942b07706425d6f4c46d}{%
+           family={Houle},
+           familyi={H\bibinitperiod},
+           given={Helene},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c36a209fcfcdae4e4377a4b0bbb55d7e}{%
+           family={Vega-Higuera},
+           familyi={V\bibinithyphendelim H\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c107bbd317cd780c2aa7006dbe61d83f}{%
+           family={Navab},
+           familyi={N\bibinitperiod},
+           given={Nassir},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00467887280b83151c56567803878174}{%
+           family={Comaniciu},
+           familyi={C\bibinitperiod},
+           given={Dorin},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b21d481a8764c6f0f20679482bbb2edd}
+      \strng{fullhash}{125d6b334125602f251fb2ea2b4c6718}
+      \strng{fullhashraw}{125d6b334125602f251fb2ea2b4c6718}
+      \strng{bibnamehash}{125d6b334125602f251fb2ea2b4c6718}
+      \strng{authorbibnamehash}{125d6b334125602f251fb2ea2b4c6718}
+      \strng{authornamehash}{b21d481a8764c6f0f20679482bbb2edd}
+      \strng{authorfullhash}{125d6b334125602f251fb2ea2b4c6718}
+      \strng{authorfullhashraw}{125d6b334125602f251fb2ea2b4c6718}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As decisions in cardiology increasingly rely on noninvasive methods, fast and precise image processing tools have become a crucial component of the analysis workflow. To the best of our knowledge, we propose the first automatic system for patient-specific modeling and quantification of the left heart valves, which operates on cardiac computed tomography (CT) and transesophageal echocardiogram (TEE) data. Robust algorithms, based on recent advances in discriminative learning, are used to estimate patient-specific parameters from sequences of volumes covering an entire cardiac cycle. A novel physiological model of the aortic and mitral valves is introduced, which captures complex morphologic, dynamic, and pathologic variations. This holistic representation is hierarchically defined on three abstraction levels: global location and rigid motion model, nonrigid landmark motion model, and comprehensive aortic-mitral model. First we compute the rough location and cardiac motion applying marginal space learning. The rapid and complex motion of the valves, represented by anatomical landmarks, is estimated using a novel trajectory spectrum learning algorithm. The obtained landmark model guides the fitting of the full physiological valve model, which is locally refined through learned boundary detectors. Measurements efficiently computed from the aortic-mitral representation support an effective morphological and functional clinical evaluation. Extensive experiments on a heterogeneous data set, cumulated to 1516 TEE volumes from 65 4-D TEE sequences and 690 cardiac CT volumes from 69 4-D CT sequences, demonstrated a speed of 4.8 seconds per volume and average accuracy of 1.45 mm with respect to expert defined ground-truth. Additional clinical validations prove the quantification precision to be in the range of inter-user variability. To the best of our knowledge this is the first time a patient-specific model of the aortic and mitral valves is automatically estimated from volumetric sequences.}
+      \field{eventtitle}{{{IEEE Transactions}} on {{Medical Imaging}}}
+      \field{issn}{1558-254X}
+      \field{journaltitle}{IEEE Transactions on Medical Imaging}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{Patient-{{Specific Modeling}} and {{Quantification}} of the {{Aortic}} and {{Mitral Valves From}} 4-{{D Cardiac CT}} and {{TEE}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{29}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1636\bibrangedash 1651}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1109/TMI.2010.2048756
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\K9NV66DI\Ionasec et al. - 2010 - Patient-Specific Modeling and Quantification of th.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/5458068
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/5458068
+      \endverb
+      \keyw{Biomedical imaging,Blood flow,Cardiac disease,Computed tomography,Data systems,Heart valve modeling,heart valve quantification,Heart valves,Medical services,Motion estimation,nonrigid motion estimation,patient-specific modeling,Permission,Surgery,trajectory spectrum learning}
+    \endentry
+    \entry{kidaneCurrentDevelopmentsFuture2009}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=352559e1680b85e3daace945bfab099b}{%
+           family={Kidane},
+           familyi={K\bibinitperiod},
+           given={Asmeret\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=331721e54f9b50a84b33fc71869f1425}{%
+           family={Burriesci},
+           familyi={B\bibinitperiod},
+           given={Gaetano},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0e4ee6ecfd4ba739fe72c4a60a27062}{%
+           family={Cornejo},
+           familyi={C\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0a755207b442fe4e4fcc37cf8f7f609}{%
+           family={Dooley},
+           familyi={D\bibinitperiod},
+           given={Audrey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f2fea5b2150a03dcbd5a9083790e3ac}{%
+           family={Sarkar},
+           familyi={S\bibinitperiod},
+           given={Sandip},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44e59c20cbd15e4c413257bebff200db}{%
+           family={Bonhoeffer},
+           familyi={B\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a735b32a1bc2a0fc356abb4793bf1c1}{%
+           family={Edirisinghe},
+           familyi={E\bibinitperiod},
+           given={Mohan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15f9da08df85a991ac196218a1fc51d6}{%
+           family={Seifalian},
+           familyi={S\bibinitperiod},
+           given={Alexander\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1b87eb5d70785165910882f17328de05}
+      \strng{fullhash}{3dc9ed54f2efc9eea8b03d08f6a43581}
+      \strng{fullhashraw}{3dc9ed54f2efc9eea8b03d08f6a43581}
+      \strng{bibnamehash}{3dc9ed54f2efc9eea8b03d08f6a43581}
+      \strng{authorbibnamehash}{3dc9ed54f2efc9eea8b03d08f6a43581}
+      \strng{authornamehash}{1b87eb5d70785165910882f17328de05}
+      \strng{authorfullhash}{3dc9ed54f2efc9eea8b03d08f6a43581}
+      \strng{authorfullhashraw}{3dc9ed54f2efc9eea8b03d08f6a43581}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Valve replacement is the most common surgical treatment in patients with advanced valvular heart disease. Mechanical and bio-prostheses have been the traditional heart valve replacements in these patients. However, currently the heart valves for replacement therapy are imperfect and subject patients to one or more ongoing risks, including thrombosis, limited durability, and need for re-operations due to the lack of growth in pediatric populations. Furthermore, they require an open heart surgery, which is risky for elderly and young children who are too weak or ill to undergo major surgery. This article reviews the current state of the art of heart valve replacements in light of their potential clinical applications. In recent years polymeric materials have been widely studied as potential prosthetic heart valve material being designed to overcome the clinical problems associated with both mechanical and bio-prosthetic valves. The review also addresses the advances in polymer materials, tissue engineering approaches, and the development of percutaneous valve replacement technology and discusses the future prospects in these fields. © 2008 Wiley Periodicals, Inc. J Biomed Mater Res Part B: Appl Biomater, 2009}
+      \field{issn}{1552-4981}
+      \field{journaltitle}{Journal of Biomedical Materials Research Part B: Applied Biomaterials}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Current Developments and Future Prospects for Heart Valve Replacement Therapy}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{88B}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{290\bibrangedash 303}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1002/jbm.b.31151
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\O S C A R\\Zotero\\storage\\25QKVB8M\\Kidane et al. - 2009 - Current developments and future prospects for hear.pdf;C\:\\Users\\O S C A R\\Zotero\\storage\\46J79BQT\\jbm.b.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm.b.31151
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm.b.31151
+      \endverb
+      \keyw{heart valve replacement,percutaneous heart valves,polymers,tissue engineering}
+    \endentry
+    \entry{laurenceInvestigationRegionalVariations2019}{article}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=fcf9cc743ed6d7e20e9673addeb981be}{%
+           family={Laurence},
+           familyi={L\bibinitperiod},
+           given={Devin},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83eb48aa813170b4c38564f1a3777847}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Colton},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39c95db75cd3af927991dc4d245690bd}{%
+           family={Jett},
+           familyi={J\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=482ed5317bb3eb48c70f2215e7f7d235}{%
+           family={Johns},
+           familyi={J\bibinitperiod},
+           given={Cortland},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a165679cd304664b1cbf6785f38732b1}{%
+           family={Echols},
+           familyi={E\bibinitperiod},
+           given={Allyson},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d24d908b99978ab48e17804f92e6a10}{%
+           family={Baumwart},
+           familyi={B\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82c6fdf1c2743e5d2c5729bbd0bd01c8}{%
+           family={Towner},
+           familyi={T\bibinitperiod},
+           given={Rheal},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bcf04ea85e2546d820b924a803502f5e}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=645a63f798ecc0945e535b78144daa6e}{%
+           family={Bajona},
+           familyi={B\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2101a0f6a72a2fb022cd3e2d45461e1}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56abefd0042ab60141a4c92ffdabf867}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Chung-Hao},
+           giveni={C\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{75d3aea42f9f74f623f7f768d7f6563f}
+      \strng{fullhash}{92de9efda7d3d1d0d80e483fee946d8a}
+      \strng{fullhashraw}{92de9efda7d3d1d0d80e483fee946d8a}
+      \strng{bibnamehash}{92de9efda7d3d1d0d80e483fee946d8a}
+      \strng{authorbibnamehash}{92de9efda7d3d1d0d80e483fee946d8a}
+      \strng{authornamehash}{75d3aea42f9f74f623f7f768d7f6563f}
+      \strng{authorfullhash}{92de9efda7d3d1d0d80e483fee946d8a}
+      \strng{authorfullhashraw}{92de9efda7d3d1d0d80e483fee946d8a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The facilitation of proper blood flow through the heart depends on proper function of heart valve components, and alterations to any component can lead to heart disease or failure. Comprehension of these valvular diseases is reliant on thorough characterization of healthy heart valve structures for use in computational models. Previously, computational models have treated these leaflet structures as a structurally and mechanically homogenous material, which may not be an accurate description of leaflet mechanical response. In this study, we aimed to characterize the mechanics of the heart valve leaflet as a structurally heterogenous material. Specifically, porcine mitral valve and tricuspid valve anterior leaflets were sectioned into six regions and biaxial mechanical tests with various loading ratios and stress-relaxation test were performed on each regional tissue sample. Three main findings from this study were summarized as follows: (i) the central regions of the leaflet had a more anisotropic nature than edge regions, (ii) the mitral valve anterior leaflet was more extensible in regions closer to the annulus, and (iii) there was variance in the stress-relaxation behavior among all six regions, with mitral valve leaflet tissue regions exhibiting a greater decay than the tricuspid valve regions. This study presents a novel investigation of the regional variations in the heart valve biomechanics that has not been comprehensively examined. Our results thus allow for a refinement of computational models for more accurately predicting diseased or surgically-intervened condition, where tissue heterogeneity plays an essential role in the heart valve function.}
+      \field{day}{23}
+      \field{issn}{0021-9290}
+      \field{journaltitle}{Journal of Biomechanics}
+      \field{month}{1}
+      \field{shortjournal}{Journal of Biomechanics}
+      \field{title}{An Investigation of Regional Variations in the Biaxial Mechanical Properties and Stress Relaxation Behaviors of Porcine Atrioventricular Heart Valve Leaflets}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{83}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{16\bibrangedash 27}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.jbiomech.2018.11.015
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\D3WVBDQT\Laurence et al. - 2019 - An investigation of regional variations in the bia.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0021929018308509
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0021929018308509
+      \endverb
+      \keyw{Biaxial mechanical testing,Heart valve biomechanics,Regional mechanical properties,The mitral valve,The tricuspid valve}
+    \endentry
+    \entry{leeFluidStructureInteractionModels2020}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=97122809cae13cee1f697262e53a0373}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jae\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4cd548d702fcdf915477c32aa57c491}{%
+           family={Rygg},
+           familyi={R\bibinitperiod},
+           given={Alex\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=724edebbc13aaef138595596e3469404}{%
+           family={Kolahdouz},
+           familyi={K\bibinitperiod},
+           given={Ebrahim\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b683de378be87dcc731d471ccd31ee34}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff4d98756b8fe2dbf44a71b469f26b10}{%
+           family={Retta},
+           familyi={R\bibinitperiod},
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8cef170fbbd34e0ac707cc133ec4cb22}{%
+           family={Duraiswamy},
+           familyi={D\bibinitperiod},
+           given={Nandini},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2e1cf14ceccc2a620dce57620f6e3b5}{%
+           family={Scotten},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima N.},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed14140f3cf830214f9ae76cc4f99d49}{%
+           family={Craven},
+           familyi={C\bibinitperiod},
+           given={Brent\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c4e46416197cc3661885bf06294f0e5}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={Boyce\bibnamedelima E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c836eac80eeb7e5b03fab38ea8c541c}
+      \strng{fullhash}{d88f76c2571c332fbb16e456147839b7}
+      \strng{fullhashraw}{d88f76c2571c332fbb16e456147839b7}
+      \strng{bibnamehash}{d88f76c2571c332fbb16e456147839b7}
+      \strng{authorbibnamehash}{d88f76c2571c332fbb16e456147839b7}
+      \strng{authornamehash}{9c836eac80eeb7e5b03fab38ea8c541c}
+      \strng{authorfullhash}{d88f76c2571c332fbb16e456147839b7}
+      \strng{authorfullhashraw}{d88f76c2571c332fbb16e456147839b7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Computer modeling and simulation is a powerful tool for assessing the performance of medical devices such as bioprosthetic heart valves (BHVs) that promises to accelerate device design and regulation. This study describes work to develop dynamic computer models of BHVs in the aortic test section of an experimental pulse-duplicator platform that is used in academia, industry, and regulatory agencies to assess BHV performance. These computational models are based on a hyperelastic finite element extension of the immersed boundary method for fluid-structure interaction (FSI). We focus on porcine tissue and bovine pericardial BHVs, which are commonly used in surgical valve replacement. We compare our numerical simulations to experimental data from two similar pulse duplicators, including a commercial ViVitro system and a custom platform related to the ViVitro pulse duplicator. Excellent agreement is demonstrated between the computational and experimental results for bulk flow rates, pressures, valve open areas, and the timing of valve opening and closure in conditions commonly used to assess BHV performance. In addition, reasonable agreement is demonstrated for quantitative measures of leaflet kinematics under these same conditions. This work represents a step towards the experimental validation of this FSI modeling platform for evaluating BHVs.}
+      \field{eprinttype}{pmid}
+      \field{issn}{1573-9686}
+      \field{journaltitle}{Annals of Biomedical Engineering}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{5}
+      \field{shortjournal}{Ann Biomed Eng}
+      \field{title}{Fluid-{{Structure Interaction Models}} of {{Bioprosthetic Heart Valve Dynamics}} in an {{Experimental Pulse Duplicator}}}
+      \field{volume}{48}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{1475\bibrangedash 1490}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s10439-020-02466-4
+      \endverb
+      \verb{eprint}
+      \verb 32034607
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\FJ93FQZ2\Lee et al. - 2020 - Fluid-Structure Interaction Models of Bioprostheti.pdf
+      \endverb
+      \keyw{Animals,Bioprosthesis,Bovine pericardial valve,Cattle,Finite element method,Heart Rate,Heart Valve Prosthesis,Heart Valves,Immersed boundary method,Models Cardiovascular,Porcine aortic valve,Swine}
+    \endentry
+    \entry{leopaldiVitroHemodynamicsValve2012}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=36b4602d025f23a8d95f02f21c230c33}{%
+           family={Leopaldi},
+           familyi={L\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fec005287ee8311eb5ef769b7d6d2ebb}{%
+           family={Vismara},
+           familyi={V\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea28cadc62e97f5b7cf0e098b91ef104}{%
+           family={Lemma},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4086e20d0af5954217cf46a821722cc}{%
+           family={Valerio},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2005f9a5c4c15a0c206f315e32a7ab80}{%
+           family={Cervo},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b146a73209e88a1bffacdaac209e304}{%
+           family={Mangini},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39fc6eea2d45dfd297730fc0a16d1311}{%
+           family={Contino},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b76fe22a286615eed7b5f401584bcec}{%
+           family={Redaelli},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c910de5e2d46bcec28923be332313ad2}{%
+           family={Antona},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fe054a9ca5258a8efb044156c7510f6}{%
+           family={Fiore},
+           familyi={F\bibinitperiod},
+           given={G.\bibnamedelimi B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fd7d97037457baa26e824eef968e6126}
+      \strng{fullhash}{8fd3bc20103fbf4d031f44d459ff8dad}
+      \strng{fullhashraw}{8fd3bc20103fbf4d031f44d459ff8dad}
+      \strng{bibnamehash}{8fd3bc20103fbf4d031f44d459ff8dad}
+      \strng{authorbibnamehash}{8fd3bc20103fbf4d031f44d459ff8dad}
+      \strng{authornamehash}{fd7d97037457baa26e824eef968e6126}
+      \strng{authorfullhash}{8fd3bc20103fbf4d031f44d459ff8dad}
+      \strng{authorfullhashraw}{8fd3bc20103fbf4d031f44d459ff8dad}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Due to their high complexity, surgical approaches to valve repair may benefit from the use of in vitro simulators both for training and for the investigation of those measures which can lead to better clinical results. In vitro tests are intrinsically more effective when all the anatomical substructures of the valvular complexes are preserved. In this work, a mock apparatus able to house an entire explanted porcine heart and subject it to pulsatile fluid-dynamic conditions was developed, in order to enable the hemodynamic analysis of simulated surgical procedures and the imaging of the valvular structures. The mock loop's hydrodynamic design was based on an ad-hoc defined lumped-parameter model. The left ventricle of an entire swine heart was dynamically pressurized by an external computer-controlled pulse duplicator. The ascending aorta was connected to a hydraulic circuit which simulated the input impedance of the systemic circulation; a reservoir passively filled the left atrium. Accesses for endoscopic imaging were located in the apex of the left ventricle and in the aortic root. The experimental pressure and flow tracings were comparable with the typical in vivo curves; a mean flow of 3.5±0.1lpm and a mean arterial pressure of 101±2mmHg was obtained. High-quality echographic and endoscopic video recordings demonstrated the system's excellent potential in the observation of the cardiac structures dynamics. The proposed mock loop represents a suitable in vitro system for the testing of minimally-invasive cardiovascular devices and surgical procedures for heart valve repair.}
+      \field{day}{30}
+      \field{issn}{0021-9290}
+      \field{journaltitle}{Journal of Biomechanics}
+      \field{month}{4}
+      \field{number}{7}
+      \field{shortjournal}{Journal of Biomechanics}
+      \field{title}{\emph{In Vitro} Hemodynamics and Valve Imaging in Passive Beating Hearts}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{45}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1133\bibrangedash 1139}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.jbiomech.2012.02.007
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\LCHQFIW8\S0021929012001078.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0021929012001078
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0021929012001078
+      \endverb
+      \keyw{Heart valves,Hemodynamics,In vitro,Lumped parameter model,Valve imaging}
+    \endentry
+    \entry{mathurTexasTriValveReverseengineered2022}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=6fd6f1e45537ec6e4ce9ec45474ed9e8}{%
+           family={Mathur},
+           familyi={M\bibinitperiod},
+           given={Mrudang},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b647c82823a964d094be65162bdbab12}{%
+           family={Meador},
+           familyi={M\bibinitperiod},
+           given={William\bibnamedelima D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2148f94f157ead707fe726d757d6a193}{%
+           family={Malinowski},
+           familyi={M\bibinitperiod},
+           given={Marcin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e28ed83619080064eb3a09e050dff84}{%
+           family={Jazwiec},
+           familyi={J\bibinitperiod},
+           given={Tomasz},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea2f8f37d31becfb0f5bdee2bf1eda73}{%
+           family={Timek},
+           familyi={T\bibinitperiod},
+           given={Tomasz\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c544fe764aa12f0652d987193f2f87a2}{%
+           family={Rausch},
+           familyi={R\bibinitperiod},
+           given={Manuel\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c9e979e502d7ed86c0e44f23382bfce9}
+      \strng{fullhash}{bcefd5262992e6f6a27a32260e29f20b}
+      \strng{fullhashraw}{bcefd5262992e6f6a27a32260e29f20b}
+      \strng{bibnamehash}{bcefd5262992e6f6a27a32260e29f20b}
+      \strng{authorbibnamehash}{bcefd5262992e6f6a27a32260e29f20b}
+      \strng{authornamehash}{c9e979e502d7ed86c0e44f23382bfce9}
+      \strng{authorfullhash}{bcefd5262992e6f6a27a32260e29f20b}
+      \strng{authorfullhashraw}{bcefd5262992e6f6a27a32260e29f20b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Nearly 1.6 million Americans suffer from a leaking tricuspid heart valve. To make matters worse, current valve repair options are far from optimal leading to recurrence of leakage in up to 30\% of patients. We submit that a critical step toward improving outcomes is to better understand the “forgotten” valve. High-fidelity computer models may help in this endeavour. However, the existing models are limited by averaged or idealized geometries, material properties, and boundary conditions. In our current work, we overcome the limitations of existing models by (reverse) engineering the tricuspid valve from a beating human heart in an organ preservation system. The resulting finite-element model faithfully captures the kinematics and kinetics of the native tricuspid valve as validated against echocardiographic data and others’ previous work. To showcase the value of our model, we also use it to simulate disease-induced and repair-induced changes to valve geometry and mechanics. Specifically, we simulate and compare the effectiveness of tricuspid valve repair via surgical annuloplasty and via transcatheter edge-to-edge repair. Importantly, our model is openly available for others to use. Thus, our model will allow us and others to perform virtual experiments on the healthy, diseased, and repaired tricuspid valve to better understand the valve itself and to optimize tricuspid valve repair for better patient outcomes.}
+      \field{day}{1}
+      \field{issn}{1435-5663}
+      \field{journaltitle}{Engineering with Computers}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{Engineering with Computers}
+      \field{shorttitle}{Texas {{TriValve}} 1.0}
+      \field{title}{Texas {{TriValve}} 1.0 : A Reverse-Engineered, Open Model of the Human Tricuspid Valve}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{38}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3835\bibrangedash 3848}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s00366-022-01659-w
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\FEQ9FN6C\Mathur et al. - 2022 - Texas TriValve 1.0 a reverse-engineered, open mo.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00366-022-01659-w
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00366-022-01659-w
+      \endverb
+      \keyw{Annuloplasty,Precision medicine,Predictive simulation,Repair,Transcatheter}
+    \endentry
+    \entry{pokutta-paskalevaComparativeMechanicalMorphological2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1d4c4537b93d9aca47820c48d5862dc4}{%
+           family={Pokutta-Paskaleva},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Anastassia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8486e72611288cdd856c8f6f4196194}{%
+           family={Sulejmani},
+           familyi={S\bibinitperiod},
+           given={Fatiesa},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79ded9b00833b126400cc87cddddb10b}{%
+           family={DelRocini},
+           familyi={D\bibinitperiod},
+           given={Marissa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4f1db50ce07b8d5024ad00d3a26c9a5}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{82375e8d5ad3c7bc18ac4ba559ea31dd}
+      \strng{fullhash}{3b39bc00b5391145aff20f8eac107094}
+      \strng{fullhashraw}{3b39bc00b5391145aff20f8eac107094}
+      \strng{bibnamehash}{3b39bc00b5391145aff20f8eac107094}
+      \strng{authorbibnamehash}{3b39bc00b5391145aff20f8eac107094}
+      \strng{authornamehash}{82375e8d5ad3c7bc18ac4ba559ea31dd}
+      \strng{authorfullhash}{3b39bc00b5391145aff20f8eac107094}
+      \strng{authorfullhashraw}{3b39bc00b5391145aff20f8eac107094}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background Healthy function of tricuspid valve (TV) structures is essential to avoid tricuspid regurgitation (TR) and may significantly improve disease prognosis. Mitral valve (MV) structures have been extensively studied, but little is known about the TV and right-sided heart diseases. Therefore, clinical decisions and finite element (FE) simulations often rely heavily on MV data for TV applications, despite fundamentally different mechanical and physiological environments. Method/Results To bridge this gap, we performed a rigorous mechanical, morphological, and microstructural characterization of the MV and TV leaflets and chordae in a porcine model. Planar biaxial testing, uniaxial testing, second harmonic generation imaging and Verhoeff Van Gieson staining were performed. Morphological parameters, tissue moduli, extensibility, and anisotropy were quantified and compared. No major differences in leaflet mechanics or structure were found between TV and MV; chordal mechanics, morphology, and structure were found to compensate for anatomical and physiological loading differences between the valves. No differences in chordal mechanics were observed by insertion point within a leaflet; the septal tricuspid leaflet (STL) and posterior mitral leaflet (PML) did not have distinguishable strut chords, and the STL had the shortest chords. Within a valve, chords from septally-located leaflets were more extensible. MV chords were stiffer. Conclusions This study presents the first rigorous comparative mechanical and structural dataset of MV and TV structures. Valve type and anatomical location may be stronger predictors of chordal mechanics. Chords from septally-located leaflets differ from each other and from their intravalvular counterparts; they merit special consideration in surgical and computational applications. Statement of Significance A better understanding of the tricuspid valve (TV) and its associated structures is important for making advancements towards the repair of tricuspid regurgitation. Mitral valve structures have been extensively studied, but little is known about the TV and right-sided heart diseases. Clinical decisions and computational simulations often rely heavily on MV data for TV applications, despite fundamentally different environments. We therefore performed a rigorous mechanical, morphological, and microstructural characterization of atrioventricular leaflets and chordae tendineae in a porcine model. Finding that valve type and anatomical location may be strong predictors of chordal mechanics, chords from septally-located leaflets differ from each other and from their intravalvular counterparts; they merit special consideration in surgical and computational applications.}
+      \field{day}{1}
+      \field{issn}{1742-7061}
+      \field{journaltitle}{Acta Biomaterialia}
+      \field{month}{2}
+      \field{shortjournal}{Acta Biomaterialia}
+      \field{title}{Comparative Mechanical, Morphological, and Microstructural Characterization of Porcine Mitral and Tricuspid Leaflets and Chordae Tendineae}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{85}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{241\bibrangedash 252}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.actbio.2018.12.029
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\O S C A R\\Zotero\\storage\\BSVMDC7H\\Pokutta-Paskaleva et al. - 2019 - Comparative mechanical, morphological, and microst.pdf;C\:\\Users\\O S C A R\\Zotero\\storage\\Q8SYXX8G\\S1742706118307542.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1742706118307542
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1742706118307542
+      \endverb
+      \keyw{Biaxial testing,Chordae tendineae,Tricuspid regurgitation,Tricuspid valve mechanics,Uniaxial testing}
+    \endentry
+    \entry{rabbahNovelLeftHeart2013}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0451a875315b928c9446f71869ecb5ed}{%
+           family={Rabbah},
+           familyi={R\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63e84bb0c441e7a02cf12657acad3a9d}{%
+           family={Saikrishnan},
+           familyi={S\bibinitperiod},
+           given={Neelakantan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e694e439e0f9a2136d44b490be32f94d}{%
+           family={Yoganathan},
+           familyi={Y\bibinitperiod},
+           given={Ajit\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{10a4a35612ced00d5c0dbaac4ace382f}
+      \strng{fullhash}{3c6a5ab83dbe4d29e017698a501b9014}
+      \strng{fullhashraw}{3c6a5ab83dbe4d29e017698a501b9014}
+      \strng{bibnamehash}{3c6a5ab83dbe4d29e017698a501b9014}
+      \strng{authorbibnamehash}{3c6a5ab83dbe4d29e017698a501b9014}
+      \strng{authornamehash}{10a4a35612ced00d5c0dbaac4ace382f}
+      \strng{authorfullhash}{3c6a5ab83dbe4d29e017698a501b9014}
+      \strng{authorfullhashraw}{3c6a5ab83dbe4d29e017698a501b9014}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Numerical models of the mitral valve have been used to elucidate mitral valve function and mechanics. These models have evolved from simple two-dimensional approximations to complex three-dimensional fully coupled fluid structure interaction models. However, to date these models lack direct one-to-one experimental validation. As computational solvers vary considerably, experimental benchmark data are critically important to ensure model accuracy. In this study, a novel left heart simulator was designed specifically for the validation of numerical mitral valve models. Several distinct experimental techniques were collectively performed to resolve mitral valve geometry and hemodynamics. In particular, micro-computed tomography was used to obtain accurate and high-resolution (39~μm voxel) native valvular anatomy, which included the mitral leaflets, chordae tendinae, and papillary muscles. Three-dimensional echocardiography was used to obtain systolic leaflet geometry. Stereoscopic digital particle image velocimetry provided all three components of fluid velocity through the mitral valve, resolved every 25~ms in the cardiac cycle. A strong central filling jet (V~\textasciitilde ~0.6~m/s) was observed during peak systole with minimal out-of-plane velocities. In addition, physiologic hemodynamic boundary conditions were defined and all data were synchronously acquired through a central trigger. Finally, the simulator is a precisely controlled environment, in which flow conditions and geometry can be systematically prescribed and resultant valvular function and hemodynamics assessed. Thus, this work represents the first comprehensive database of high fidelity experimental data, critical for extensive validation of mitral valve fluid structure interaction simulations.}
+      \field{day}{1}
+      \field{issn}{1573-9686}
+      \field{journaltitle}{Annals of Biomedical Engineering}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{Ann Biomed Eng}
+      \field{title}{A {{Novel Left Heart Simulator}} for the {{Multi-modality Characterization}} of {{Native Mitral Valve Geometry}} and {{Fluid Mechanics}}}
+      \field{urlday}{29}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{41}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{305\bibrangedash 315}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s10439-012-0651-z
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\CL7XYJBS\Rabbah et al. - 2013 - A Novel Left Heart Simulator for the Multi-modality Characterization of Native Mitral Valve Geometry.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10439-012-0651-z
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10439-012-0651-z
+      \endverb
+      \keyw{Micro-computed tomography,Mitral valve,Particle image velocimetry,Three-dimensional echocardiography}
+    \endentry
+    \entry{rajabChapterIIIEthical2013}{incollection}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=55dfdc5db92aa430ef5a09f95e9e113c}{%
+           family={Rajab},
+           familyi={R\bibinitperiod},
+           given={Taufiek},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1524b023977ded1eec990f67d18cd088}{%
+           family={Rivard},
+           familyi={R\bibinitperiod},
+           given={Andrew\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18ce017585e02c0a92c70fcd694a306c}{%
+           family={Wasiluk},
+           familyi={W\bibinitperiod},
+           given={Karen\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f3156b09d758c938f3852f0788edc33}{%
+           family={Gallegos},
+           familyi={G\bibinitperiod},
+           given={Robert\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b2367ca6c4c86fdad518dfe3aae9732}{%
+           family={Bianco},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=daa5a344877738aaa74b441e0bd07f46}{%
+           family={Ratner},
+           familyi={R\bibinitperiod},
+           given={Buddy\bibnamedelima D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=8caf9458ebf476641d59ab71f0ee021a}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Allan\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=13b000b214102156ba13cd5b86a25b29}{%
+           family={Schoen},
+           familyi={S\bibinitperiod},
+           given={Frederick\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=892a73de5790533f0b921641ecdc40a8}{%
+           family={Lemons},
+           familyi={L\bibinitperiod},
+           given={Jack\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{03be2c979bb565c08bb2a9f4839b0bec}
+      \strng{fullhash}{247c18a1ced6c48a4921dee8ae727b23}
+      \strng{fullhashraw}{247c18a1ced6c48a4921dee8ae727b23}
+      \strng{bibnamehash}{247c18a1ced6c48a4921dee8ae727b23}
+      \strng{authorbibnamehash}{247c18a1ced6c48a4921dee8ae727b23}
+      \strng{authornamehash}{03be2c979bb565c08bb2a9f4839b0bec}
+      \strng{authorfullhash}{247c18a1ced6c48a4921dee8ae727b23}
+      \strng{authorfullhashraw}{247c18a1ced6c48a4921dee8ae727b23}
+      \strng{editorbibnamehash}{93d87a991caa5d3a4a67dea6fb592a25}
+      \strng{editornamehash}{02840ae34d1d30fe26b66bc92f95a09d}
+      \strng{editorfullhash}{93d87a991caa5d3a4a67dea6fb592a25}
+      \strng{editorfullhashraw}{93d87a991caa5d3a4a67dea6fb592a25}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Biomaterials {{Science}} ({{Third Edition}})}
+      \field{day}{1}
+      \field{isbn}{978-0-12-374626-9}
+      \field{month}{1}
+      \field{title}{Chapter {{III}}.2.7 - {{Ethical Issues}} in {{Biomaterials}} and {{Medical Devices}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1425\bibrangedash 1431}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/B978-0-08-087780-8.00135-2
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780080877808001352
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780080877808001352
+      \endverb
+    \endentry
+    \entry{ramphalHighFidelityTissuebased2005}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=32db2d4ca4a61a0076e1f6296deb193c}{%
+           family={Ramphal},
+           familyi={R\bibinitperiod},
+           given={Paul\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=009315c16e5e105c4ad63fef874a8f5f}{%
+           family={Coore},
+           familyi={C\bibinitperiod},
+           given={Daniel\bibnamedelima N.},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e10a658433e99b68eecfe58f592d05fe}{%
+           family={Craven},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23cf79e34f16d2ce4e6aade73bdfed55}{%
+           family={Forbes},
+           familyi={F\bibinitperiod},
+           given={Neil\bibnamedelima F.},
+           giveni={N\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca16520ab4b5306fe7674282ba707efb}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Somara\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05a9998bffbb30ae61a9363281c69c12}{%
+           family={Coye},
+           familyi={C\bibinitperiod},
+           given={Adrian\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=072e6d0be60cccccf0ab11b779e2c8ff}{%
+           family={Little},
+           familyi={L\bibinitperiod},
+           given={Sherard\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94f04eff645011b4ccf815cb61bd0076}{%
+           family={Silvera},
+           familyi={S\bibinitperiod},
+           given={Brian\bibnamedelima C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7b8f097a517c6e3360326b9eb380f376}
+      \strng{fullhash}{08200a48700cf42236d65ffb5a8d2eef}
+      \strng{fullhashraw}{08200a48700cf42236d65ffb5a8d2eef}
+      \strng{bibnamehash}{08200a48700cf42236d65ffb5a8d2eef}
+      \strng{authorbibnamehash}{08200a48700cf42236d65ffb5a8d2eef}
+      \strng{authornamehash}{7b8f097a517c6e3360326b9eb380f376}
+      \strng{authorfullhash}{08200a48700cf42236d65ffb5a8d2eef}
+      \strng{authorfullhashraw}{08200a48700cf42236d65ffb5a8d2eef}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objective: Issues concerning the training and certification of surgical specialists have taken on great significance in the last decade. A realistic computer-assisted, tissue-based simulator developed for use in the training of cardiac surgical residents in the conduct of a variety of cardiac surgical procedures in a low-volume cardiothoracic surgery unit of a typical developing country is described. The simulator can also be used to demonstrate the function of technology specific to cardiac surgical procedures in a way that previously has only been possible via the conduct of a procedure on a live animal or human being. Methods: A porcine heart in a novel simulated operating theatre environment with real-time simulated haemodynamic monitoring and coronary blood flow, in arrested and beating-heart modes, is used as a training tool for surgical residents. Results: Standard and beating-heart coronary arterial bypass, aortic valve replacement, aortic homograft replacement and pulmonary autograft procedures can be simulated with high degrees of realism and with the superimposition of adverse clinical scenarios requiring valid decision making and clinical judgments to be made by the trainees. Conclusions: The cardiac surgical simulation preparation described here would appear to be able to contribute positively to the training of residents in low-volume centres, as well as having the potential for application in other settings as a training tool or clinical skills assessment or accreditation device. Collaboration with larger centres is recommended in order to accurately assess the utility of this preparation as an adjunctive cardiothoracic surgical training aid.}
+      \field{day}{1}
+      \field{issn}{1010-7940}
+      \field{journaltitle}{European Journal of Cardio-Thoracic Surgery}
+      \field{month}{5}
+      \field{number}{5}
+      \field{shortjournal}{European Journal of Cardio-Thoracic Surgery}
+      \field{title}{A High Fidelity Tissue-Based Cardiac Surgical Simulator}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{27}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{910\bibrangedash 916}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.ejcts.2004.12.049
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\O S C A R\\Zotero\\storage\\5RB769U2\\Ramphal et al. - 2005 - A high fidelity tissue-based cardiac surgical simu.pdf;C\:\\Users\\O S C A R\\Zotero\\storage\\5RTAPW9M\\505831.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.ejcts.2004.12.049
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.ejcts.2004.12.049
+      \endverb
+    \endentry
+    \entry{rockComplexCollagenFiber2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9f3e5d3fdc141c3e8ff79cef9eaabad0}{%
+           family={Rock},
+           familyi={R\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a135b0fb848daf41a0a967d860eb670}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a95288a9a9f1a2a1cccadbc0aa8235a7}{%
+           family={Doehring},
+           familyi={D\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{706d35a68bd703989cf8ef60702e389f}
+      \strng{fullhash}{ab5bdfede1e25877b3706e6ebe7cf0a3}
+      \strng{fullhashraw}{ab5bdfede1e25877b3706e6ebe7cf0a3}
+      \strng{bibnamehash}{ab5bdfede1e25877b3706e6ebe7cf0a3}
+      \strng{authorbibnamehash}{ab5bdfede1e25877b3706e6ebe7cf0a3}
+      \strng{authornamehash}{706d35a68bd703989cf8ef60702e389f}
+      \strng{authorfullhash}{ab5bdfede1e25877b3706e6ebe7cf0a3}
+      \strng{authorfullhashraw}{ab5bdfede1e25877b3706e6ebe7cf0a3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Replacement aortic valves endeavor to mimic native valve function at the organ, tissue, and in the case of bioprosthetic valves, the cellular levels. There is a wealth of information about valve macro and micro structure; however, there presently is limited information on the morphology of the whole valve fiber architecture. The objective of this study was to provide qualitative and quantitative analyses of whole valve and leaflet fiber bundle branching patterns using a novel imaging system. We developed a custom automated microscope system with motor and imaging control. Whole leaflets (n = 25) were imaged at high resolution (e.g. 30,000×20,000 pixels) using elliptically polarized light to enhance contrast between structures without the need for staining or other methods. Key morphologies such as fiber bundle size and branching were measured for analyses. The left coronary leaflet displayed large asymmetry in fiber bundle organization relative to the right coronary and non-coronary leaflets. We observed and analyzed three main patterns of fiber branching; tree-like, fan-like, and pinnate structures. High resolution images and quantitative metrics are presented such as fiber bundle sizes, positions, and branching morphological parameters. To our knowledge there are currently no high resolution images of whole fresh leaflets available in the literature. The images of fiber/membrane structures and analyses presented here could be highly valuable for improving the design and development of more advanced bioprosthetic and/or bio-mimetic synthetic valve replacements.}
+      \field{day}{21}
+      \field{journaltitle}{PloS one}
+      \field{month}{1}
+      \field{shortjournal}{PloS one}
+      \field{title}{Complex {{Collagen Fiber}} and {{Membrane Morphologies}} of the {{Whole Porcine Aortic Valve}}}
+      \field{volume}{9}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{e86087}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0086087
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\8U9SRG67\Rock et al. - 2014 - Complex Collagen Fiber and Membrane Morphologies o.pdf
+      \endverb
+    \endentry
+    \entry{rossAfterloadMismatchAortic1985}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=44dd5ad4c6fa033b8aec7b62390e0017}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44dd5ad4c6fa033b8aec7b62390e0017}
+      \strng{fullhash}{44dd5ad4c6fa033b8aec7b62390e0017}
+      \strng{fullhashraw}{44dd5ad4c6fa033b8aec7b62390e0017}
+      \strng{bibnamehash}{44dd5ad4c6fa033b8aec7b62390e0017}
+      \strng{authorbibnamehash}{44dd5ad4c6fa033b8aec7b62390e0017}
+      \strng{authornamehash}{44dd5ad4c6fa033b8aec7b62390e0017}
+      \strng{authorfullhash}{44dd5ad4c6fa033b8aec7b62390e0017}
+      \strng{authorfullhashraw}{44dd5ad4c6fa033b8aec7b62390e0017}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In the management of patients with valvular heart disease, an understanding of the effects of altered loading conditions on the left ventricle is important in reaching a proper decision concerning the timing of corrective operation. In acquired valvular aortic stenosis, concentric hypertrophy generally maintains left ventricular chamber size and ejection fraction within normal limits, but in late stage disease function can deteriorate as preload reserve is lost and aortic stenosis progresses. In this setting, even when the ejection fraction is markedly reduced ({$<$} 25\%), it can improve to normal after aortic valve replacement, suggesting that afterload mismatch rather than irreversibly depressed myocardial contractility was responsible for left ventricular failure. Therefore, patients with severe aortic stenosis and symptoms should not be denied operation because of impaired cardiac function. In chronic severe aortic and mitral regurgitation, operation is generally recommended when symptoms are present, but whether to recommend operation to prevent irreversible myocardial damage in patients with few or no symptoms has remained controversial. In aortic regurgitation, left ventricular function generally improves postoperatively, even if it is moderately impaired pre-operatively, indicating correction of afterload mismatch. Most such patients can be carefully followed by echocardiography. However, in some patients, severe left ventricular dysfunction fails to improve postoperatively. Therefore, when echocardiography studies in the patient with severe aortic regurgitation show an ejection fraction of less than 40\% (fractional shortening {$<$} 25\%) plus enlarging left ventricular end-diastolic diameter (approaching 38 mm/m2 body surface area) and end-systolic diameter (approaching 50 mm or 26 mm/m2), confirmation of these findings by cardiac catheterization and consideration of operation are advisable even in patients with minimal symptoms. In chronic mitral regurgitation, maintenance of anormal ejection fraction can mask depressed myocardial contractility. Pre- and postoperative studies in such patients have shown a poor clinical result after mitral valve replacement, associated with a sharp decrease in the ejection fraction after operation. This response appears to reflect unmasking of decreased myocardial contractility by mitral valve replacement, with ejection of the total stroke volume into the high impedance of the aorta (afterload mismatch produced by operation). Therefore, when echocardiographic studies in patients with severe mitral regurgitation show an ejection fraction of less than 55\% (fractional shortening {$<$} 30\%), an end-diastolic diameter approaching 75 mm and an end-systolic diameter approaching 2.6 mm/m2body surface area, it seems advisable to undertake operation to prevent the development of irreversible myocardial damage, even if symptoms are few or absent.}
+      \field{day}{1}
+      \field{issn}{0735-1097}
+      \field{journaltitle}{Journal of the American College of Cardiology}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shortjournal}{Journal of the American College of Cardiology}
+      \field{shorttitle}{Afterload Mismatch in Aortic and Mitral Valve Disease}
+      \field{title}{Afterload Mismatch in Aortic and Mitral Valve Disease: {{Implications}} for Surgical Therapy}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{5}
+      \field{year}{1985}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{811\bibrangedash 826}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/S0735-1097(85)80418-6
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\RUKLQRMJ\S0735109785804186.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0735109785804186
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0735109785804186
+      \endverb
+    \endentry
+    \entry{sandersTricuspidValveEmbryology2014}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e5917cee31c4c7a73ca8dc72bb521036}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={Stephen\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c7180bc1b26806d0da6da37513cc33e}{%
+           family={Pluchinotta},
+           familyi={P\bibinitperiod},
+           given={Francesca\bibnamedelima R.},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=fc9899653a83a7f73023ab47dd09de7e}{%
+           family={Giamberti},
+           familyi={G\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=64f7abafcb365c8f9f8374c929d1fc6a}{%
+           family={Chessa},
+           familyi={C\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Milano}%
+      }
+      \list{publisher}{1}{%
+        {Springer Milan}%
+      }
+      \strng{namehash}{d5a9dc8c10645d6463d124acb0fab79b}
+      \strng{fullhash}{d5a9dc8c10645d6463d124acb0fab79b}
+      \strng{fullhashraw}{d5a9dc8c10645d6463d124acb0fab79b}
+      \strng{bibnamehash}{d5a9dc8c10645d6463d124acb0fab79b}
+      \strng{authorbibnamehash}{d5a9dc8c10645d6463d124acb0fab79b}
+      \strng{authornamehash}{d5a9dc8c10645d6463d124acb0fab79b}
+      \strng{authorfullhash}{d5a9dc8c10645d6463d124acb0fab79b}
+      \strng{authorfullhashraw}{d5a9dc8c10645d6463d124acb0fab79b}
+      \strng{editorbibnamehash}{5f5bb83afd5c394474e49f23ca144798}
+      \strng{editornamehash}{5f5bb83afd5c394474e49f23ca144798}
+      \strng{editorfullhash}{5f5bb83afd5c394474e49f23ca144798}
+      \strng{editorfullhashraw}{5f5bb83afd5c394474e49f23ca144798}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The tricuspid valve might be of lesser importance in acquired heart disease but it often plays a primary role in congenital heart defects, especially in long-term outcomes. This chapter reviews the anatomy of the tricuspid valve, along with its embryological development. The tricuspid valve connects the right atrium and right ventricle, electrically isolates the two cardiac chambers, and maintains unidirectional blood flow. The valve complex consists of the annulus, usually three valve leaflets, the supporting chordae tendineae, and the papillary muscles. The number, length, and shape of the chordae tendineae and the papillary muscles are extremely variable. This can be of clinical significance since dysfunctional papillary muscles and dysplastic chordae can be important causes of valve dysfunction.}
+      \field{booktitle}{The {{Tricuspid Valve}} in {{Congenital Heart Disease}}}
+      \field{isbn}{978-88-470-5400-4}
+      \field{langid}{english}
+      \field{shorttitle}{Tricuspid {{Valve}}}
+      \field{title}{Tricuspid {{Valve}}: {{Embryology}} and {{Anatomy}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/978-88-470-5400-4_1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-88-470-5400-4_1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-88-470-5400-4_1
+      \endverb
+      \keyw{Free Edge,Hypoplastic Left Heart Syndrome,Papillary Muscle,Tricuspid Valve,Valve Leaflet}
+    \endentry
+    \entry{shahTricuspidValveDisease2008}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=89f35daafd0e2f6430cb22668d963d71}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Pravin\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89d85aa118d73b3980aa76079ca5db0a}{%
+           family={Raney},
+           familyi={R\bibinitperiod},
+           given={Aidan\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df7c15f6f5628b9024b1cf6bc3176777}
+      \strng{fullhash}{df7c15f6f5628b9024b1cf6bc3176777}
+      \strng{fullhashraw}{df7c15f6f5628b9024b1cf6bc3176777}
+      \strng{bibnamehash}{df7c15f6f5628b9024b1cf6bc3176777}
+      \strng{authorbibnamehash}{df7c15f6f5628b9024b1cf6bc3176777}
+      \strng{authornamehash}{df7c15f6f5628b9024b1cf6bc3176777}
+      \strng{authorfullhash}{df7c15f6f5628b9024b1cf6bc3176777}
+      \strng{authorfullhashraw}{df7c15f6f5628b9024b1cf6bc3176777}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The normal tricuspid valve anatomy and function have several dissimilarities to the corresponding mitral valve in the left heart, in part, based on lower pressures in the right heart chambers. The functional abnormalities resulting from tricuspid valve disease are classified as primary and secondary. Primary valve disease is any associated intrinsic valve pathology. The list of responsible conditions includes congenital, rheumatic, infective endocarditis, carcinoid heart disease, toxic effects of chemicals, tumors, blunt trauma, and myxomatous degeneration. The secondary tricuspid valve disease does not involve intrinsic anatomic abnormalities of the valve apparatus, aside from tricuspid annular dilation secondary to right ventricular dilation and dysfunction. The most common cause of tricuspid valve disease is secondary to left heart disease, either myocardial, valvular, or mixed. Although bedside diagnosis of advanced tricuspid valve disease is feasible, echocardiography provides valuable clues to the presence and severity of tricuspid valve stenosis and/or regurgitation with considerable accuracy. The tricuspid regurgitation signal using Doppler techniques is utilized for estimation of right ventricular systolic pressure, which, in the absence of right ventricular outflow obstruction, corresponds to pulmonary arterial systolic pressure. This is clinically useful since nearly 80 to 90\% of patients exhibit some degree of tricuspid regurgitation. The treatment of tricuspid valve disease is guided by underlying etiology and pathology. Tricuspid valve repair is increasingly advocated for patients with advanced tricuspid regurgitation, especially when combined with surgery on the left heart pathology. Primary tricuspid valve disease is often treated by surgical approach specific to the underlying pathology.}
+      \field{day}{1}
+      \field{issn}{0146-2806}
+      \field{journaltitle}{Current Problems in Cardiology}
+      \field{month}{2}
+      \field{number}{2}
+      \field{series}{Tricuspid {{Valve Disease}}}
+      \field{shortjournal}{Current Problems in Cardiology}
+      \field{title}{Tricuspid {{Valve Disease}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{33}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{47\bibrangedash 84}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1016/j.cpcardiol.2007.10.004
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\HD7DVPM5\S0146280607001375.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0146280607001375
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0146280607001375
+      \endverb
+    \endentry
+    \entry{simionescuArtificialHeartValves2006}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dabcaeb893b0379b35a413943f0db1b}{%
+           family={Simionescu},
+           familyi={S\bibinitperiod},
+           given={Dan\bibnamedelima T.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Ltd}%
+      }
+      \strng{namehash}{4dabcaeb893b0379b35a413943f0db1b}
+      \strng{fullhash}{4dabcaeb893b0379b35a413943f0db1b}
+      \strng{fullhashraw}{4dabcaeb893b0379b35a413943f0db1b}
+      \strng{bibnamehash}{4dabcaeb893b0379b35a413943f0db1b}
+      \strng{authorbibnamehash}{4dabcaeb893b0379b35a413943f0db1b}
+      \strng{authornamehash}{4dabcaeb893b0379b35a413943f0db1b}
+      \strng{authorfullhash}{4dabcaeb893b0379b35a413943f0db1b}
+      \strng{authorfullhashraw}{4dabcaeb893b0379b35a413943f0db1b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A significant article in the study of cardiovascular diseases must necessarily address the degeneration of natural heart valves. As the anticipated mission of cardiovascular biomedical engineering is to develop devices and approaches to safely and effectively treat heart disease, substantial efforts have been made in the last 35 years to develop artificial heart valves and pioneer exciting research in heart valve tissue regeneration. This chapter gives an overview on these efforts describing the biology and pathology of heart valves, the status of current replacement devices, and the trends of future research.}
+      \field{booktitle}{Wiley {{Encyclopedia}} of {{Biomedical Engineering}}}
+      \field{isbn}{978-0-471-74036-0}
+      \field{langid}{english}
+      \field{title}{Artificial {{Heart Valves}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1002/9780471740360.ebs1455
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\JJ4PKFTK\9780471740360.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9780471740360.ebs1455
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9780471740360.ebs1455
+      \endverb
+      \keyw{bioprostheses,cross-linking,extracellular matrix,mechanical,regenerative medicine,tissue engineering}
+    \endentry
+    \entry{stasiakDesignDevelopmentTesting2020}{article}{}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=95dbd1ad946a9e86a7244de815d80e1c}{%
+           family={Stasiak},
+           familyi={S\bibinitperiod},
+           given={Joanna\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68da9be56060f9ec1f3bd39e2adff29f}{%
+           family={Serrani},
+           familyi={S\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53e9e1159b5ba0f77c58b40bc1c4d476}{%
+           family={Biral},
+           familyi={B\bibinitperiod},
+           given={Eugenia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f5728a9671eba6aa6bb6e1f34075a15}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={James\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80b7343059b6363f1be488c66925a5dd}{%
+           family={Zaman},
+           familyi={Z\bibinitperiod},
+           given={Azfar\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab21d0d9c882de0013b6905d975b93f4}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47b21f293783149c8f2bc2eedafbc875}{%
+           family={Ness},
+           familyi={N\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=695b147956c25cb019735f5a40d99252}{%
+           family={Gaetano},
+           familyi={G\bibinitperiod},
+           given={Francesco\bibnamedelima De},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a094549e95b2f6c948234a111bc220c5}{%
+           family={Costantino},
+           familyi={C\bibinitperiod},
+           given={Maria\bibnamedelima Laura},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1463968b84242633f6190d19445ff5df}{%
+           family={Bruno},
+           familyi={B\bibinitperiod},
+           given={Vito\bibnamedelima D.},
+           giveni={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5ae639084041e5a6a513e8da0a2d1af}{%
+           family={Suleiman},
+           familyi={S\bibinitperiod},
+           given={Saadeh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e96e0779065d89f759e4fc2f548fd30}{%
+           family={Ascione},
+           familyi={A\bibinitperiod},
+           given={Raimondo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=073b5865d5bb590a388096cf8b52b4c5}{%
+           family={Moggridge},
+           familyi={M\bibinitperiod},
+           given={Geoff\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{f5eb94b0ba190c245b32b6df067efcd9}
+      \strng{fullhash}{b5553bde79164a0a4dc26f38e4aa650d}
+      \strng{fullhashraw}{b5553bde79164a0a4dc26f38e4aa650d}
+      \strng{bibnamehash}{b5553bde79164a0a4dc26f38e4aa650d}
+      \strng{authorbibnamehash}{b5553bde79164a0a4dc26f38e4aa650d}
+      \strng{authornamehash}{f5eb94b0ba190c245b32b6df067efcd9}
+      \strng{authorfullhash}{b5553bde79164a0a4dc26f38e4aa650d}
+      \strng{authorfullhashraw}{b5553bde79164a0a4dc26f38e4aa650d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Clinically available prosthetic heart valves are life-saving, but imperfect: mechanical valves requiring anticoagulation therapy, whilst bioprosthetic valves have limited durability. Polymer valves offer the prospect of good durability without the need for anticoagulation. We report the design and development of a polymeric heart valve, its bench-testing at ISO standards, and preliminary extra-vivo and in vivo short-term feasibility. Prototypes were manufactured by injection moulding of styrenic block copolymers to achieve anisotropic mechanical properties. Design was by finite element stress–strain modelling, which has been reported previously, combined with feedback from bench and surgery-based testing using various combinations of materials, valve geometry and processing conditions. Bench testing was according to ISO 5840:2015 standards using an in vitro cardiovascular hydrodynamic testing system and an accelerated fatigue tester. Bench comparisons were made with a best-in-class bio-prosthesis. Preliminary clinical feasibility evaluations included extra-vivo and short-term (1–24 hours) in vivo testing in a sheep model. The optimised final prototype met the requirements of ISO standards with hydrodynamic performance equivalent to the best-in-class bioprosthesis. Bench durability of greater than 1.2 billion cycles (30 years equivalent) was achieved (still ongoing). Extra-vivo sequential testing (n = 8) allowed refinement of external diameter, 3D shape, a low profile, flexibility, suturability, and testing of compatibility to magnetic resonance imaging and clinical sterilisation. In vivo short-term (1–24 hours) feasibility (n = 3) confirmed good suturability, no mechanical failure, no trans-valvular regurgitation, competitive trans-valvular gradients, and good biocompatibility at histopathology. We have developed and tested at ISO standards a novel prosthetic heart valve featuring competitive bench-based hydrodynamics and durability, well beyond the ISO requirements and comparable to a best-in-class bioprosthesis. In vivo short-term feasibility testing confirmed preliminary safety, functionality and biocompatibility, supporting progression to a long-term efficacy trial.}
+      \field{day}{11}
+      \field{issn}{2047-4849}
+      \field{journaltitle}{Biomaterials Science}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{16}
+      \field{shortjournal}{Biomater. Sci.}
+      \field{title}{Design, Development, Testing at {{ISO}} Standards and in Vivo Feasibility Study of a Novel Polymeric Heart Valve Prosthesis}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4467\bibrangedash 4480}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1039/D0BM00412J
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\O S C A R\\Zotero\\storage\\JWXZ6IC5\\Stasiak et al. - 2020 - Design, development, testing at ISO standards and .pdf;C\:\\Users\\O S C A R\\Zotero\\storage\\UDVG9ZTR\\Stasiak et al. - 2020 - Design, development, testing at ISO standards and .pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.rsc.org/en/content/articlelanding/2020/bm/d0bm00412j
+      \endverb
+      \verb{url}
+      \verb https://pubs.rsc.org/en/content/articlelanding/2020/bm/d0bm00412j
+      \endverb
+    \endentry
+    \entry{stevanellaFiniteElementModelling2010}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8cc3c213bfe516e557b7ac924c8c98a0}{%
+           family={Stevanella},
+           familyi={S\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35f966c0a81ad63d977278ed1e63b4ae}{%
+           family={Votta},
+           familyi={V\bibinitperiod},
+           given={Emiliano},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22858aae88faf1b4cfaa09952152603f}{%
+           family={Lemma},
+           familyi={L\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a522b764365850fe30cb4a4930f6dbc0}{%
+           family={Antona},
+           familyi={A\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b23afeeb95aee3988b0b58311c574dc}{%
+           family={Redaelli},
+           familyi={R\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2bb586ce8d9e3b66059660ecc0b150e}
+      \strng{fullhash}{1f23da3397d92c093729f8fde5fb02d9}
+      \strng{fullhashraw}{1f23da3397d92c093729f8fde5fb02d9}
+      \strng{bibnamehash}{1f23da3397d92c093729f8fde5fb02d9}
+      \strng{authorbibnamehash}{1f23da3397d92c093729f8fde5fb02d9}
+      \strng{authornamehash}{b2bb586ce8d9e3b66059660ecc0b150e}
+      \strng{authorfullhash}{1f23da3397d92c093729f8fde5fb02d9}
+      \strng{authorfullhashraw}{1f23da3397d92c093729f8fde5fb02d9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The incomplete efficacy of current surgical repair procedures of the tricuspid valve (TV) demands a deeper comprehension of the physiological TV biomechanics. To this purpose, computational models can provide quantitative insight into TV biomechanical response and allow analysing the role of each TV substructure. We present here a three-dimensional finite element model of the tricuspid valve that takes into account most of its peculiar features. Experimental measurements were performed on human and porcine valves to obtain a more detailed TV anatomical framework. To overcome the complete lack of information on leaflets mechanical properties, we performed a sensitivity analysis on the parameters of the adopted non-linear hyperelastic constitutive model, hypothesizing three different parameter sets for three significant collagen fibre distributions. Results showed that leaflets’ motion and maximum principal stress distribution were almost insensitive to the different material parameters considered. Highest stresses (about 100kPa) were located near the annulus of the anterior and septal leaflets, while the posterior leaflet experienced lower stresses (about 55kPa); stresses at the commissures were nearly zero. Conversely, changes in constitutive parameters deeply affected leaflets’ strains magnitude, but not their overall pattern. Strains computed assuming that TV leaflets tissue are reinforced by a sparse and loosely arranged network of collagen fibres fitted best experimental data, thus suggesting that this may be the actual microstructure of TV leaflets. In a long-term perspective, this preliminary study aims at providing a starting point for the development of a predictive tool to quantitatively evaluate TV diseases and surgical repair procedures.}
+      \field{day}{1}
+      \field{issn}{1350-4533}
+      \field{journaltitle}{Medical Engineering \& Physics}
+      \field{month}{12}
+      \field{number}{10}
+      \field{shortjournal}{Medical Engineering \& Physics}
+      \field{shorttitle}{Finite Element Modelling of the Tricuspid Valve}
+      \field{title}{Finite Element Modelling of the Tricuspid Valve: {{A}} Preliminary Study}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{32}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1213\bibrangedash 1223}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.medengphy.2010.08.013
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\6M9QD4H7\S1350453310001827.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1350453310001827
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1350453310001827
+      \endverb
+      \keyw{Dynamic analysis,Finite element modelling,Morphometry,Tricuspid valve}
+    \endentry
+    \entry{suhWholeheartMotioncorrectionAlgorithm2017}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=99a9a758727f6a788900d94b6b57135b}{%
+           family={Suh},
+           familyi={S\bibinitperiod},
+           given={Young\bibnamedelima Joo},
+           giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb39fafb4c7d38a54263e954c56d5228}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Young\bibnamedelima Jin},
+           giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29e61e079b5e9d3453661a801d028078}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jin\bibnamedelima Young},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=efdb2ae49f3f492bcea6cc2f66bfafcf}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Suyon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=914b7468b42af2b422e3eae5c8a7d9c9}{%
+           family={Im},
+           familyi={I\bibinitperiod},
+           given={Dong\bibnamedelima Jin},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edef96400f7e89e6449f794c28ec7320}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Yoo\bibnamedelima Jin},
+           giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=756055c25f0ccb767329f2903b3b3e65}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Byoung\bibnamedelima Wook},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3775328d755d61ea97652188d6d60f9d}
+      \strng{fullhash}{891a3799625d42c0c2325d0bcc84f75b}
+      \strng{fullhashraw}{891a3799625d42c0c2325d0bcc84f75b}
+      \strng{bibnamehash}{891a3799625d42c0c2325d0bcc84f75b}
+      \strng{authorbibnamehash}{891a3799625d42c0c2325d0bcc84f75b}
+      \strng{authornamehash}{3775328d755d61ea97652188d6d60f9d}
+      \strng{authorfullhash}{891a3799625d42c0c2325d0bcc84f75b}
+      \strng{authorfullhashraw}{891a3799625d42c0c2325d0bcc84f75b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background We aimed to determine the effect of a whole-heart motion-correction algorithm (new-generation snapshot freeze, NG SSF) on the image quality of cardiac computed tomography (CT) images in patients with mechanical valve prostheses compared to standard images without motion correction and to compare the diagnostic accuracy of NG SSF and standard CT image sets for the detection of prosthetic valve abnormalities. Methods A total of 20 patients with 32 mechanical valves who underwent wide-coverage detector cardiac CT with single-heartbeat acquisition were included. The CT image quality for subvalvular (below the prosthesis) and valvular regions (valve leaflets) of mechanical valves was assessed by two observers on a four-point scale (1~=~poor, 2~=~fair, 3~=~good, and 4~=~excellent). Paired t-tests or Wilcoxon signed rank tests were used to compare image quality scores and the number of diagnostic phases (image quality score≥3) between the standard image sets and NG SSF image sets. Diagnostic performance for detection of prosthetic valve abnormalities was compared between two image sets with the final diagnosis set by re-operation or clinical findings as the standard reference. Results NG SSF image sets had better image quality scores than standard image sets for both valvular and subvalvular regions (P~{$<~$}0.05 for both). The number of phases that were of diagnostic image quality per patient was significantly greater in the NG SSF image set than standard image set for both valvular and subvalvular regions (P~{$<~$}0.0001). Diagnostic performance of NG SSF image sets for the detection of prosthetic abnormalities (20 pannus and two paravalvular leaks) was greater than that of standard image sets (P~{$<~$}0.05). Conclusion Application of NG SSF can improve CT image quality and diagnostic accuracy in patients with mechanical valves compared to standard images.}
+      \field{day}{1}
+      \field{issn}{1934-5925}
+      \field{journaltitle}{Journal of Cardiovascular Computed Tomography}
+      \field{month}{11}
+      \field{number}{6}
+      \field{shortjournal}{Journal of Cardiovascular Computed Tomography}
+      \field{shorttitle}{A Whole-Heart Motion-Correction Algorithm}
+      \field{title}{A Whole-Heart Motion-Correction Algorithm: {{Effects}} on {{CT}} Image Quality and Diagnostic Accuracy of Mechanical Valve Prosthesis Abnormalities}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{11}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{474\bibrangedash 481}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.jcct.2017.09.011
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\UGI5EPMU\S1934592517302149.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1934592517302149
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1934592517302149
+      \endverb
+      \keyw{Artifacts,Computed tomography,Diagnostic accuracy,Heart valve prostheses,Image quality,Motion correction}
+    \endentry
+    \entry{thomasComputationalMultiscaleApproach2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dc03495623284816177f07adddbca873}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Vineet\bibnamedelima S.},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1273f9b6bc5d3b467b6433ecac72ae08}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85ca579bbbc1e1fdb6cee7b60258beb7}{%
+           family={Amini},
+           familyi={A\bibinitperiod},
+           given={Rouzbeh},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c54ae0b300056dd57016b14c7ac66084}
+      \strng{fullhash}{84b443348a1c537d0c51c5a42eb996c6}
+      \strng{fullhashraw}{84b443348a1c537d0c51c5a42eb996c6}
+      \strng{bibnamehash}{84b443348a1c537d0c51c5a42eb996c6}
+      \strng{authorbibnamehash}{84b443348a1c537d0c51c5a42eb996c6}
+      \strng{authornamehash}{c54ae0b300056dd57016b14c7ac66084}
+      \strng{authorfullhash}{84b443348a1c537d0c51c5a42eb996c6}
+      \strng{authorfullhashraw}{84b443348a1c537d0c51c5a42eb996c6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The tricuspid valve is an atrioventricular valve that prevents blood backflow from the right ventricle into the right atrium during ventricular contractions. It is important to study mechanically induced microstructural alterations in the tricuspid valve leaflets, as this aids both in understanding valvular diseases and in the development of new engineered tissue replacements. The structure and composition of the extracellular matrix (ECM) fiber networks are closely tied to an overall biomechanical function of the tricuspid valve. In this study, we conducted experiments and implemented a multiscale modeling approach to predict ECM microstructural changes to tissue-level mechanical responses in a controlled loading environment. In particular, we characterized a sample of a porcine anterior leaflet at a macroscale using a biaxial mechanical testing method. We then generated a three-dimensional finite element model, to which computational representations of corresponding fiber networks were incorporated based on properties of the microstructural architecture obtained from small angle light scattering. Using five different biaxial boundary conditions, we performed iterative simulations to obtain model parameters with an overall R2 value of 0.93. We observed that mechanical loading could markedly alter the underlying ECM architecture. For example, a relatively isotropic fiber network (with an anisotropy index value α of 28\%) became noticeably more anisotropic (with an α of 40\%) when it underwent mechanical loading. We also observed that the mechanical strain was distributed in a different manner at the ECM/fiber level as compared to the tissue level. The approach presented in this study has the potential to be implemented in pathophysiologically altered biomechanical and structural conditions and to bring insights into the mechanobiology of the tricuspid valve. Statement of Significance Quantifying abnormal cellar/ECM-level deformation of tricuspid valve leaflets subjected to a modified loading environment is of great importance, as it is believed to be linked to valvular remodeling responses. For example, developing surgical procedures or engineered tissue replacements that maintain/mimic ECM-level mechanical homeostasis could lead to more durable outcomes. To quantify leaflet deformation, we built a multiscale framework encompassing the contributions of disorganized ECM components and organized fibers, which can predict the behavior of the tricuspid valve leaflets under physiological loading conditions both at the tissue level and at the ECM level. In addition to future in-depth studies of tricuspid valve pathologies, our model can be used to characterize tissues in other valves of the heart.}
+      \field{day}{1}
+      \field{issn}{1742-7061}
+      \field{journaltitle}{Acta Biomaterialia}
+      \field{month}{8}
+      \field{shortjournal}{Acta Biomaterialia}
+      \field{title}{A Computational Multi-Scale Approach to Investigate Mechanically-Induced Changes in Tricuspid Valve Anterior Leaflet Microstructure}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{94}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{524\bibrangedash 535}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.actbio.2019.05.074
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1742706119304428
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1742706119304428
+      \endverb
+      \keyw{Collagen,Extracellular matrix,Finite element,Mechanobiology,Non-affine deformation,Representative volume element}
+    \endentry
+    \entry{tozziHeartSurgerySimulator2022}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a283a129a02c6510f773d6b4cdc96db3}{%
+           family={Tozzi},
+           familyi={T\bibinitperiod},
+           given={Piergiorgio},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92322dca08d561cb8b026502c9d27403}{%
+           family={Solida},
+           familyi={S\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bcec7b9c47743f473f1f7b65e65795aa}{%
+           family={Siniscalchi},
+           familyi={S\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c7903b4ba91d0559e809de75745e2fa}{%
+           family={Ferrari},
+           familyi={F\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52be9c3ca06f8c776d9e8b925ec6ba0f}
+      \strng{fullhash}{ebf58f62a96ec7062e89addeb75f197a}
+      \strng{fullhashraw}{ebf58f62a96ec7062e89addeb75f197a}
+      \strng{bibnamehash}{ebf58f62a96ec7062e89addeb75f197a}
+      \strng{authorbibnamehash}{ebf58f62a96ec7062e89addeb75f197a}
+      \strng{authornamehash}{52be9c3ca06f8c776d9e8b925ec6ba0f}
+      \strng{authorfullhash}{ebf58f62a96ec7062e89addeb75f197a}
+      \strng{authorfullhashraw}{ebf58f62a96ec7062e89addeb75f197a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Introduction~ Over the years, surgical education has dramatically improved and has become increasingly innovative. Almost all educational programs in surgery now rely on sophisticated training boxes and simulators that enable surgical instruments to be handled and surgical procedures to be trained in a safe environment. However, simulators need constant feedback from supervising senior surgeons, who only have limited teaching time available. We describe a cardiac surgery simulator with an integrated supervision system for self-learning how to repair a mitral valve. Methods~ We developed a mitral surgery simulator with integrated sensors to generate, record, and display quantitative data on trainee performance in relation with the mitral valve repair procedure. A team of experienced cardiac surgeons defined critical areas of the model and an algorithm to identify inconsistent movements, in terms of error types and out-of-bound actions. The device provided real-time feedback on the accuracy of the stitches placed. Four experienced cardiac surgeons and 3 advanced cardiac-surgery used the simulator and were asked to evaluate specific parameters of the system on a scale ranging from 1 to 10. Results~ All surgeons completed a P2 resection, followed by implanting a 32-mm mitral ring. The simulator detected 2 stitches that were placed in dangerous zones and another stitch that was placed in an inappropriate position. Users scored the real tissue feeling and interactivity of the model 9.5/10. Conclusions~ This heart-surgery simulator offers a real-life model for learning about and training in mitral valve surgery, which could potentially replace the experienced surgeon's teaching role.}
+      \field{issn}{1559-2332}
+      \field{journaltitle}{Simulation in Healthcare}
+      \field{langid}{american}
+      \field{month}{6}
+      \field{number}{3}
+      \field{shorttitle}{A {{Heart Surgery Simulator With}} an {{Integrated Supervision System}} for {{Self-Learning}} the {{Key Steps}} and {{Pitfalls}} of the {{Mitral Valve Repair}}}
+      \field{title}{A {{Heart Surgery Simulator With}} an {{Integrated Supervision System}} for {{Self-Learning}} the {{Key Steps}} and {{Pitfalls}} of the {{Mitral Valve Repair}}: {{Initial Investigation}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{17}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{192}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1097/SIH.0000000000000590
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.lww.com/simulationinhealthcare/fulltext/2022/06000/a_heart_surgery_simulator_with_an_integrated.7.aspx
+      \endverb
+      \verb{url}
+      \verb https://journals.lww.com/simulationinhealthcare/fulltext/2022/06000/a_heart_surgery_simulator_with_an_integrated.7.aspx
+      \endverb
+    \endentry
+    \entry{tretterAssessmentAnatomicalVariation2016}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=30db60d03e78b847b948568c7a89b411}{%
+           family={Tretter},
+           familyi={T\bibinitperiod},
+           given={Justin\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43d9248dee28d0d636a9063ea67ed451}{%
+           family={Sarwark},
+           familyi={S\bibinitperiod},
+           given={Anne\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1bc01bc381ef6ff122732a1fa2c57c16}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Robert\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b6c0bddbdc76a99007934a6b9b95172}{%
+           family={Spicer},
+           familyi={S\bibinitperiod},
+           given={Diane\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6924a1aec3ad03b39925255d250fb401}
+      \strng{fullhash}{a2d6cadf6313b88eb1521c5c0c4f0aa7}
+      \strng{fullhashraw}{a2d6cadf6313b88eb1521c5c0c4f0aa7}
+      \strng{bibnamehash}{a2d6cadf6313b88eb1521c5c0c4f0aa7}
+      \strng{authorbibnamehash}{a2d6cadf6313b88eb1521c5c0c4f0aa7}
+      \strng{authornamehash}{6924a1aec3ad03b39925255d250fb401}
+      \strng{authorfullhash}{a2d6cadf6313b88eb1521c5c0c4f0aa7}
+      \strng{authorfullhashraw}{a2d6cadf6313b88eb1521c5c0c4f0aa7}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The normal tricuspid valve is tri-leaflet, supported by tendinous cords, which are themselves supported by papillary muscles. There can be marked variation in the anatomy of the normal tricuspid valve, which must be understood to differentiate it from pathological malformations. The tricuspid valve of 100 normal heart specimens was examined. The three leaflets of the tricuspid valve, along with the papillary muscles supporting the zones of apposition were identified, and details of the anatomy recorded and analyzed. All three leaflets were identified in all 100 hearts. The septal leaflet had tendinous cord attachments in 93 specimens to the ventricular septum. The medial papillary muscle had a single head in the majority of specimens, supporting the zone of apposition with the antero-superior leaflet in 97 specimens. The anterior papillary muscle attached to the mid-portion of the antero-superior leaflet in 62 specimens, and supplied the zone of apposition between the antero-superior and inferior leaflets in 81 specimens. There were rough zone cord attachments to the antero-superior leaflets in all specimens. The inferior leaflet had basal cord attachments in 87 specimens, with attachments to multiple small muscular heads in 37 specimens. The inferior papillary muscle was well formed in only 58 specimens. Although certain features are relatively constant, multiple variations in the normal tricuspid valve have been identified. Knowledge of these normal variations is necessary in understanding the function of this complex valve apparatus, along with the potential for pathology. Clin. Anat. 29:399–407, 2016. © 2015 Wiley Periodicals, Inc.}
+      \field{journaltitle}{Clinical Anatomy}
+      \field{number}{3}
+      \field{title}{Assessment of the Anatomical Variation to Be Found in the Normal Tricuspid Valve}
+      \field{volume}{29}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{399\bibrangedash 407}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1002/ca.22591
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/ca.22591
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/ca.22591
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/ca.22591
+      \endverb
+      \keyw{papillary muscle,tendinous cord,tricuspid valve}
+    \endentry
+    \entry{TricuspidValveDisease}{video}{}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Tricuspid valve disease Videos, Flashcards, High Yield Notes, \& Practice Questions. Learn and reinforce your understanding of Tricuspid valve disease.}
+      \field{entrysubtype}{video}
+      \field{langid}{english}
+      \field{shorttitle}{Tricuspid Valve Disease}
+      \field{title}{Tricuspid Valve Disease: {{Video}}, {{Anatomy}} \& {{Definition}} | {{Osmosis}}}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\SGFAPG9W\Tricuspid_valve_disease.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.osmosis.org/
+      \endverb
+      \verb{url}
+      \verb https://www.osmosis.org/
+      \endverb
+    \endentry
+    \entry{verberkmoesNovelLowfidelitySimulator2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3c131c274fe73abae5f9784fc2fd7f17}{%
+           family={Verberkmoes},
+           familyi={V\bibinitperiod},
+           given={Niels\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8717a9c3ae554c1e45fd75b6ab720acd}{%
+           family={Verberkmoes-Broeders},
+           familyi={V\bibinithyphendelim B\bibinitperiod},
+           given={Elizabeth\bibnamedelima M.P.C.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b5355bb037a35ee5f468983f5d2680d1}
+      \strng{fullhash}{b5355bb037a35ee5f468983f5d2680d1}
+      \strng{fullhashraw}{b5355bb037a35ee5f468983f5d2680d1}
+      \strng{bibnamehash}{b5355bb037a35ee5f468983f5d2680d1}
+      \strng{authorbibnamehash}{b5355bb037a35ee5f468983f5d2680d1}
+      \strng{authornamehash}{b5355bb037a35ee5f468983f5d2680d1}
+      \strng{authorfullhash}{b5355bb037a35ee5f468983f5d2680d1}
+      \strng{authorfullhashraw}{b5355bb037a35ee5f468983f5d2680d1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Simulators have been proven to equip trainee surgeons with better skills than the traditional, standard approach to skill development. The purpose of this study was to develop a low-fidelity, low-cost, reusable and portable simulation device, which could provide training in nearly the full range of mitral valve surgery techniques, in both the classic, open approach as well as the minimally invasive approach.This novel simulator is made up of commonly available components. The basic elements are a classic baby bottle, with the associated feeding teat and screw ring, in combination with a sheet of dental dam. The detailed process for making this simulator is outlined in this article. Maximum suture tensile strength on the different components was tested with a digital force gauge. Reusability and the rate of wear as a result of suturing were documented. Total cost was calculated in euros (€).This study resulted in a simulation model very similar in size to the actual anatomical dimensions of the mitral valve. Various pathological conditions, according to Carpentier's Functional Classification, could be simulated. This led to the possibility of providing training in several mitral valve surgical techniques. As the model developed, it became clear that it could also be used to practice tricuspid valve surgery techniques. Maximum mean suture tensions on the silicone teat and dental dam were 42.11 and 11.15 N/m2, respectively. The feeding teat started wearing after approximately 45 suture placements. Total cost of the study model was €5.14.This relatively simple, low-cost, low-fidelity model can provide simulation training in nearly the full range of mitral valve and tricuspid valve surgical techniques, in both the classic open approach and the minimally invasive approach—and do so almost anywhere. Especially when used by young cardiothoracic surgeons in training, this model may contribute to the development of technical skills and procedural knowledge required for adequate performance in the operating room.}
+      \field{day}{1}
+      \field{issn}{1569-9293}
+      \field{journaltitle}{Interactive CardioVascular and Thoracic Surgery}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{Interactive CardioVascular and Thoracic Surgery}
+      \field{shorttitle}{A Novel Low-Fidelity Simulator for Both Mitral Valve and Tricuspid Valve Surgery}
+      \field{title}{A Novel Low-Fidelity Simulator for Both Mitral Valve and Tricuspid Valve Surgery: The Surgical Skills Trainer for Classic Open and Minimally Invasive Techniques†}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{16}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{97\bibrangedash 101}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1093/icvts/ivs451
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\O S C A R\\Zotero\\storage\\A8E75LVX\\Verberkmoes and Verberkmoes-Broeders - 2013 - A novel low-fidelity simulator for both mitral val.pdf;C\:\\Users\\O S C A R\\Zotero\\storage\\SE7V5FWI\\655478.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/icvts/ivs451
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/icvts/ivs451
+      \endverb
+    \endentry
+    \entry{walkerVitroEvaluationMechanical2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f144009567e7ce35fb6fe85256df570}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f144009567e7ce35fb6fe85256df570}
+      \strng{fullhash}{8f144009567e7ce35fb6fe85256df570}
+      \strng{fullhashraw}{8f144009567e7ce35fb6fe85256df570}
+      \strng{bibnamehash}{8f144009567e7ce35fb6fe85256df570}
+      \strng{authorbibnamehash}{8f144009567e7ce35fb6fe85256df570}
+      \strng{authornamehash}{8f144009567e7ce35fb6fe85256df570}
+      \strng{authorfullhash}{8f144009567e7ce35fb6fe85256df570}
+      \strng{authorfullhashraw}{8f144009567e7ce35fb6fe85256df570}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{journaltitle}{Theses and Dissertations}
+      \field{month}{8}
+      \field{title}{In {{Vitro Evaluation}} of {{Mechanical Heart Valve Performance Using}} a {{Novel Test Chamber}} in an {{Automated Mock Circulatory Loop}}}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.25772/D5GZ-EE71
+      \endverb
+      \verb{urlraw}
+      \verb https://scholarscompass.vcu.edu/etd/2329
+      \endverb
+      \verb{url}
+      \verb https://scholarscompass.vcu.edu/etd/2329
+      \endverb
+    \endentry
+    \entry{westerhofArterialWindkessel2009}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7728ae0453e78798cc091a582ee637d3}{%
+           family={Westerhof},
+           familyi={W\bibinitperiod},
+           given={Nico},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dc5d5aa48d1ad3f7361f2cba41d1da4}{%
+           family={Lankhaar},
+           familyi={L\bibinitperiod},
+           given={Jan-Willem},
+           giveni={J\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb1e4b4823bcc1f8a93ba282531bb2d1}{%
+           family={Westerhof},
+           familyi={W\bibinitperiod},
+           given={Berend\bibnamedelima E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{09836fe48f2486e8e890b7291d94d201}
+      \strng{fullhash}{216b305ebeab0803b5035a115fb5a477}
+      \strng{fullhashraw}{216b305ebeab0803b5035a115fb5a477}
+      \strng{bibnamehash}{216b305ebeab0803b5035a115fb5a477}
+      \strng{authorbibnamehash}{216b305ebeab0803b5035a115fb5a477}
+      \strng{authornamehash}{09836fe48f2486e8e890b7291d94d201}
+      \strng{authorfullhash}{216b305ebeab0803b5035a115fb5a477}
+      \strng{authorfullhashraw}{216b305ebeab0803b5035a115fb5a477}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Frank’s Windkessel model described the hemodynamics of the arterial system in terms of resistance and compliance. It explained aortic pressure decay in diastole, but fell short in systole. Therefore characteristic impedance was introduced as a third element of the Windkessel model. Characteristic impedance links the lumped Windkessel to transmission phenomena (e.g., wave travel). Windkessels are used as hydraulic load for isolated hearts and in studies of the entire circulation. Furthermore, they are used to estimate total arterial compliance from pressure and flow; several of these methods are reviewed. Windkessels describe the general features of the input impedance, with physiologically interpretable parameters. Since it is a lumped model it is not suitable for the assessment of spatially distributed phenomena and aspects of wave travel, but it is a simple and fairly accurate approximation of ventricular afterload.}
+      \field{day}{1}
+      \field{issn}{1741-0444}
+      \field{journaltitle}{Medical \& Biological Engineering \& Computing}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{Med Biol Eng Comput}
+      \field{title}{The Arterial {{Windkessel}}}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{47}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{131\bibrangedash 141}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s11517-008-0359-2
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\KV85WYZH\Westerhof et al. - 2009 - The arterial Windkessel.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11517-008-0359-2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11517-008-0359-2
+      \endverb
+      \keyw{Arterial compliance,Characteristic impedance,Input impedance,Pressure-flow relation}
+    \endentry
+    \entry{YostDrawingDetailed}{online}{}{}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{Yost - {{Drawing Detailed}} View of Tricuspid Valve - {{English}} Labels | {{AnatomyTOOL}}}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\DLALRUE7\yost-drawing-detailed-view-tricuspid-valve-english-labels.html
+      \endverb
+      \verb{urlraw}
+      \verb https://anatomytool.org/content/yost-drawing-detailed-view-tricuspid-valve-english-labels
+      \endverb
+      \verb{url}
+      \verb https://anatomytool.org/content/yost-drawing-detailed-view-tricuspid-valve-english-labels
+      \endverb
+    \endentry
+    \entry{zhongNumericalSimulationDynamics2014}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2983926f74d94ec2dc7706bab8c6656e}{%
+           family={Zhong},
+           familyi={Z\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c5785a52384a38ea76a55da09485ae2}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Wen\bibnamedelima Hua},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d9992bcbd4897ae2a87359706c9e0d2}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Xiao\bibnamedelima Yang},
+           giveni={X\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be5ce042fb68417e1d22a0b972767874}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Bo\bibnamedelima Liang},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Trans Tech Publications Ltd}%
+      }
+      \strng{namehash}{d07461d2f1424b0aa0a99727823a1bc4}
+      \strng{fullhash}{4850bef3586a99f25d23aec9390e69e0}
+      \strng{fullhashraw}{4850bef3586a99f25d23aec9390e69e0}
+      \strng{bibnamehash}{4850bef3586a99f25d23aec9390e69e0}
+      \strng{authorbibnamehash}{4850bef3586a99f25d23aec9390e69e0}
+      \strng{authornamehash}{d07461d2f1424b0aa0a99727823a1bc4}
+      \strng{authorfullhash}{4850bef3586a99f25d23aec9390e69e0}
+      \strng{authorfullhashraw}{4850bef3586a99f25d23aec9390e69e0}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Imaging techniques allow the visualization of the heart valves, but do not yields any information regarding the load applied to the heart valve information that provides key clues to the cause of valve deterioration. Numerical simulation, which is able to replicate and understand the dynamics of the valve, would benefit studies on heart valves surgical repair and prostheses design. Modeling and simulation of heart valves dynamics is a challenging biomechanical problem. Many researchers have taken various approaches to model the heart valve. But systematical categorization and development tendency of their research have never been discussed before. This paper reviews their models and divides them into wet models or dry models, in the light of whether considering blood flow and valve interaction. These simulations also can be categorized as native heart valve or artificial heart valve simulation by a different model prototype. The critical issues for future research are presented.}
+      \field{issn}{1662-7482}
+      \field{journaltitle}{Applied Mechanics and Materials}
+      \field{langid}{english}
+      \field{shorttitle}{Numerical {{Simulation}} of the {{Dynamics}} of {{Heart Valves}}}
+      \field{title}{Numerical {{Simulation}} of the {{Dynamics}} of {{Heart Valves}}: {{A Literature Review}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{444--445}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1211\bibrangedash 1217}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.4028/www.scientific.net/AMM.444-445.1211
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scientific.net/AMM.444-445.1211
+      \endverb
+      \verb{url}
+      \verb https://www.scientific.net/AMM.444-445.1211
+      \endverb
+    \endentry
+    \entry{zilinskasPhysiologicalVentricularSimulator2022}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=368b487a8721a630348bdce573de3c95}{%
+           family={Zilinskas},
+           familyi={Z\bibinitperiod},
+           given={Kasparas},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29347ed0743185fce6add6f30307ff72}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Jennie\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b0e7f4c34b0970fc15c46d30bebb64c}{%
+           family={Bishara},
+           familyi={B\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c52f8e1322886d45cc23fdc133845408}{%
+           family={Hayden},
+           familyi={H\bibinitperiod},
+           given={Kaila},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b97d3f5d4df5f0fac9e2da34002f6ce}{%
+           family={Quintao},
+           familyi={Q\bibinitperiod},
+           given={Ritchelli},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1886160f341e637cd6510754016692d8}{%
+           family={Rajab},
+           familyi={R\bibinitperiod},
+           given={Taufiek\bibnamedelima Konrad},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{04ba333b9f0d0301f948baeeb9a4dc50}
+      \strng{fullhash}{9c095b1026889b9ff35b055ce9096820}
+      \strng{fullhashraw}{9c095b1026889b9ff35b055ce9096820}
+      \strng{bibnamehash}{9c095b1026889b9ff35b055ce9096820}
+      \strng{authorbibnamehash}{9c095b1026889b9ff35b055ce9096820}
+      \strng{authornamehash}{04ba333b9f0d0301f948baeeb9a4dc50}
+      \strng{authorfullhash}{9c095b1026889b9ff35b055ce9096820}
+      \strng{authorfullhashraw}{9c095b1026889b9ff35b055ce9096820}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Surgical simulation is becoming increasingly important in training cardiac surgeons. However, there are currently no training simulators capable of testing the quality of simulated heart valve procedures under dynamic physiologic conditions. Here we describe a dynamic ventricular simulator, consisting of a 3D printed valve suspension chamber and a model 1423 Harvard apparatus pulsatile pump, which can provide close to physiologic hemodynamic perfusion of porcine aortic roots attached to the valve chamber for education and training in cardiac surgery. The simulator was validated by using it to test aortic valve leaflet repairs (n = 6) and aortic valve replacements (n = 3) that were performed by two trainees. Procedural success could be evaluated by direct visualization of the opening and closing valve, hemodynamic measurements and echocardiography. We conclude that, unlike other methods of simulation, this novel ventricular simulator is able to test the functional efficacy of aortic procedures under dynamic physiologic conditions using clinically relevant echocardiographic and hemodynamic outcomes. While validated for valve surgery, other potential applications include ascending aortic interventions, coronary re-implantation or catheter-based valve replacements.}
+      \field{issn}{2306-5354}
+      \field{issue}{6}
+      \field{journaltitle}{Bioengineering}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{Physiological {{Ventricular Simulator}} for {{Valve Surgery Training}}}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{9}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{264}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/bioengineering9060264
+      \endverb
+      \verb{file}
+      \verb C:\Users\O S C A R\Zotero\storage\RSWZEVZT\Zilinskas et al. - 2022 - Physiological Ventricular Simulator for Valve Surg.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2306-5354/9/6/264
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2306-5354/9/6/264
+      \endverb
+      \keyw{3D printing,aortic procedure,cardiothoracic,simulation,surgery,valve replacement}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

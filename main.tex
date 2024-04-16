@@ -1,0 +1,213 @@
+\documentclass[pdftex,dvipsnames]{dissertation}
+
+% --- Encoding stuff ----------------------------------------------------------
+% \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+% --- English stuff -----------------------------------------------------------
+\usepackage[french,english]{babel}
+% \usepackage[english]{babel}
+\selectlanguage{english}
+
+\usepackage{xspace}
+\usepackage{csquotes}
+
+% --- Debug stuff -------------------------------------------------------------
+\usepackage{morewrites} % workaround for "no room for new \write" error
+
+% --- Font stuff --------------------------------------------------------------
+\usepackage{stackengine} % for overlapping text
+
+% --- Page formatting ---------------------------------------------------------
+\usepackage{multicol}
+
+% --- Appendices --------------------------------------------------------------
+
+% --- Blind text --------------------------------------------------------------
+% \usepackage{blindtext} % provide \blindtext, \Blindtext
+\usepackage{lipsum}
+
+\usepackage{xargs}   % Use more than one optional parameter in a new commands
+% \usepackage{xcolor}  % Coloured text etc.
+% \usepackage{pygmentize}
+
+% --- TODO notes --------------------------------------------------------------
+\usepackage[loadshadowlibrary,colorinlistoftodos,prependcaption,textsize=small,shadow]{todonotes}
+% my alias
+\input{utils/todonotes}
+
+% --- Symbols, Units and Icons ------------------------------------------------
+% \usepackage{fontawesome5} % fontawesomeicons
+\usepackage{arydshln} % provide dashline
+\usepackage{pifont}% http://ctan.org/pkg/pifont
+\usepackage{gensymb} % provide \degree
+
+% --- Math --------------------------------------------------------------------
+\usepackage{kmath} % cool delimiters
+\usepackage{dsfont} % double stroke
+\usepackage[mathscr]{euscript}
+\usepackage{xfrac} % provide \sfrac, cool fractions
+\usepackage{siunitx}    % provide \ang and SI units
+\usepackage{epsdice} % provide \epsdice
+
+% --- Theorem environment------------------------------------------------------
+\usepackage{amsthm}
+\usepackage{thmtools}
+\usepackage{thm-restate}
+\declaretheorem[%
+    name=Rationale,
+    refname={Rationale,Rationales},
+    Refname={Rationale,Rationales}
+]{rationale}
+\declaretheorem[%
+    name={Security Claim},
+    numbered={unless unique},
+]{secclaim}
+
+% --- Packages from Frederich -------------------------------------------------
+\usepackage{longtable}
+\usepackage{pdflscape}
+\usepackage{enumitem}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{arydshln}
+
+%%% OTHER INCLUDES
+\input{utils/my_commands.tex}
+% \input{utils/my_notation.tex}
+
+%%% MACROS
+\newcommand{\gc}[1]{{\textcolor{green}{#1}}}
+% \newcommand{\gc}[1]{{\textcolor{black}{#1}}}
+
+\newcommand{\gccor}[2]{{\textcolor{red}{[#1 $\rightarrow$ #2]}}}
+% \newcommand{\gccor}[2]{{\textcolor{black}{#2}}}
+
+\newcommand{\gccmt}[1]{{\textcolor{blue}{[SE: #1]}}}
+%\newcommand{\gccmt}[1]{}
+
+\newcommand{\gcrm}[1]{{\textcolor{magenta}{[#1]}}}
+% \newcommand{\gcrm}[1]{{\textcolor{black}{}}}
+
+% --- Table of Contents -------------------------------------------------------
+%%% TOC STYLE : check in the dissertation class
+% check dissertation class
+% %% MINITOC per CHAPTER
+\usepackage{minitoc} % must be inserted after any modification of TOC
+
+% --- Graphics ----------------------------------------------------------------
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.8}
+\usepgfplotslibrary{fillbetween} %for fill under curve
+\usepackage{tikz}
+\usetikzlibrary{calc,patterns,arrows,shapes.arrows,intersections,fadings,shadows.blur}
+\usepackage[abs]{overpic}
+% \usepackage[percent]{overpic} % provide \put on figures
+\graphicspath{{./figures/}{./icons/}{./logos/}}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+% add pdf pages
+\usepackage{pdfpages} % \includepdf[pages=-]{myfile.pdf}
+\usepackage{rotating} % provide sidewaystable env
+\usepackage{media9}
+% \usepackage{subcaption}
+\captionsetup{compatibility=false} % to avoid warning with subcaption
+% 2 sub figures
+% \usepackage{subcaption}
+% \pgfplotsset{%
+%     table/search path={./figures/plots/},
+% }
+
+% --- Algorithm ---------------------------------------------------------------
+\newcommand\mycommfont[1]{\footnotesize\ttfamily\textbf{\textcolor{mygray}{#1}}}
+\SetCommentSty{mycommfont}
+
+% --- Glossary -----------------------------------------------------------
+\makenoidxglossaries
+\input{contents/front_matter/glossary}
+
+% --- Bibliopgraphy -----------------------------------------------------------
+\bibliography{contents/back_matter/references.bib}
+
+% --- Include only ------------------------------------------------------------
+\input{contents/synopsis}
+
+\includeonly{   % Of course this list allows many more file
+% contents/main_matter/chapter_intro
+contents/main_matter/chapter_lit
+% contents/main_matter/chapter_design
+% contents/main_matter/chapter_testing
+% contents/main_matter/chapter_results
+% contents/main_matter/chapter_discussion
+% contents/main_matter/chapter_conclusion
+% contents/back_matter/appendix
+% contents/back_matter/bibliography
+    }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%DOCUMENT%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{A mock tricuspid valve for a right heart simulator}
+\author{Oscar Daly}
+\date{\today}
+
+\begin{document}
+
+% === FRONT MATTER
+\frontmatter{}
+\includepdf[pages=-]{assets/first.pdf}
+\listoftodos
+% \include{contents/front_matter/colophon_dedication}
+\include{contents/front_matter/abstract}
+% \include{contents/front_matter/acknowledgments}
+\setcounter{mtc}{2}
+\doparttoc[n]
+\tableofcontents*\addcontentsline{toc}{chapter}{Contents}
+
+
+% \glsaddallunused
+% \printnoidxglossary[type=symbols,title={Symbols}]
+% \printnoidxglossary[type=\acronymtype, title={Equations}]
+% \addToPDFBookmarks{1}{List of Acronyms}{loa}
+\printnoidxglossary[type=main, title = List of Acronyms, toctitle = List of Acronyms, style=long3colheader]
+% \printnoidxglossary[type=\acronymtype, title = List of Acronyms, toctitle = List of Acronyms]
+% \printnoidxglossary[title = Equations, toctitle = Equations]
+% \include{contents/front_matter/notation}
+
+% === MAIN BODY ===
+\setcounter{mtc}{9}
+\mainmatter{}
+
+\begin{fullwidth}
+  \part{Prologue}\label{pt:prologue}
+\end{fullwidth}
+\include{contents/main_matter/chapter_intro}
+\include{contents/main_matter/chapter_lit}
+
+\begin{fullwidth}
+  \part{Methodology}\label{pt:methodology}
+\end{fullwidth}
+\parttoc[n]
+\include{contents/main_matter/chapter_design}
+\include{contents/main_matter/chapter_testing}
+
+\begin{fullwidth}
+  \part{Results, Analysis, and Discussion}\label{pt:ResAnDis}
+\end{fullwidth}
+\parttoc[n]
+\include{contents/main_matter/chapter_results}
+\include{contents/main_matter/chapter_discussion}
+
+\begin{fullwidth}
+  \part{Epilogue}\label{pt:epilogue}
+\end{fullwidth}
+\parttoc[n]
+\include{contents/main_matter/chapter_conclusion}
+
+% % === BACK MATTER ===% \backmatter{}
+\include{contents/back_matter/appendix}
+\include{contents/back_matter/bibliography}
+% \includepdf{assets/last.pdf}
+
+\end{document}

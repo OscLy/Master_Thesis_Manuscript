@@ -1,0 +1,103 @@
+\chapter*{Notations}\addcontentsline{toc}{chapter}{Notations}\label{ch:notation}
+
+\section*{Linear Algebra}
+\begin{table}[H]
+    \begin{tabular}{ll}
+        $x, X$     & scalars      \\
+        $\bsx, \bfx$  & vectors      \\
+        $x_i$   & $i$-th entry of $\bfx$ \\
+        $\zeroVect_I$ & $I\times1$ vector of zeros\\
+        $\ktranspose{\bfx}$   & transpose of the vector $\bfx$ \\
+        $\khermitian{\bfx}$   & conjugate-transpose (Hermitian) of the vector $\bfx$ \\
+        $\kRe[x]$ & real part scalar (vector) $x$ ($\bfx$) \\
+        $\kIm[x]$ & imaginary part scalar (vector) $x$ ($\bfx$) \\
+        $\csti$  & imaginary unit \\
+        $\bbN$    & set of natural numbers \\
+        $\bbR$    & set of real numbers \\
+        $\bbR_{+}$  & set of real positive numbers \\
+        $\bbC$      & set of complex numbers \\
+    \end{tabular}
+\end{table}
+
+\section*{Common indexing}
+\begin{table}[H]
+    \begin{tabular}{ll}
+        $i$     & microphone or channel index in $\{0, \ldots, I-1\}$      \\
+        $j$     & source index in $\{0, \ldots, J-1\}$      \\
+        $r$     & reflection (echo) index in $\{0, \ldots, R-1\}$      \\
+        $t$     & continuous time index\\
+        $n$     & discrete sample index in $\{0, \ldots, N-1\}$ \\
+        $f$     & continuous frequency index in $\set{0, \ldots, T-1}$\\
+        $k$     & discrete frequency index in $\{0, \ldots, F-1\}$ \\
+        $l$     & discrete time-frame index in $\{0, \ldots, L-1\}$\\
+        $\tau$  & continuous tap index
+    \end{tabular}
+\end{table}
+
+\section*{Geometry}
+\begin{table}[H]
+    \begin{tabular}{ll}
+        $\positionMicrophone_i$ & 3D position of the microphone $i$ recording $x_i(t)$\\
+        $\positionSource_j$ & 3D position of the source $j$ emitting $s_j(t)$\\
+        $\distMicMic_{ii'}$           & distance between microphone $i$ and $i'$ \\
+        $\distMicSrc_{ij}$     & distance between microphone $i$ and source $j$ \\
+        $r_{j}$    & distance of source $j$ \wrt/ to a reference frame \\
+        $\theta_{j}$    & azimuth of source $j$ \wrt/ to a reference frame\\
+        $\varphi_{j}$    & elevation of source $j$ \wrt/ to a reference frame \\
+        $\vartheta_{j}$    & angle of arrival of source $j$ \wrt/ to a reference frame \\
+    \end{tabular}
+\end{table}
+
+\section*{Signals}
+\begin{table}[H]
+    \begin{tabular}{ll}
+        $\tildex(t)$    & continuous time domain signal\\
+        $x[n]$          & discrete time domain signal\\
+        $x_N[n]$          & discrete and finite time domain signal\\
+        $\tildeX(f)$    & continuous frequency domain\\
+        $X[k]$          & discrete frequency domain\\
+        $X[k,l]$        & discrete time-frequency domain\\
+                        &                     \\
+        $x_i$     & input signal recorded at microphone $i$\\
+        $\bsx$    & $I \times 1$ multichannel input signal, i.e. $\bsx = [x_0, \ldots, x_{I-1}]$ \\
+        $\bsH$    & matrix of multichannel signal or filters, typically the mixing matrix ($I \times J$)\\
+        $s_j$     & (target) point source signal $j$ \\
+        $q_j$     & (interfering) point source signal $j$ \\
+        $c_{ij}$  & spatial image source $j$ as recorded at microphone $i$\\
+        $a_{ij}$  & acoustic impulse response from source $j$ to microphone $i$ \\
+        $h_{ij}$  & generic filter from source $j$ to microphone $i$ \\
+        $n_{i}$   & (white \textbf{or} distortion) noise signal at microphone $i$\\
+        $u_{i}$   & generic interfering \textbf{and} distortion noise signal at microphone $i$ \\
+        $\varepsilon_{i}$   & generic noise signal due to mis- or under-modeling $i$ \\
+    \end{tabular}
+\end{table}
+
+\section*{Acoustic}
+\begin{table}[H]
+    \begin{tabular}{ll}
+        $\alpha_{r}$    & attenuation coefficient at reflection $r$\\
+        $\beta_{r}$     & reflection coefficient at reflection $r$\\
+        $\tau_{r}$      & time instant of the reflection $r$\\
+        $\cair$         & speed of sound in air\\
+        $\temperature$  & temperature\\
+        $\rhumidity$    & relative humidity\\
+        $\pressure$     & sound pressure\\
+        $\rir_{ij}$     & Room Impulse Response from source $j$ to microphone $i$ \\
+    \end{tabular}
+\end{table}
+
+\section*{Mathematical Operations}
+\begin{table}[H]
+    \begin{tabular}{ll}
+        $\convCont$          & continuous time convolution\\
+        $\convDis$       & discrete linear convolution\\
+        $\convCir$       & discrete circular convolution\\
+    \end{tabular}
+\end{table}
+
+% \section*{Examples}
+
+% Simple time domain echo model:
+% \begin{equation*}
+%     a_i(t) = \echoModelTimeSimple{}
+% \end{equation*}
