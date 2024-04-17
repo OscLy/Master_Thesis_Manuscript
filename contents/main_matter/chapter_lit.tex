@@ -154,11 +154,32 @@ For research, especially in developing prosthetics and testing interventions, si
 Simulators designed to house an entire explanted heart subjected to pulsatile fluid-dynamic conditions enable the hemodynamic analysis of simulated surgical procedures. These setups are beneficial for device testing, offering a platform for in-depth investigation of valvular surgeries and interventions. ~\citeonly{leopaldiVitroHemodynamicsValve2012}
 
 
-\newthought{Fidelity to Human Anatomy and Physiology in Computational and Physical Simulators:}\\
+\newthought{Fidelity to Human Anatomy and Physiology in  Simulators:}\\
 \begin{itemize}
     \item Some \gls{BHV}'s, such as the Texas TriValve 1.0, have made significant strides in computationally capturing the kinematics and kinetics of the native \gls{TV}. This model, reverse-engineered from a beating human heart, showcases how finite-element models can closely mimic the natural function of the \gls{TV}, including disease-induced and repair-induced changes. This level of detail offers a promising platform for simulating surgical and transcatheter interventions, aiming to improve patient outcomes. ~\citeonly{mathurTexasTriValveReverseengineered2022}
     \item Advanced simulators and models, especially those using 3D printing and computational simulations, have demonstrated a high degree of anatomical and physiological accuracy. These models can replicate complex heart valve geometries and dynamics, providing realistic conditions for training, surgical planning, and device testing. ~\citeonly{rabbahNovelLeftHeart2013}
+
     \item Anatomical and Mechanical Studies: Comparative studies have been crucial in understanding the mechanical, morphological, and microstructural differences between the mitral and tricuspid leaflets and chordae tendineae. These studies reveal that while there are no major differences in leaflet mechanics between the two valves, chordal mechanics can vary significantly, influenced by anatomical location and valve type. This information is vital for surgical and computational applications, especially considering the \gls{TV}'s unique stresses and strains. ~\citeonly{pokutta-paskalevaComparativeMechanicalMorphological2019}
+\end{itemize}
+
+\newthought{Paper released March 2024 - post thesis work conducted}
+\begin{itemize}
+    \item A research group in Heidelberg ~\citeonly{karlExvivoInvitroDynamic2024} developed a rig for mitral valve investigations in a manner similar to the aims of this project as they worked to investigate the effects of the MitraClip device. The rig was designed with less anatomical accuracy and not allowing \gls{PIV} measurement however this allowed the group to implement fixturing for motorized chordae tendineae adjustment and a camera system very close up and head-on to the valve to capture the coaptation process.
+          \marginpar{
+              \centering
+              \footnotesize
+              \includegraphics[width=\linewidth]{figures/karl2.jpg}
+              \captionof{figure}{Side cross section of simulator with dynamic statecamera attachment ~\citeonly{karlExvivoInvitroDynamic2024}}
+              \label{fig:k1}
+          }
+          \marginpar{
+              \centering
+              \footnotesize
+              \includegraphics[width=\linewidth]{figures/karl1.jpg}
+              \captionof{figure}{Side cross-section with static state surgery attachment ~\citeonly{karlExvivoInvitroDynamic2024}}
+              \label{fig:k2}
+          }
+          This study ran a few different experiments, one with a mitral valve prosethesis, one with a mechanical valve, two with ex-vivo valves that were sewn onto an oversized elliptical frame and one experiment most close to the nature of this thesis where an in-vitro valve was
 \end{itemize}
 
 \newthought{Impact on Understanding Valve Mechanics and Patient Outcomes:}\\
@@ -178,12 +199,8 @@ The development of heart valve models utilizes a range of materials, from biolog
 \newthought{Biological Tissues:}\\
 Biological tissues have been a cornerstone in heart valve modeling, particularly for \gls{BHV} constructs. These tissues, typically derived from porcine or bovine sources, undergo treatments to enhance durability and reduce immunogenicity. The inherent biological properties of these tissues, such as their biomechanical behavior and hemocompatibility, make them suitable for simulating natural heart valve function. Limitations such as potential calcification, immune reactions have been shown however porcine and bovinepericaridium remains commonplace in current \gls{TTVR} and \gls{TAVR} respectively. ~\citeonly{filovaTissueengineeredHeartValves2009}
 
-\newthought{Synthetic Polymers:}\\
-Synthetic polymers offer an alternative to biological tissues with advantages in consistency, durability, and the potential for customization. Polyurethane, silicone rubber, and \gls{PET} are among the polymers explored for heart valve modeling. Polyurethane, in particular, has shown promise due to its excellent tear resistance and similarity to the mechanical properties of natural valve tissue. The flexibility and durability of \gls{PU} make it an appealing choice for synthetic heart valve leaflets, though challenges remain in mimicking the viscoelastic properties of natural valves. ~\citeonly{baxterChapter12Selection2006} \sidenote{In the context of this project, choosing a synthetic material is desirable due to the intrinsic need of longevity so finding a \gls{PU} similar to those in valve replacements that can mimic the \gls{TV}'s function is}
-
-\newthought{Emerging Materials and Technologies:}\sidenote{essentially adding nano-sized building blocks into the polymer matrix which enhances durability while maintaining flexibility and processability}\\
-Recent advancements have led to the exploration of nanocomposite polymers and hydrogels for heart valve modeling. Nanocomposite polymers, such as poly(carbonate-urea)urethane integrated with polyhedral oligomeric silsesquioxanes, exhibit enhanced mechanical properties and biostability. These materials show reduced calcification potential under in vitro conditions, making them attractive for the development of synthetic leaflet heart valves ~\citeonly{ghanbariAnticalcificationPotentialSilsesquioxane2010}
-
+\newthought{Emerging Materials and Technologies:}\\
+Recent advancements have led to the exploration of nanocomposite polymers \sidenote{essentially adding nano-sized building blocks into the polymer matrix which enhances durability while maintaining flexibility and processability} and hydrogels for heart valve modeling. Nanocomposite polymers, such as poly(carbonate-urea)urethane integrated with polyhedral oligomeric silsesquioxanes, exhibit enhanced mechanical properties and biostability. These materials show reduced calcification potential under in vitro conditions, making them attractive for the development of synthetic leaflet heart valves ~\citeonly{ghanbariAnticalcificationPotentialSilsesquioxane2010}
 
 \marginpar{
     \centering
@@ -192,6 +209,27 @@ Recent advancements have led to the exploration of nanocomposite polymers and hy
     \captionof{figure}{Comparison surfaces in fatigued (a) \gls{PU}  (b) poly(carbonate-urea)urethane (c) valve leaflets showing tissue failure  and fibre dehiscence marked by the yellow arrows in each ~\citeonly{ghanbariAnticalcificationPotentialSilsesquioxane2010}}
     \label{fig:puanal2}
 }
+
+\subsubsection{Synthetic Polymers:}
+Synthetic polymers offer an alternative to biological tissues with advantages in consistency, durability, and the potential for customization. Polyurethane, silicone rubber, and \gls{PET} are among the polymers explored for heart valve modeling. Polyurethane, in particular, has shown promise due to its excellent tear resistance and similarity to the mechanical properties of natural valve tissue. The flexibility and durability of \gls{PU} make it an appealing choice for synthetic heart valve leaflets, though challenges remain in mimicking the viscoelastic properties of natural valves. ~\citeonly{baxterChapter12Selection2006} \sidenote{In the context of this project, choosing a synthetic material is desirable due to the intrinsic need of longevity so finding a \gls{PU} similar to those in valve replacements that can mimic the \gls{TV}'s function is}
+
+\newthought{Silicone Mitral Valve Study}
+The Engelhardt group \citeonly{engelhardtFlexibleComprehensivePatientspecific2019}
+\begin{figure}[H]
+    \centering
+    \href{https://link.springer.com/article/10.1007/s11548-019-01971-9#MOESM1}{\includegraphics[width=\linewidth]{figures/Engel}}%
+    \caption{Video of annuloplasty being performed on silicone mitral valve \textbf{(click to view video)}}
+    \label{fig:Videos}
+\end{figure}
+
+\newthought{}
+\citeonly{gintyModelingPatientSpecificDeformable2018}
+
+\todo{finish this paper disc}
+\newthought{Polyurethane Mitral Valve Study}
+\citeonly{luoEffectBendingRigidity2012}
+0.125mm average thickness, chordae 0.7mm diam, modelled in systole, leaflet youngs modulus 5.4mpa\ chordae youngs 30mpa
+
 Hydrogels, derived from natural or synthetic sources, are being investigated for their potential in valve tissue engineering due to their biocompatibility and ability to support cell adhesion and proliferation. Challenges exist in balancing the bioactivity and mechanical durability of hydrogels to meet the demands of heart valve function.
 
 % \subsection{3D Printing and Fabrication Techniques}
@@ -206,6 +244,9 @@ In the process of translating anatomical data from \gls{CT} scans and \gls{MRI} 
 ~\citeonly{ionasecPatientSpecificModelingQuantification2010} introduced one of the first automatic computational systems for patient-specific modeling and quantification of the left heart valves, operating on cardiac \gls{CT} and transesophageal echocardiogram data. Their method, leverages discriminative learning and estimates  parameters from volumetric slices, enabling a holistic representation of the aortic and mitral valves that accounts for anatomical variations.
 
 In a similar vein, ~\citeonly{grbicCompleteValvularHeart2012} proposed a patient-specific model of cardiac valves from 4D cardiac \gls{CT} data. Their model addresses the anatomical, functional, and hemodynamic aspects of the heart, utilizing a constrained Multi-linear Shape Model conditioned by anatomical measurements. This approach offers a more detailed representation of the heart's valvular structures and dynamics, facilitating the study of valvular pathologies and interventions.
+
+\todo{Finish this paper disc}
+One research group has done multiple studies on making anatomical models for procedure planning and device testing. The group 3d printed semi flexible material to implant the MitraClip device\citeonly{vukicevic3DPrintedModeling2017} and later did the same for the tricuspid valve \citeonly{vukicevicPatientSpecific3DimensionalPrinted2020}
 
 \newthought{Challenges with Right Heart:}\\
 The challenges of the right heart stem primarily from the complex anatomical and functional nature of the \gls{TV}, which can be more difficult to capture accurately due to several factors:

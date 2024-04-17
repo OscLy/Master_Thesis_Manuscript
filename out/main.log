@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.5)  17 APR 2024 12:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.5)  17 APR 2024 19:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2093,7 +2093,51 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 LaTeX Font Info:    Trying to load font information for T1+txr on input line 155.
  (c:/texlive/2024/texmf-dist/tex/latex/txfonts/t1txr.fd
 File: t1txr.fd 2000/12/15 v3.1
-) (out/main.aux (out/contents/front_matter/abstract.aux) (out/contents/main_matter/chapter_intro.aux) (out/contents/main_matter/chapter_lit.aux) (out/contents/main_matter/chapter_design.aux) (out/contents/main_matter/chapter_testing.aux) (out/contents/main_matter/chapter_results.aux) (out/contents/main_matter/chapter_discussion.aux) (out/contents/main_matter/chapter_conclusion.aux) (out/contents/back_matter/appendix.aux) (out/contents/back_matter/bibliography.aux))
+) (out/main.aux (out/contents/front_matter/abstract.aux) (out/contents/main_matter/chapter_intro.aux) (out/contents/main_matter/chapter_lit.aux
+
+LaTeX Warning: Label `1' multiply defined.
+
+
+LaTeX Warning: Label `2' multiply defined.
+
+
+LaTeX Warning: Label `3' multiply defined.
+
+
+LaTeX Warning: Label `4' multiply defined.
+
+
+LaTeX Warning: Label `5' multiply defined.
+
+
+LaTeX Warning: Label `6' multiply defined.
+
+
+LaTeX Warning: Label `7' multiply defined.
+
+
+LaTeX Warning: Label `8' multiply defined.
+
+
+LaTeX Warning: Label `9' multiply defined.
+
+
+LaTeX Warning: Label `10' multiply defined.
+
+
+LaTeX Warning: Label `11' multiply defined.
+
+
+LaTeX Warning: Label `12' multiply defined.
+
+) (out/contents/main_matter/chapter_design.aux) (out/contents/main_matter/chapter_testing.aux) (out/contents/main_matter/chapter_results.aux
+
+LaTeX Warning: Label `fig:Videos' multiply defined.
+
+
+LaTeX Warning: Label `fig:Videos@cref' multiply defined.
+
+) (out/contents/main_matter/chapter_discussion.aux) (out/contents/main_matter/chapter_conclusion.aux) (out/contents/back_matter/appendix.aux) (out/contents/back_matter/bibliography.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 155.
@@ -2292,7 +2336,7 @@ Package pgfplots notification 'compat/show suggested version=true': you might be
 
 
 pdfTeX warning: pdflatex.exe (file ./assets/first.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<assets/first.pdf, id=191, 597.55246pt x 845.07718pt>
+<assets/first.pdf, id=83, 597.55246pt x 845.07718pt>
 File: assets/first.pdf Graphic file (type pdf)
 <use assets/first.pdf>
 Package pdftex.def Info: assets/first.pdf  used on input line 159.
@@ -2310,7 +2354,7 @@ pdfTeX warning: pdflatex.exe (file ./assets/first.pdf): PDF inclusion: found PDF
 
 
 pdfTeX warning: pdflatex.exe (file ./assets/first.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<assets/first.pdf, id=194, page=1, 597.55246pt x 845.07718pt>
+<assets/first.pdf, id=86, page=1, 597.55246pt x 845.07718pt>
 File: assets/first.pdf Graphic file (type pdf)
 <use assets/first.pdf, page 1>
 Package pdftex.def Info: assets/first.pdf , page1 used on input line 159.
@@ -2393,41 +2437,19 @@ File: ts1txr.fd 2000/12/15 v3.1
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] (out/main.mw)
 \openout5 = `main.mw'.
 
-\openout2 = `contents/front_matter/abstract.aux'.
-
- (./contents/front_matter/abstract.tex
-LaTeX Font Info:    Font shape `T1/txr/b/n' in size <8> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 8.
-LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 6.29996pt on input line 13.
-LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 4.49997pt on input line 13.
-LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 6.29996pt on input line 13.
-LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 4.49997pt on input line 13.
-)
-\openout5 = `main.mw'.
-
- [3
-
-
-] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 Package minitoc Info: I0025
 (minitoc)             PREPARING PARTTOCS FROM main.toc on input line 165.
 
 {\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode Abstract}{\reset@font\ptcCfont iii}{chapter*.2}}
-{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode Contents}{\reset@font\ptcCfont v}{section*.3}}
-{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode List of Acronyms}{\reset@font\ptcCfont vi}{section*.4}}
+{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode Contents}{\reset@font\ptcCfont v}{section*.2}}
+{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode List of Acronyms}{\reset@font\ptcCfont vi}{section*.3}}
 Package minitoc Info: I0033
 (minitoc)             Writing main.ptc1.
 \openout5 = `main.ptc1'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
@@ -2623,6 +2645,10 @@ Package minitoc Info: I0033
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 Package minitoc Info: I0033
 (minitoc)             Writing main.ptc3.
 \openout5 = `main.ptc2'.
@@ -2712,7 +2738,6 @@ LaTeX Font Info:    Font shape `T1/mak/m/n' will be
 
  [4
 
-
 ] (out/main.mw)
 \openout5 = `main.mw'.
 
@@ -2788,73 +2813,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 173--173
 
 \openout5 = `main.mw'.
 
-\openout2 = `contents/main_matter/chapter_intro.aux'.
-
- (./contents/main_matter/chapter_intro.tex
-\openout5 = `main.mw'.
-
- [2
-
-
-
-] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [3] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [4] (out/main.mw)
-\openout5 = `main.mw'.
-
-LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 8.09995pt on input line 75.
-LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 75.
-\openout5 = `main.mw'.
-
- [5] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 93.
-\openout5 = `main.mw'.
-
- [6] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-)
-\openout5 = `main.mw'.
-
- [7] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout2 = `contents/main_matter/chapter_lit.aux'.
 
  (./contents/main_matter/chapter_lit.tex
-<figures/heartimage.jpg, id=439, 196.735pt x 182.18062pt>
+<figures/heartimage.jpg, id=271, 196.735pt x 182.18062pt>
 File: figures/heartimage.jpg Graphic file (type jpg)
 <use figures/heartimage.jpg>
 Package pdftex.def Info: figures/heartimage.jpg  used on input line 21.
@@ -2883,7 +2845,7 @@ See the caption package documentation for explanation.
 
 \openout5 = `main.mw'.
 
-<figures/tricuspidimage.jpg, id=457, 248.75334pt x 273.46968pt>
+<figures/tricuspidimage.jpg, id=290, 248.75334pt x 273.46968pt>
 File: figures/tricuspidimage.jpg Graphic file (type jpg)
 <use figures/tricuspidimage.jpg>
 Package pdftex.def Info: figures/tricuspidimage.jpg  used on input line 39.
@@ -2894,12 +2856,24 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 39.
 See the caption package documentation for explanation.
 
+LaTeX Font Info:    Font shape `OML/mak/m/it' will be
+(Font)              scaled to size 8.09995pt on input line 42.
+LaTeX Font Info:    Font shape `OML/mak/m/it' will be
+(Font)              scaled to size 4.49997pt on input line 42.
+LaTeX Font Info:    Font shape `T1/mak/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 42.
+LaTeX Font Info:    Font shape `T1/mak/m/n' will be
+(Font)              scaled to size 4.49997pt on input line 42.
 \openout5 = `main.mw'.
 
 [9 <./figures/tricuspidimage.jpg>] (out/main.mw)
 \openout5 = `main.mw'.
 
-<figures/regurgsteno.jpg, id=480, 394.47375pt x 361.35pt>
+LaTeX Font Info:    Font shape `OML/mak/m/it' will be
+(Font)              scaled to size 6.29996pt on input line 58.
+LaTeX Font Info:    Font shape `T1/mak/m/n' will be
+(Font)              scaled to size 6.29996pt on input line 58.
+<figures/regurgsteno.jpg, id=313, 394.47375pt x 361.35pt>
 File: figures/regurgsteno.jpg Graphic file (type jpg)
 <use figures/regurgsteno.jpg>
 Package pdftex.def Info: figures/regurgsteno.jpg  used on input line 72.
@@ -2929,12 +2903,12 @@ See the caption package documentation for explanation.
 
 \openout5 = `main.mw'.
 
-<figures/TTVR.jpg, id=526, 277.53688pt x 181.67876pt>
+<figures/TTVR.jpg, id=363, 277.53688pt x 181.67876pt>
 File: figures/TTVR.jpg Graphic file (type jpg)
 <use figures/TTVR.jpg>
 Package pdftex.def Info: figures/TTVR.jpg  used on input line 111.
 (pdftex.def)             Requested size: 312.0pt x 204.24115pt.
-<figures/WindKessel.jpg, id=533, 222.33063pt x 152.06813pt>
+<figures/WindKessel.jpg, id=370, 222.33063pt x 152.06813pt>
 File: figures/WindKessel.jpg Graphic file (type jpg)
 <use figures/WindKessel.jpg>
 Package pdftex.def Info: figures/WindKessel.jpg  used on input line 128.
@@ -2974,25 +2948,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--159
 [16] (out/main.mw)
 \openout5 = `main.mw'.
 
-<figures/PUanal.jpg, id=590, 239.19452pt x 360.07089pt>
-File: figures/PUanal.jpg Graphic file (type jpg)
-<use figures/PUanal.jpg>
-Package pdftex.def Info: figures/PUanal.jpg  used on input line 177.
-(pdftex.def)             Requested size: 144.0pt x 216.77493pt.
+<figures/karl2.jpg, id=429, 322.20375pt x 389.95688pt>
+File: figures/karl2.jpg Graphic file (type jpg)
+<use figures/karl2.jpg>
+Package pdftex.def Info: figures/karl2.jpg  used on input line 174.
+(pdftex.def)             Requested size: 144.0pt x 174.28296pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 177.
+(caption)                particular \caption on input line 174.
+See the caption package documentation for explanation.
+
+<figures/karl1.jpg, id=432, 363.3575pt x 387.4475pt>
+File: figures/karl1.jpg Graphic file (type jpg)
+<use figures/karl1.jpg>
+Package pdftex.def Info: figures/karl1.jpg  used on input line 181.
+(pdftex.def)             Requested size: 144.0pt x 153.55147pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 181.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 7238) in paragraph at lines 177--177
-[]\T1/txr/m/sc/8 (+20) Figure 2.6\T1/txr/m/n/8 (+20) : |[]Comparison of [][][]PU[][] and
+LaTeX Warning: Marginpar on page 17 moved by 197.5015pt.
+
+<figures/PUanal.jpg, id=435, 239.19452pt x 360.07089pt>
+File: figures/PUanal.jpg Graphic file (type jpg)
+<use figures/PUanal.jpg>
+Package pdftex.def Info: figures/PUanal.jpg  used on input line 198.
+(pdftex.def)             Requested size: 144.0pt x 216.77493pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 198.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 198--198
+[]\T1/txr/m/sc/8 (+20) Figure 2.8\T1/txr/m/n/8 (+20) : |[]Comparison of [][][]PU[][] and
  []
 
 \openout5 = `main.mw'.
 
-[17 <./figures/PUanal.jpg>] (out/main.mw)
+[17 <./figures/karl2.jpg> <./figures/karl1.jpg>] (out/main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3000,53 +2997,56 @@ Underfull \hbox (badness 7238) in paragraph at lines 177--177
 \openout5 = `main.mw'.
 
 
-Underfull \hbox (badness 7869) in paragraph at lines 184--184
-[][]\T1/txr/m/n/8 (+20) essentially adding nano-sized build-ing
- []
 
+LaTeX Warning: Marginpar on page 18 moved by 172.77493pt.
 
-LaTeX Warning: Marginpar on page 18 moved by 20.0pt.
-
-<figures/PUanal2.jpg, id=613, 328.73256pt x 422.74753pt>
+<figures/PUanal2.jpg, id=454, 328.73256pt x 422.74753pt>
 File: figures/PUanal2.jpg Graphic file (type jpg)
 <use figures/PUanal2.jpg>
-Package pdftex.def Info: figures/PUanal2.jpg  used on input line 194.
+Package pdftex.def Info: figures/PUanal2.jpg  used on input line 211.
 (pdftex.def)             Requested size: 144.0pt x 185.1838pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 194.
+(caption)                particular \caption on input line 211.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Marginpar on page 18 moved by 125.86583pt.
+LaTeX Warning: Marginpar on page 18 moved by 139.86583pt.
+
+
+LaTeX Warning: Marginpar on page 18 moved by 18.31851pt.
+
+<figures/Engel.jpg, id=466, 334.75063pt x 190.21063pt>
+File: figures/Engel.jpg Graphic file (type jpg)
+<use figures/Engel.jpg>
+Package pdftex.def Info: figures/Engel.jpg  used on input line 220.
+(pdftex.def)             Requested size: 312.0pt x 177.29749pt.
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <8> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 221.
+\openout5 = `main.mw'.
+
+[18 <./figures/PUanal.jpg> <./figures/PUanal2.jpg>] (out/main.mw)
+\openout5 = `main.mw'.
+
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 228.
+\openout5 = `main.mw'.
+
+ [19 <./figures/Engel.JPG>] (out/main.mw)
+\openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
-[18 <./figures/PUanal2.jpg>] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [19] (out/main.mw)
+ [20] (out/main.mw)
 \openout5 = `main.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
 
  []
 
 \openout5 = `main.mw'.
 
-[20] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [21] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+[21] (out/main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3056,16 +3056,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--238
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
  [23] (out/main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
  [24] (out/main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [25] (out/main.mw)
 \openout5 = `main.mw'.
 
 *geometry* verbose mode - [ newgeometry ] result:
@@ -3158,7 +3167,7 @@ Underfull \hbox (badness 1902) in paragraph at lines 23--24
 ))
 \openout5 = `main.mw'.
 
- [25
+ [26
 
 
 ] (out/main.mw)
@@ -3198,7 +3207,7 @@ Underfull \hbox (badness 1902) in paragraph at lines 23--24
 
 \openout5 = `main.mw'.
 
- [26
+ [27
 
 
 
@@ -3230,162 +3239,10 @@ LaTeX Font Info:    Font shape `T1/txr/b/sc' in size <11> not available
 )
 \openout5 = `main.mw'.
 
- [27
-
-
-] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout2 = `contents/main_matter/chapter_design.aux'.
-
- (./contents/main_matter/chapter_design.tex
-\openout5 = `main.mw'.
-
  [28
 
 
-
 ] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [29] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [30] (out/main.mw)
-\openout5 = `main.mw'.
-
-
-Overfull \hbox (6.80966pt too wide) in paragraph at lines 75--76
-[]\T1/txr/m/n/11 (-20) Casting the valve part with-out tendineae and then at-tach-ing tendineae
- []
-
-\openout5 = `main.mw'.
-
-[31] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [32] (out/main.mw)
-\openout5 = `main.mw'.
-
-<figures/NetFabbRepair.png, id=809, 654.94687pt x 383.93437pt>
-File: figures/NetFabbRepair.png Graphic file (type png)
-<use figures/NetFabbRepair.png>
-Package pdftex.def Info: figures/NetFabbRepair.png  used on input line 113.
-(pdftex.def)             Requested size: 249.60095pt x 146.31837pt.
-<figures/NetFabbShell.png, id=811, 655.95062pt x 391.4625pt>
-File: figures/NetFabbShell.png Graphic file (type png)
-<use figures/NetFabbShell.png>
-Package pdftex.def Info: figures/NetFabbShell.png  used on input line 120.
-(pdftex.def)             Requested size: 249.60095pt x 148.96037pt.
-
-Overfull \hbox (1.53917pt too wide) in paragraph at lines 153--156
-[][]\T1/txr/m/sc/11 (-20) Preliminary Pro-to-typ-ing Meth-ods \T1/txr/m/n/11 (-20) The pro-to-typ-ing method went through
- []
-
-\openout5 = `main.mw'.
-
-[33 <./figures/NetFabbRepair.PNG> <./figures/NetFabbShell.PNG>] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [34] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [35] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-)
-\openout5 = `main.mw'.
-
- [36] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout2 = `contents/main_matter/chapter_testing.aux'.
-
- (./contents/main_matter/chapter_testing.tex
-<figures/assemblingfixtures.jpg, id=845, 3083.52pt x 4095.3pt>
-File: figures/assemblingfixtures.jpg Graphic file (type jpg)
-<use figures/assemblingfixtures.jpg>
-Package pdftex.def Info: figures/assemblingfixtures.jpg  used on input line 20.
-(pdftex.def)             Requested size: 249.60095pt x 331.44254pt.
-\openout5 = `main.mw'.
-
- [37
-
-
-
-
-] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-<figures/suckingoutbubbles.jpg, id=852, 4095.3pt x 3083.52pt>
-File: figures/suckingoutbubbles.jpg Graphic file (type jpg)
-<use figures/suckingoutbubbles.jpg>
-Package pdftex.def Info: figures/suckingoutbubbles.jpg  used on input line 38.
-(pdftex.def)             Requested size: 249.60095pt x 187.92035pt.
-\openout5 = `main.mw'.
-
- [38 <./figures/assemblingfixtures.jpg>] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-<figures/testrigbirdseye.jpg, id=859, 4095.3pt x 3083.52pt>
-File: figures/testrigbirdseye.jpg Graphic file (type jpg)
-<use figures/testrigbirdseye.jpg>
-Package pdftex.def Info: figures/testrigbirdseye.jpg  used on input line 50.
-(pdftex.def)             Requested size: 249.60095pt x 187.92035pt.
-)
-\openout5 = `main.mw'.
-
- [39 <./figures/suckingoutbubbles.jpg> <./figures/testrigbirdseye.jpg>] (out/main.mw)
 \openout5 = `main.mw'.
 
 *geometry* verbose mode - [ newgeometry ] result:
@@ -3427,6 +3284,7 @@ Package pdftex.def Info: figures/testrigbirdseye.jpg  used on input line 50.
 
 
 
+
 ] (out/main.mw)
 \openout5 = `main.mw'.
 
@@ -3453,114 +3311,6 @@ Package pdftex.def Info: figures/testrigbirdseye.jpg  used on input line 50.
 
 
 ] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout2 = `contents/main_matter/chapter_results.aux'.
-
- (./contents/main_matter/chapter_results.tex
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: <default>
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(73.97716pt, 449.55356pt, 73.97716pt)
-* v-part:(T,H,B)=(72.0pt, 671.04684pt, 102.0pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=449.55356pt
-* \textheight=671.04684pt
-* \oddsidemargin=1.70717pt
-* \evensidemargin=1.70717pt
-* \topmargin=-44.28218pt
-* \headheight=21.25pt
-* \headsep=22.76219pt
-* \topskip=10.0pt
-* \footskip=28.45274pt
-* \marginparwidth=144.0pt
-* \marginparsep=25.60747pt
-* \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-<figures/valverigcloseup.png, id=889, 427.5975pt x 262.48062pt>
-File: figures/valverigcloseup.png Graphic file (type png)
-<use figures/valverigcloseup.png>
-Package pdftex.def Info: figures/valverigcloseup.png  used on input line 17.
-(pdftex.def)             Requested size: 202.29771pt x 124.17894pt.
-<figures/valverigcloseup2.png, id=891, 506.89375pt x 303.63437pt>
-File: figures/valverigcloseup2.png Graphic file (type png)
-<use figures/valverigcloseup2.png>
-Package pdftex.def Info: figures/valverigcloseup2.png  used on input line 20.
-(pdftex.def)             Requested size: 202.29771pt x 121.17824pt.
-)
-\openout5 = `main.mw'.
-
- [42
-
-
-
-] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [43
-
-
- <./figures/valverigcloseup.PNG> <./figures/valverigcloseup2.PNG>] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout2 = `contents/main_matter/chapter_discussion.aux'.
-
- (./contents/main_matter/chapter_discussion.tex)
-\openout5 = `main.mw'.
-
- [44
-
-
-
-
-] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 *geometry* verbose mode - [ newgeometry ] result:
@@ -3602,6 +3352,7 @@ Package pdftex.def Info: figures/valverigcloseup2.png  used on input line 20.
 
 
 
+
 ] (out/main.mw)
 \openout5 = `main.mw'.
 
@@ -3630,144 +3381,6 @@ Package pdftex.def Info: figures/valverigcloseup2.png  used on input line 20.
 ] (out/main.mw)
 \openout5 = `main.mw'.
 
-\openout2 = `contents/main_matter/chapter_conclusion.aux'.
-
- (./contents/main_matter/chapter_conclusion.tex)
-\openout5 = `main.mw'.
-
- [47
-
-
-
-] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout2 = `contents/back_matter/appendix.aux'.
-
- (./contents/back_matter/appendix.tex)
-\openout5 = `main.mw'.
-
- [48
-
-
-
-
-] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout2 = `contents/back_matter/bibliography.aux'.
-
- (./contents/back_matter/bibliography.tex
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: <default>
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(73.97716pt, 449.55356pt, 73.97716pt)
-* v-part:(T,H,B)=(72.0pt, 671.04684pt, 102.0pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=449.55356pt
-* \textheight=671.04684pt
-* \oddsidemargin=1.70717pt
-* \evensidemargin=1.70717pt
-* \topmargin=-44.28218pt
-* \headheight=21.25pt
-* \headsep=22.76219pt
-* \topskip=10.0pt
-* \footskip=28.45274pt
-* \marginparwidth=144.0pt
-* \marginparsep=25.60747pt
-* \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-LaTeX Font Info:    Trying to load font information for T1+txtt on input line 7.
- (c:/texlive/2024/texmf-dist/tex/latex/txfonts/t1txtt.fd
-File: t1txtt.fd 2000/12/15 v3.1
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `txtt' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Overfull \hbox (1.27599pt too wide) in paragraph at lines 7--7
-\T1/txr/m/n/11 (-20) pies^^Q. In: \T1/txr/m/it/11 (-20) In-ter-ven-tional Car-di-ol-ogy Clin-ics\T1/txr/m/n/11 (-20) . Tran-scatheter Tri-cus-pid Valve In-ter-ven-tion/Interventional
- []
-
-\openout5 = `main.mw'.
-
-[49
-
-
-
-
-
-
-] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Overfull \hbox (41.00737pt too wide) in paragraph at lines 7--7
-\T1/txtt/m/n/11 2010 . 06 . 015$[][]\T1/txr/m/n/11 (-20) . \T1/txr/m/sc/11 (-20) url\T1/txr/m/n/11 (-20) : [][]$\T1/txtt/m/n/11 https : / / www . sciencedirect . com / science / article / pii / S1742706110002813$[][]
- []
-
-\openout5 = `main.mw'.
-
-[50] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [51] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [52] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [53] (out/main.mw)
-\openout5 = `main.mw'.
-
-
-
-Package biblatex Warning: No driver for 'video'.
-(biblatex)                Using fallback driver on input line 7.
-
-\openout5 = `main.mw'.
-
-[54] (out/main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [55] (out/main.mw)
-\openout5 = `main.mw'.
-
-)
 \openout5 = `main.unq'.
 
 Package minitoc Info: I0009
@@ -3814,7 +3427,8 @@ Package minitoc(hints) Warning: W0024
 
 \openout5 = `main.mw'.
 
-[56
+[55
+
 
 
 
@@ -3907,93 +3521,104 @@ Package minitoc(hints) Warning: W0024
 
 \openout5 = `main.mw'.
 
+) (out/contents/main_matter/chapter_lit.aux
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 )
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- (out/contents/main_matter/chapter_lit.aux
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4003,10 +3628,6 @@ Package minitoc(hints) Warning: W0024
 \openout5 = `main.mw'.
 
  (out/contents/main_matter/chapter_design.aux
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4168,10 +3789,14 @@ Package minitoc(hints) Warning: W0024
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 \openout5 = `main.out'.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 922AF15FC71E15485AFA6B58783F63E7;6321.
+(rerunfilecheck)             Checksum: 502282B151F828055A3D26621C9C9CC8;2262.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -4181,18 +3806,288 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 77311 strings out of 474103
- 1666895 string characters out of 5747482
- 3133015 words of memory out of 5000000
- 96499 multiletter control sequences out of 15000+600000
- 712047 words of font info for 699 fonts, out of 8000000 for 9000
+ 76500 strings out of 474103
+ 1647953 string characters out of 5747482
+ 2797296 words of memory out of 5000000
+ 96143 multiletter control sequences out of 15000+600000
+ 698995 words of font info for 578 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 124i,17n,126p,3099b,3033s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxbsc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on out/main.pdf (62 pages, 15676023 bytes).
+ 124i,17n,126p,3099b,3034s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{subsection.6.2.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.6.2.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.4.3.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.4.3.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.4.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.4.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.4.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.3.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.3.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.3.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@stevanellaFiniteElementModelling2010} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@kidaneCurrentDevelopmentsFuture2009} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@aultmanEthicsRepeatHeart2018} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@fletcherCardiacTransplantsArtificial1983} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@rajabChapterIIIEthical2013} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@baillargeonLivingHeartProject2014} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@bazanExperimentalValidationCardiac2016} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@laurenceInvestigationRegionalVariations2019} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@damoreHeartValveScaffold2018} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@leeFluidStructureInteractionModels2020} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@thomasComputationalMultiscaleApproach2019} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@walkerVitroEvaluationMechanical2010} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@stasiakDesignDevelopmentTesting2020} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@suhWholeheartMotioncorrectionAlgorithm2017} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@ahnTricuspidValveImaging2021} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@vukicevicPatientSpecific3DimensionalPrinted2020} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@vukicevic3DPrintedModeling2017} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@grbicCompleteValvularHeart2012} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@ionasecPatientSpecificModelingQuantification2010} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@luoEffectBendingRigidity2012} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@gintyModelingPatientSpecificDeformable2018} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@engelhardtFlexibleComprehensivePatientspecific2019} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@baxterChapter12Selection2006} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@filovaTissueengineeredHeartValves2009} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@ghanbariAnticalcificationPotentialSilsesquioxane2010} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@karlExvivoInvitroDynamic2024} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@pokutta-paskalevaComparativeMechanicalMorphological2019} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@rabbahNovelLeftHeart2013} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@mathurTexasTriValveReverseengineered2022} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@leopaldiVitroHemodynamicsValve2012} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@zhongNumericalSimulationDynamics2014} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@capelliPatientspecificSimulationsPlanning2017} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@tozziHeartSurgerySimulator2022} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@zilinskasPhysiologicalVentricularSimulator2022} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@ramphalHighFidelityTissuebased2005} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@verberkmoesNovelLowfidelitySimulator2013} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@westerhofArterialWindkessel2009} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@curioUpdateCurrentLandscape2019} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@galesTranscatheterValveReplacement2018} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@hellComputedTomographyImaging2021} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@shahTricuspidValveDisease2008} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@tretterAssessmentAnatomicalVariation2016} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@rossAfterloadMismatchAortic1985} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@TricuspidValveDisease} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@buzzattiAnatomyTricuspidValve2018} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@sandersTricuspidValveEmbryology2014} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@YostDrawingDetailed} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@simionescuArtificialHeartValves2006} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@rockComplexCollagenFiber2014} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@fraterARTIFICIALHEARTVALVES1962} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{page.34} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{page.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.24} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter.8} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter.7} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.6.4} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.6.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.6.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.6.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter.6} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.5.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.5.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter.5} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.4.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.4.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.4.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter.4} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.3.4} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.3.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.3.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.3.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.1.4} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.1.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.1.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.1.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.14} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.7} has been referenced but does not exist, replaced by a fixed one
+
+<c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxbsc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on out/main.pdf (32 pages, 1453774 bytes).
 PDF statistics:
- 1287 PDF objects out of 1440 (max. 8388607)
- 1133 compressed objects within 12 object streams
- 228 named destinations out of 1000 (max. 500000)
- 185863 words of extra memory for PDF output out of 221844 (max. 10000000)
+ 753 PDF objects out of 1000 (max. 8388607)
+ 642 compressed objects within 7 object streams
+ 184 named destinations out of 1000 (max. 500000)
+ 176923 words of extra memory for PDF output out of 184870 (max. 10000000)
 
