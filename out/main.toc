@@ -1,8 +1,8 @@
 \babel@toc {english}{}\relax
 \babel@toc {english}{}\relax
 \contentsline {chapter}{Abstract}{iii}{chapter*.2}%
-\contentsline {chapter}{Contents}{v}{section*.2}%
-\contentsline {chapter}{List of Acronyms}{vi}{section*.3}%
+\contentsline {chapter}{Contents}{v}{section*.3}%
+\contentsline {chapter}{List of Acronyms}{vi}{section*.4}%
 \contentsline {part}{\partnumberline {I}\MakeTextUppercase []{Prologue}}{1}{part.1}%
 \contentsline {chapter}{\chapternumberline {1}\MakeTextLowercase []{Introduction}}{2}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Background}{2}{section.1.1}%
@@ -15,6 +15,7 @@
 \contentsline {subsection}{\numberline {1.2.2}Limitations}{6}{subsection.1.2.2}%
 \contentsline {section}{\numberline {1.3}Research Questions and Hypotheses}{6}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Problem Statement}{7}{section.1.4}%
+\contentsline {xpart}{Prologue}{2}{part.1}%
 \contentsline {chapter}{\chapternumberline {2}\MakeTextLowercase []{Literature Review}}{8}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Heart Valve Anatomy and Physiology}{8}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Introduction to the Heart Valve System}{8}{subsection.2.1.1}%
@@ -35,7 +36,6 @@
 \contentsline {section}{\numberline {2.6}Research Strengths and Gaps}{23}{section.2.6}%
 \contentsline {subsection}{\numberline {2.6.1}Research Strengths}{23}{subsection.2.6.1}%
 \contentsline {subsection}{\numberline {2.6.2}Research Gaps}{24}{subsection.2.6.2}%
-\contentsline {xpart}{Prologue}{8}{part.1}%
 \contentsline {part}{\partnumberline {II}\MakeTextUppercase []{Methodology}}{26}{part.2}%
 \contentsline {xpart}{Methodology}{27}{part.2}%
 \contentsline {chapter}{\chapternumberline {3}\MakeTextLowercase []{Design and Prototyping}}{28}{chapter.3}%
@@ -50,23 +50,24 @@
 \contentsline {section}{\numberline {3.5}Fixturing}{35}{section.3.5}%
 \contentsline {chapter}{\chapternumberline {4}\MakeTextLowercase []{Experimental Setup and Testing}}{37}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Fixturing Assembly}{37}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Rig Assembly}{37}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Challenges and Mitigations}{37}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Biocompatibility}{38}{section.4.4}%
-\contentsline {part}{\partnumberline {III}\MakeTextUppercase []{Results, Analysis, and Discussion}}{39}{part.3}%
-\contentsline {xpart}{Results, Analysis, and Discussion}{40}{part.3}%
-\contentsline {chapter}{\chapternumberline {5}\MakeTextLowercase []{Results}}{41}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Proof of Concept Test}{41}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Observations and Qualitative results}{41}{section.5.2}%
-\contentsline {chapter}{\chapternumberline {6}\MakeTextLowercase []{Discussion}}{42}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Contextualizing Findings}{42}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Implications of the Findings}{42}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Theoretical Implications}{42}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Practical Implications}{42}{subsection.6.2.2}%
-\contentsline {section}{\numberline {6.3}Reflecting on Limitations}{42}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Future Research Directions}{42}{section.6.4}%
-\contentsline {part}{\partnumberline {IV}\MakeTextUppercase []{Epilogue}}{43}{part.4}%
-\contentsline {xpart}{Epilogue}{44}{part.4}%
-\contentsline {chapter}{\chapternumberline {7}\MakeTextLowercase []{Conclusions and Future Work}}{45}{chapter.7}%
-\contentsline {chapter}{\chapternumberline {8}\MakeTextLowercase []{Appendix}}{46}{chapter.8}%
-\contentsline {chapter}{Bibliography}{47}{section*.21}%
+\contentsline {section}{\numberline {4.2}Rig Assembly}{38}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Testing Procedure}{38}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Pilot Checks}{38}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Coaptation Testing}{39}{subsection.4.3.2}%
+\contentsline {part}{\partnumberline {III}\MakeTextUppercase []{Results, Analysis, and Discussion}}{40}{part.3}%
+\contentsline {xpart}{Results, Analysis, and Discussion}{41}{part.3}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextLowercase []{Results}}{42}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Pilot Tests}{42}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Coaptation Test}{42}{section.5.2}%
+\contentsline {chapter}{\chapternumberline {6}\MakeTextLowercase []{Discussion}}{44}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Contextualizing Findings}{44}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Implications of the Findings}{44}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Theoretical Implications}{44}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Practical Implications}{44}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}Reflecting on Limitations}{44}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Future Research Directions}{44}{section.6.4}%
+\contentsline {part}{\partnumberline {IV}\MakeTextUppercase []{Epilogue}}{45}{part.4}%
+\contentsline {xpart}{Epilogue}{46}{part.4}%
+\contentsline {chapter}{\chapternumberline {7}\MakeTextLowercase []{Conclusions and Future Work}}{47}{chapter.7}%
+\contentsline {chapter}{\chapternumberline {8}\MakeTextLowercase []{Appendix}}{48}{chapter.8}%
+\contentsline {chapter}{Bibliography}{49}{section*.26}%
