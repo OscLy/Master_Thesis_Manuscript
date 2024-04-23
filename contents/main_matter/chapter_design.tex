@@ -1,7 +1,7 @@
-\chapter{Design and Prototyping}\label{ch:DesProt}
+\chapter{Design and Prototyping}\label{ch:DesProt}\addtocontents{lof}{\protect\contentsline{chapter}{\protect\numberline{\thechapter}Methodology}{}{}}
 \vspace{-2.5em}
 % \newthought{Synopsis}\synopsisChProcessing
-\newthought{Synopsis}\synopsisDesign
+\newthought{Synopsis}\synopsisDesign\todo{insert margin photos of models}
 \mynewline
 \section{Conceptualisation and Initial Design}
 The essence of a design process is inherently iterative and exploratory. It's a cyclical journey of conception, experimentation, evaluation, and refinement. This iterative cycle is fundamental to translating abstract ideas into tangible solutions that meet specific functional and operational goals.
@@ -26,7 +26,7 @@ This iterative nature of the design process was essential in finishing with a re
 % \subsection{Software Utilization}
 % The design process was facilitated by a range of software tools, each serving a specific purpose in the creation, modification, and analysis of the \gls{TV} models. These tools enabled the visual scribing of conceptual ideas, and the generation of precise geometries that could be used for rapid prototyping methods to validate these early concepts, the main software package used in this early stage was SolidWorks as it was the most familiar and provided a wide range of \gls{CAD} tools. Also considered was the ANSYS software suite which can used for more complex simulations and analysis of the models however this type of simulation was out of scope for the project where the focus was on prototyping and bench-top testing.
 
-\section{Design Criteria}
+\section{Design Criteria}\todo{make more concise}
 After this initial conceptualization, the design criteria were established to guide the development of the mock \gls{TV}. These criteria were informed by the project's objectives, the anatomical requirements of the \gls{TV} with respect to the gaps in the literature, and the technical constraints of the fabrication process.
     % \mynewline
     {The design criteria were as follows:}
@@ -70,15 +70,14 @@ In later iterations of this basic structure considerations started to be made fo
 It wasnt until outcomes in the prototyping phase \todo{cref} that the second option was fully decided on.
 %as studies from the literature review \todo{reference} showed how the elastic modulus varied greatly from leaflet to  tendineae.
 
-\mynewline
-\newthought{Ballooned Valve:}
+\newthought{Ballooned Valve:}\\
 As this basic model was being developed the current thought process was to keep adding complexity until the valve visually replicated an anatomical valve.
 The research \todo{reference} showed how in reguritant valves with the annulus dilating and tendineae weakening the valve begins to develop a partially prolapsed appearance, this was reflection in later iterations by creating a revolve feature in SolidWorks of a 'U' shape which was centered within the leaflets as opposed to the annulus and then the same cut as the flat valve was set after.
 It was hoped with the added depth to the leaflets in this iteration that the valve would be able to coapt as the cusps began to have more overlap with adjacent leaflets
 
 \subsection{Represenative Valve Designs}
 
-\newthought{Anatomical Valve Model:}
+\newthought{Anatomical Valve Model:}\\
 While development on the hand-modelled valve was progressing the idea for a more anatomically accurate valve began to look favourable for reaches the aims of the project. The idea was to use a \gls{CT} scan of a \gls{TV} and then convert this into a 3D model. While this could be done manually by meticulously slicing layers of a \gls{CT} scan with lots of refinement it was alternatively decided that a pre-existing model from an online STL repository could be used as a base and then refined to fit the project's needs.
 
 With this approach the tracability of the model is lost but with confirmation from the author that is was a human valve it was deemed appropriate so time could be prioritized more on prototyping.
@@ -137,7 +136,6 @@ Once the final valve model was finalised the decision was made to flatten the sa
 % Assembly errors
 % Design errors
 
-
 % Tools:
 
 % 3D printer
@@ -151,26 +149,77 @@ Once the final valve model was finalised the decision was made to flatten the sa
 \section{Prototyping}
 \subsection{Valve Iterations}
 \newthought{Preliminary Prototyping Methods}
-The prototyping method went through a few key stages, throughout the simplified valve modelling stage the running methods were creating \gls{PLA} prints of the flat and balloon valve models and then using a silicone mould to capture its likeness, through feasability testing it was found this method was not suitable for reasons;
+The prototyping method went through a few key stages, throughout the simplified valve modelling stage the running methods were creating \gls{PLA} prints of the flat and balloon valve models and then using a silicone mould to capture its likeness, through feasability testing it was found this method was not suitable for as;
+\begin{figure}
+    \centering
+    \includegraphics[width=0.45\textwidth]{figures/silicone mould}
+    \includegraphics[width=0.45\textwidth]{figures/silicone mould open}
+    \caption{Silicone Mould Design}
+    \label{fig:silimould}
+\end{figure}
 \begin{itemize}
-    \item Silicone moulds could not hold firm enough in casting to maintain sub 1mm thicknesses
-    \item The mould release agent was less effective on \gls{PU}-Silicone interfaces than expected
-    \item The moulds even with appropriate ventilation would still have air bubbles and not fill out to the edges of the part.
+    \item Silicone moulds could not hold firm enough in casting to maintain sub 1mm thicknesses.
+    \item The mould release agent was less effective on \gls{PU}-Silicone interfaces than expected.
+    \item The moulds even with appropriate vent holes and degassing would still have large air bubbles and not fill out to the edges of the part.
 \end{itemize}
 As it seemed no amount of optimization of this method would improve results further work was done to find a more suitable method.
 
 \newthought{Press Moulding}
-This new method involved designing blocks in SolidWorks as a separate body to the valve part and using the 'Combine' tool to subtract the valve part. This hollowed block could then be split in the middle to create a two-part mould.
-
+This new method involved designing blocks in SolidWorks as a separate body to the valve part and using the 'Combine' tool to subtract the valve part. This hollowed block could then be split in the middle to create a two-part mould.\\
 The \gls{PU} resin could then be poured into the cavity part and the lid part pressed ontop with a C-clamp to create a tight seal.
-
-Some key considerations developed over trial and error for this method were:
-
+\mynewline
+This method was trialed on the simplest flat valve model to seek learnings for my complicated designs, some such learning were;
 \begin{itemize}
-    \item Embossing and debossing key slots to ensure the moulds could be aligned correctly.
-    \item Sanding down the \gls{PLA} prints to a smooth finish so in combination with a tailored mould release the casted part could be separated easily.
-    \item Utilizing a vacuum chamber to remove air bubbles from the resin before curing.
+    \item To measure the volume of the 2-part casting fluid with a precision scales as opposed to doing by eye, having the mixture slightly off resulted in gross discolouring and an extremely sticky surface.
+    \item To come up with a new chordal attachment method as the trialed insertion buds were inneffective.
 \end{itemize}
+\begin{figure}
+    \centering
+    \includegraphics[width=0.45\textwidth]{figures/flat mould}
+    \includegraphics[width=0.45\textwidth]{figures/flat valve}
+    \caption{Press Mould Design and casted part for Flat Valve}
+    \label{fig:flat mould}
+\end{figure}
+
+\mynewline
+As the modelling stages evolved in complexity so did the prototyping, in trialing preliminary anatomical valves for press moulds it was discovered that due to STL interaction issues with solid \gls{CAD} geometries the valve could not be moulded directly and so a mould die was designed and prototyped of the valve part mould die, making it a two step process to work around this modelling issue.
+
+A deep-cast epoxy was used to pour into these die so form the moulds for the valve, key learnings from this process were;
+\begin{itemize}
+    \item Thin, easily breakable walls for the mould die were imperative as the epoxy parts were dificult to remove, this had a downside of making the die single use. This was hoped to be avoided with notches to pry the epoxy part out but ultimately wasn't effective.
+    \item A split mould was trialed as it was thought to make demoulding the casted part easier however this resulted in significant lines being apparent and didn't help significantly in demoulding so it was abandoned.
+    \item Embossing and debossing key slots in the die ensured the moulds could be aligned correctly with ease.
+    \item Sanding down the \gls{PLA} prints to a smooth finish so in combination with a mould release grease greatly eased the demoulding of the die.
+    \item Initial drafts of mould die joined the cusps of leaflets directly however it was found that extruding the cusps axially stopped excess material from curing past the cusp of the leaflet and also acted as a central large key slot for pressing the moulds into eachother.
+\end{itemize}
+% \begin{figure}
+%     \centering
+%     \includegraphics[width=0.45\textwidth]{figures/firstdraftmouldofmould}
+%     \includegraphics[width=0.45\textwidth]{figures/firstdraftcastedpart}
+%     \caption{Press Mould Design and casted part for Flat Valve}
+%     \label{fig:flat mould}
+% \end{figure}
+\begin{figure}
+    \begin{fullwidth}
+        \centering
+        \subfloat[First draft mould die]{%
+            {\includegraphics[width=0.45\linewidth]{figures/firstdraftmouldofmould}}%
+        }\quad
+        \subfloat[Later iteration of mould die]{%
+            {\includegraphics[width=0.45\linewidth]{figures/mouldofmould}}
+        }
+        \quad
+        \subfloat[Split mould trialing]{%
+            {\includegraphics[width=0.45\linewidth]{figures/splitmoulddesign}}
+        }
+        \quad
+        \subfloat[Draft and casted part of epoxy moulds]{%
+            {\includegraphics[width=0.45\linewidth]{figures/firstdraftcastedpart}}
+        }
+        \caption{Iterations of epoxy mould die method}
+        \label{fig:moulddie}
+    \end{fullwidth}
+\end{figure}
 
 % Materials used:
 
@@ -185,13 +234,33 @@ Some key considerations developed over trial and error for this method were:
 % Mould release
 % Grease
 % Isopropyl alcohol
-\subsection{Chordae Tendineae }
+\subsection{Chordae Tendineae}
 Initial conceptualization of the chordae tendineae involved having the valve as one homogenous material with the tendineae attached within the mould. However, as the project progressed and the complexity of the valve increased, it was decided that the tendineae should be a separate part that could be attached after the valve was cast. This was decided on as the elastic modulus of the tendineae was vastly different as they function to be pulled taught to stop the leaflets from prolapsing.
 
 \newthought{Design of Choice:}
 A 0.1mm nylon fishing wire was chosen to represent the tendineae as it was thin enough to be completely collapsible and not interfere with the opening in the diastolic phase.
-
 The attachment to the valve was the more challenging aspect, a few methods were considered and tested:
+\begin{figure}[H]
+    % \begin{fullwidth}
+    \centering
+    \subfloat[Embedded method trialing]{%
+        {\includegraphics[width=0.45\linewidth]{figures/embeds}}%
+    }\quad
+    \subfloat[Cyanoacrylate method trialing]{%
+        {\includegraphics[width=0.45\linewidth]{figures/embedswithgluesamp}}
+    }
+    %   \quad
+    %   \subfloat[Split mould trialing]{%
+    %     {\includegraphics[width=0.45\linewidth]{figures/splitmoulddesign}}
+    %   }
+    %   \quad
+    %   \subfloat[Draft and casted part of epoxy moulds]{%
+    %     {\includegraphics[width=0.45\linewidth]{figures/firstdraftcastedpart}}
+    %   }
+    \caption{Testing the methods for attaching the chordae tendineae to leaflets}
+    \label{fig:ctattachment}
+    % \end{fullwidth}
+\end{figure}
 \begin{itemize}
     \item Suture patterns along the cusp of the leaflets.
           \begin{itemize}
@@ -214,12 +283,13 @@ The attachment to the valve was the more challenging aspect, a few methods were 
               \item The B7000 adhesive was chosen as it was a flexible adhesive, initial tests werent fruitful but if left to set fully over 24 hours the bond became very strong and the leaflets retained their flexibility while also only needing a miniscule amount for a good hold so the very thin thickness of the leaflets wasnt negated.
           \end{itemize}
 \end{itemize}
-\subsection{Fixturing}
-The ideal design criterion was considered carefully before modelling the test fixturing. The main desired outcomes from the testing that the fixturing should facilitate were:
 
+\subsection{Fixturing}
+The design criterion was considered carefully before modelling the test fixturing. The main desired outcomes from the testing that the fixturing should facilitate were:
 \begin{itemize}
-    \item The chordae tendineae should have fixed anchors which are fully adjustable axially and angularly.
-    \item The valve should be able to be mounted in a way that the leaflets are not obstructed and the valve can be viewed from all angles for through evaluation.
+    \item The chordae tendineae should have anchors which are fully adjustable axially and angularly to allow for a range of testing positions.
+    \item The valve should be mounted in a way that the leaflets are not obstructed so the valve can be viewed from multiple angles for thorough evaluation.
+
 \end{itemize}
 
 \newthought{Design of Choice:}
@@ -228,3 +298,22 @@ A combination of 3D printed parts, off-the-shelf components and hand-cut threade
 The threaded rods allowed for the anchoring points of the tendineae to be adjusted axially.
 
 Attached to the rods was the ring system with notches that could be adjusted angularly which the mock tendineae were passed through and fastened to with a rubber wedge.
+
+
+\section{Design Validation}
+To investigate the experimental thickness of the valve model and compare to the theoretical thickness from the \gls{CAD} model a series of micrometer measurements were taken on the leaflets. This was done for both model with chordae tendineae attached and without to also get a measured estimate of how much thickness the adhesive adds to the leaflets.
+
+\begin{figure}
+    % \begin{fullwidth}
+    \centering
+    \subfloat[Testing the thickness with the chordae tendineae attached]{%
+        {\includegraphics[width=0.8\linewidth]{figures/micwt}}%
+    }
+
+    \subfloat[Testing the thickness without the chordae tendineae attached]{%
+        {\includegraphics[width=0.8\linewidth]{figures/micwit}}
+    }
+    \caption{Thickness investigation for experimental model of the valve}
+    \label{fig:ctinvestigation}
+    % \end{fullwidth}
+\end{figure}

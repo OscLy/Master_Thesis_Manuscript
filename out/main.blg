@@ -1,17 +1,15 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
-[1] Config.pm:311> INFO - Logfile is 'out/main.blg'
-[328] biber-MSWIN64:340> INFO - === 
-[407] Biber.pm:420> INFO - Reading 'out/main.bcf'
-[731] Biber.pm:994> INFO - Found 50 citekeys in bib section 0
-[760] Biber.pm:4463> INFO - Processing section 0
-[783] Biber.pm:4654> INFO - Looking for bibtex file 'contents/back_matter/references.bib' for section 0
-[959] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1833] bibtex.pm:1519> INFO - Found BibTeX data source 'contents/back_matter/references.bib'
-[3142] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3142] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3143] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[3143] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[3304] bbl.pm:676> INFO - Writing 'out/main.bbl' with encoding 'UTF-8'
-[3426] bbl.pm:779> INFO - Output to out/main.bbl
-[3427] Biber.pm:131> WARN - legacy year field '2016-Mar-Apr' in entry 'bazanExperimentalValidationCardiac2016' is not an integer - this will probably not sort properly.
-[3427] Biber.pm:133> INFO - WARNINGS: 1
+[3] Config.pm:311> INFO - Logfile is 'out/main.blg'
+[397] biber-MSWIN64:340> INFO - === 
+[497] Biber.pm:420> INFO - Reading 'out/main.bcf'
+[899] Biber.pm:994> INFO - Found 2 citekeys in bib section 0
+[966] Biber.pm:4463> INFO - Processing section 0
+[1011] Biber.pm:4654> INFO - Looking for bibtex file 'contents/back_matter/references.bib' for section 0
+[1261] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2538] bibtex.pm:1519> INFO - Found BibTeX data source 'contents/back_matter/references.bib'
+[2787] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2787] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2787] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[2788] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[2807] bbl.pm:676> INFO - Writing 'out/main.bbl' with encoding 'UTF-8'
+[2818] bbl.pm:779> INFO - Output to out/main.bbl

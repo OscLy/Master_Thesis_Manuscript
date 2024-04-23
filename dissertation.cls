@@ -12,9 +12,9 @@
 \ProcessOptions\relax
 
 \LoadClass[%
-  a4paper,
-  10pt,
-  oneside,
+	a4paper,
+	10pt,
+	oneside,
 ]{memoir}
 \renewcommand{\footnotesize}{\fontsize{8pt}{9pt}\selectfont}
 \renewcommand{\normalsize}{\fontsize{11pt}{17pt}\selectfont}
@@ -56,15 +56,15 @@
 \nouppercaseheads
 \makepagestyle{diss}
 \makepsmarks{diss}{%
-  \nouppercaseheads
-  \createmark{chapter}{both}{nonumber}{}{}
-  \createmark{section}{right}{nonumber}{}{}
-  \createplainmark{toc}{both}{\contentsname}
-  \createplainmark{lof}{both}{\listfigurename}
-  \createplainmark{lot}{both}{\listtablename}
-  \createplainmark{bib}{both}{\bibname}
-  \createplainmark{index}{both}{\indexname}
-  \createplainmark{glossary}{both}{\glossaryname}
+	\nouppercaseheads
+	\createmark{chapter}{both}{nonumber}{}{}
+	\createmark{section}{right}{nonumber}{}{}
+	\createplainmark{toc}{both}{\contentsname}
+	\createplainmark{lof}{both}{\listfigurename}
+	\createplainmark{lot}{both}{\listtablename}
+	\createplainmark{bib}{both}{\bibname}
+	\createplainmark{index}{both}{\indexname}
+	\createplainmark{glossary}{both}{\glossaryname}
 }
 \makerunningwidth{diss}[480pt]{480pt}
 \makeheadposition{diss}{flushright}{flushleft}{flushright}{flushleft}
@@ -73,15 +73,15 @@
 
 \makepagestyle{fullwidth}
 \makepsmarks{fullwidth}{%
-  \nouppercaseheads
-  \createmark{chapter}{both}{nonumber}{}{}
-  \createmark{section}{right}{nonumber}{}{}
-  \createplainmark{toc}{both}{\contentsname}
-  \createplainmark{lof}{both}{\listfigurename}
-  \createplainmark{lot}{both}{\listtablename}
-  \createplainmark{bib}{both}{\bibname}
-  \createplainmark{index}{both}{\indexname}
-  \createplainmark{glossary}{both}{\glossaryname}
+	\nouppercaseheads
+	\createmark{chapter}{both}{nonumber}{}{}
+	\createmark{section}{right}{nonumber}{}{}
+	\createplainmark{toc}{both}{\contentsname}
+	\createplainmark{lof}{both}{\listfigurename}
+	\createplainmark{lot}{both}{\listtablename}
+	\createplainmark{bib}{both}{\bibname}
+	\createplainmark{index}{both}{\indexname}
+	\createplainmark{glossary}{both}{\glossaryname}
 }
 \makerunningwidth{fullwidth}[450pt]{450pt}
 \makeheadposition{fullwidth}{flushright}{flushleft}{flushright}{flushleft}
@@ -104,11 +104,11 @@
 \aliaspagestyle{chapter}{plain}
 
 \newenvironment{fullwidth}{%
-  \newgeometry{inner=26mm, outer=26mm, top=6pc, bottom=102pt}
-  \aliaspagestyle{chapter}{fullwidthplain}
-  \pagestyle{fullwidth}
+	\newgeometry{inner=26mm, outer=26mm, top=6pc, bottom=102pt}
+	\aliaspagestyle{chapter}{fullwidthplain}
+	\pagestyle{fullwidth}
 }{%
-  \restoregeometry
+	\restoregeometry
 }
 
 % implements a new environment for figures, tables, etc
@@ -118,9 +118,9 @@
 \setlength{\fullwidthlen}{\marginparwidth}
 \addtolength{\fullwidthlen}{\marginparsep}
 \newenvironment{fullwidthfig}{%
-  \begin{adjustwidth*}{}{-\fullwidthlen}%
-    }{%
-  \end{adjustwidth*}%
+	\begin{adjustwidth*}{}{-\fullwidthlen}%
+		}{%
+	\end{adjustwidth*}%
 }
 
 % Example on how to use the fullwidthfig env
@@ -170,14 +170,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DEDICATION
 \newenvironment{dedication}
 {\clearpage           % we want a new page
-  \thispagestyle{empty}% no header and footer
-  \vspace*{\stretch{1}}% some space at the top
-  \itshape             % the text is in italics
-  \raggedleft          % flush to the right margin
+	\thispagestyle{empty}% no header and footer
+	\vspace*{\stretch{1}}% some space at the top
+	\itshape             % the text is in italics
+	\raggedleft          % flush to the right margin
 }
 {\par % end the paragraph
-  \vspace{\stretch{3}} % space at bottom is three times that at the top
-  \clearpage           % finish off the page
+	\vspace{\stretch{3}} % space at bottom is three times that at the top
+	\clearpage           % finish off the page
 }
 
 
@@ -187,16 +187,16 @@
 
 %%% ToC Styling %%%
 \RequirePackage{ragged2e}
-% \settocdepth{subsection}
+% \settocdepth{subsubsection}
 \setsecnumdepth{subsubsection}
 
 \renewcommand{\cftpartfont}{%
-  \bfseries\color{Burgundy}\MakeTextUppercase%
+	\bfseries\color{Burgundy}\MakeTextUppercase%
 }
 \settocpreprocessor{part}{%
-  \let\tempf@rtoc\f@rtoc%
-  \def\f@rtoc{%
-    \texorpdfstring{\MakeTextUppercase{\tempf@rtoc}}{\tempf@rtoc}}%
+	\let\tempf@rtoc\f@rtoc%
+	\def\f@rtoc{%
+		\texorpdfstring{\MakeTextUppercase{\tempf@rtoc}}{\tempf@rtoc}}%
 }
 \renewcommand{\cftpartformatpnum}[1]{\small #1}
 \renewcommand{\cftchapterformatpnum}[1]{\small #1}
@@ -207,12 +207,12 @@
 \renewcommand{\cftsubsectionafterpnum}{\vspace{2pt}}
 
 \renewcommand{\cftchapterfont}{%
-  \scshape\MakeTextLowercase%
+	\scshape\MakeTextLowercase%
 }
 \settocpreprocessor{chapter}{%
-  \let\tempf@rtoc\f@rtoc%
-  \def\f@rtoc{%
-    \texorpdfstring{\MakeTextLowercase{\tempf@rtoc}}{\tempf@rtoc}}%
+	\let\tempf@rtoc\f@rtoc%
+	\def\f@rtoc{%
+		\texorpdfstring{\MakeTextLowercase{\tempf@rtoc}}{\tempf@rtoc}}%
 }
 
 % https://tex.stackexchange.com/questions/275565/tufte-layout-in-painless-memoir
@@ -230,9 +230,9 @@
 \RequirePackage{marginnote}
 \newcounter{sidenote}
 \providecommand\sidenote[1]{%                             a simple margin note
-  \refstepcounter{sidenote}%                            step counter
-  \mbox{\textsuperscript{\thesidenote}}%                the number (superscript) in text
-  \marginpar{\footnotesize\mbox{\textsuperscript{\thesidenote}}#1}% the note
+	\refstepcounter{sidenote}%                            step counter
+	\mbox{\textsuperscript{\thesidenote}}%                the number (superscript) in text
+	\marginpar{\footnotesize\mbox{\textsuperscript{\thesidenote}}#1}% the note
 }
 \footnotesinmargin
 \setlength{\footmarkwidth}{0.8em}
@@ -250,11 +250,11 @@
 \renewcommand{\fnum@figure}{\footnotesize\textsc{\figurename~\thefigure}}
 \renewcommand{\fnum@table}{\footnotesize\textsc{\tablename~\thetable}}
 \renewcommand*{\sidecapstyle}{%
-  \ifscapmargleft
-    \captionstyle{\raggedleft\footnotesize}%
-  \else
-    \captionstyle{\raggedright\footnotesize}%
-  \fi}
+	\ifscapmargleft
+		\captionstyle{\raggedleft\footnotesize}%
+	\else
+		\captionstyle{\raggedright\footnotesize}%
+	\fi}
 
 % \newsubfloat{figure}
 \newfixedcaption[\subcaption]{\subfigcaption}{figure}
@@ -274,26 +274,26 @@
 
 \providecommand\blankpage{\newpage\hbox{}\thispagestyle{empty}\newpage}
 \providecommand\setinputpath[1]{%
-  \makeatletter
-  \def\input@path{{#1}}
-  \graphicspath{{#1}}
-  \makeatother
+	\makeatletter
+	\def\input@path{{#1}}
+	\graphicspath{{#1}}
+	\makeatother
 }
 
 \newskip\newthoughtskipamount
 \newthoughtskipamount=1.0\baselineskip plus 0.5ex minus 0.2ex
 \providecommand\newthoughtbreak{\par\ifdim\lastskip<\newthoughtskipamount
-    \removelastskip\penalty-100\newthoughtskip\fi}
+		\removelastskip\penalty-100\newthoughtskip\fi}
 
 % --- Tufte's newthoughts ------------------------------------------------------
 % --- Aaron's newthought I: with triangle
 \newcommand{\newthoughtskip}{\vspace\newthoughtskipamount}
 \providecommand\newthought[1]{%
-  \nopagebreak
-  \newthoughtbreak
-  \noindent%
-  {\llap{\color{black!30}\scriptsize\raisebox{1pt}{$\blacktriangleright$}\quad}}%
-  \textsc{#1}%
+	\nopagebreak
+	\newthoughtbreak
+	\noindent%
+	{\llap{\color{black!30}\scriptsize\raisebox{1pt}{$\blacktriangleright$}\quad}}%
+	\textsc{#1}%
 }
 % --- Aaron's newthought II: with linebreak
 \providecommand\newthoughtpar[1]{\nopagebreak\newthought{#1}\par\nopagebreak\noindent\ignorespaces}
@@ -301,48 +301,60 @@
 % --- Diego's newthought:
 % used for dichotomies
 \providecommand\dichotomy[1]{%
-  \nopagebreak
-  \newthoughtbreak
-  \noindent%
-  %{\llap{\color{black!50}\scriptsize\raisebox{1pt}{$\overset{\text{\footnotesize\scrD}}{\rightleftarrows}$}\quad}}%
-  {\llap{\color{black!50}\scriptsize\raisebox{1pt}{$\rightleftarrows$}\quad}}%
-  \textsc{#1}%
+	\nopagebreak
+	\newthoughtbreak
+	\noindent%
+	%{\llap{\color{black!50}\scriptsize\raisebox{1pt}{$\overset{\text{\footnotesize\scrD}}{\rightleftarrows}$}\quad}}%
+	{\llap{\color{black!50}\scriptsize\raisebox{1pt}{$\rightleftarrows$}\quad}}%
+	\textsc{#1}%
 }
 \providecommand\conclusion[1]{%
-  \nopagebreak
-  \newthoughtbreak
-  \noindent%
-  %{\llap{\color{black!50}\scriptsize\raisebox{1pt}{$\overset{\text{\footnotesize\scrD}}{\rightleftarrows}$}\quad}}%
-  {\llap{\color{myorange}\scriptsize\raisebox{1pt}{\faAsterisk}\quad}}%
-  \textsc{#1}%
+	\nopagebreak
+	\newthoughtbreak
+	\noindent%
+	%{\llap{\color{black!50}\scriptsize\raisebox{1pt}{$\overset{\text{\footnotesize\scrD}}{\rightleftarrows}$}\quad}}%
+	{\llap{\color{myorange}\scriptsize\raisebox{1pt}{\faAsterisk}\quad}}%
+	\textsc{#1}%
 }
 \providecommand\mynewline{%
-  \nopagebreak
-  \newthoughtbreak
-  \noindent%
+	\nopagebreak
+	\newthoughtbreak
+	\noindent%
 }
 \providecommand\questionpar[1]{%
-  \nopagebreak
-  \newthoughtbreak
-  \noindent%
-  {\llap{\color{black!50}\scriptsize\raisebox{1pt}{$\boldsymbol{?}$}\quad}}%
-  \textcolor{mygray}{\textsc{#1}}%
+	\nopagebreak
+	\newthoughtbreak
+	\noindent%
+	{\llap{\color{black!50}\scriptsize\raisebox{1pt}{$\boldsymbol{?}$}\quad}}%
+	\textcolor{mygray}{\textsc{#1}}%
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \RequirePackage[
-  hyperref=true,
-  maxbibnames=20,
-  maxcitenames=2,
-  %giveninits=true,
-  % style= apa,%alphabetic,
-  style=authoryear,
-  sorting=nyt,
-  sortcites=false,
-  citetracker=true,
-  pagetracker=true,
-  backref,
+	hyperref=true,
+	maxbibnames=20,
+	maxcitenames=2,
+	%giveninits=true,
+	% style= apa,%alphabetic,
+	style=authoryear,
+	sorting=none,
+	sortcites=true,
+	citetracker=true,
+	pagetracker=true,
+	backref,
 ]{biblatex}
+
+\AtEveryBibitem{
+	\clearfield{url}
+	\clearfield{urlyear}
+}
+\DeclareSourcemap{
+	\maps[datatype=bibtex]{
+		\map{
+			\step[fieldset=urldate, null]
+		}
+	}
+}
 
 \renewcommand*{\bibfont}{\normalfont}
 
@@ -353,12 +365,12 @@
 \DeclareBibliographyCategory{sagetickets}
 
 \DeclareFieldFormat{eprint:iacr}{%
-  \mkbibacro{iacr preprint}\addcolon\space{}
-  \href{https://eprint.iacr.org/#1}{\nolinkurl{#1}}
+	\mkbibacro{iacr preprint}\addcolon\space{}
+	\href{https://eprint.iacr.org/#1}{\nolinkurl{#1}}
 }
 \DeclareFieldFormat{eprint:iacrconf}{%
-  \mkbibacro{iacr}\addcolon\space{}
-  \href{https://www.iacr.org/archive/#1}{\nolinkurl{#1}}
+	\mkbibacro{iacr}\addcolon\space{}
+	\href{https://www.iacr.org/archive/#1}{\nolinkurl{#1}}
 }
 
 % https://tex.stackexchange.com/questions/74931/biblatexs-textcite-inserts-a-breaking-space-between-author-names-and-citation-n
@@ -366,93 +378,93 @@
 
 % https://tex.stackexchange.com/a/444830/37762
 \newcommand*{\scbx@registerkey}{%
-  \ifcsundef{cbx@instcount@curr@\the\c@refsection @\thefield{entrykey}}
-  {\csnumgdef{cbx@instcount@curr@\the\c@refsection @\thefield{entrykey}}{0}}
-  {}%
-  \csnumgdef{cbx@instcount@last@\the\c@refsection @\thefield{entrykey}}{%
-    \csuse{cbx@instcount@curr@\the\c@refsection @\thefield{entrykey}}}%
-  \csnumgdef{cbx@instcount@curr@\the\c@refsection @\thefield{entrykey}}{\value{instcount}}}
+	\ifcsundef{cbx@instcount@curr@\the\c@refsection @\thefield{entrykey}}
+	{\csnumgdef{cbx@instcount@curr@\the\c@refsection @\thefield{entrykey}}{0}}
+	{}%
+	\csnumgdef{cbx@instcount@last@\the\c@refsection @\thefield{entrykey}}{%
+		\csuse{cbx@instcount@curr@\the\c@refsection @\thefield{entrykey}}}%
+	\csnumgdef{cbx@instcount@curr@\the\c@refsection @\thefield{entrykey}}{\value{instcount}}}
 
 \def\iflastciteonsamepage{%
-  \ifsamepage
-  {\number\csuse{cbx@instcount@curr@\the\c@refsection @\thefield{entrykey}}}
-  {\number\csuse{cbx@instcount@last@\the\c@refsection @\thefield{entrykey}}}}
+	\ifsamepage
+	{\number\csuse{cbx@instcount@curr@\the\c@refsection @\thefield{entrykey}}}
+	{\number\csuse{cbx@instcount@last@\the\c@refsection @\thefield{entrykey}}}}
 
 \newcommand*{\scbx@savepunctstate}{%
-  \let\scbx@saved@unitpunct\blx@unitpunct
-  \let\scbx@saved@tgl@unit\etb@tgl@blx@unit
-  \let\scbx@saved@tgl@block\etb@tgl@blx@block
-  \let\scbx@saved@tgl@insert\etb@tgl@blx@insert
-  \let\scbx@saved@tgl@lastins\etb@tgl@blx@lastins
-  \let\scbx@saved@tgl@keepunit\etb@tgl@blx@keepunit
+	\let\scbx@saved@unitpunct\blx@unitpunct
+	\let\scbx@saved@tgl@unit\etb@tgl@blx@unit
+	\let\scbx@saved@tgl@block\etb@tgl@blx@block
+	\let\scbx@saved@tgl@insert\etb@tgl@blx@insert
+	\let\scbx@saved@tgl@lastins\etb@tgl@blx@lastins
+	\let\scbx@saved@tgl@keepunit\etb@tgl@blx@keepunit
 }
 
 \newcommand*{\scbx@restorepunctstate}{%
-  \global\let\blx@unitpunct\scbx@saved@unitpunct
-  \global\let\etb@tgl@blx@unit\scbx@saved@tgl@unit
-  \global\let\etb@tgl@blx@block\scbx@saved@tgl@block
-  \global\let\etb@tgl@blx@insert\scbx@saved@tgl@insert
-  \global\let\etb@tgl@blx@lastins\scbx@saved@tgl@lastins
-  \global\let\etb@tgl@blx@keepunit\scbx@saved@tgl@keepunit
+	\global\let\blx@unitpunct\scbx@saved@unitpunct
+	\global\let\etb@tgl@blx@unit\scbx@saved@tgl@unit
+	\global\let\etb@tgl@blx@block\scbx@saved@tgl@block
+	\global\let\etb@tgl@blx@insert\scbx@saved@tgl@insert
+	\global\let\etb@tgl@blx@lastins\scbx@saved@tgl@lastins
+	\global\let\etb@tgl@blx@keepunit\scbx@saved@tgl@keepunit
 }
 
 \newcommand*{\scbx@resetpunctstate}{%
-  \let\blx@unitpunct\@empty
-  \global\togglefalse{blx@block}%
-  \global\togglefalse{blx@unit}%
-  \global\togglefalse{blx@insert}%
-  \global\togglefalse{blx@lastins}%
-  \global\togglefalse{blx@keepunit}%
+	\let\blx@unitpunct\@empty
+	\global\togglefalse{blx@block}%
+	\global\togglefalse{blx@unit}%
+	\global\togglefalse{blx@insert}%
+	\global\togglefalse{blx@lastins}%
+	\global\togglefalse{blx@keepunit}%
 }
 
 \newbibmacro{sidecite}{%
-  \scbx@savepunctstate
-  \scbx@resetpunctstate
-  \marginpar{%
-    \toggletrue{blx@footnote}%
-    \footnotesize%
-    \printtext[labelalphawidth]{%
-      \printfield{labelprefix}%
-      \printfield{labelalpha}%
-      \printfield{extraalpha}}
-    \setunit{\addnbspace}%
-    \printnames{labelname}%
-    \setunit{\printdelim{nametitledelim}}%
-    \printfield[citetitle]{title}%
-  }%
-  \scbx@restorepunctstate
+	\scbx@savepunctstate
+	\scbx@resetpunctstate
+	\marginpar{%
+		\toggletrue{blx@footnote}%
+		\footnotesize%
+		\printtext[labelalphawidth]{%
+			\printfield{labelprefix}%
+			\printfield{labelalpha}%
+			\printfield{extraalpha}}
+		\setunit{\addnbspace}%
+		\printnames{labelname}%
+		\setunit{\printdelim{nametitledelim}}%
+		\printfield[citetitle]{title}%
+	}%
+	\scbx@restorepunctstate
 }
 
 \DeclareCiteCommand{\cite}[\mkbibbrackets]
 {\usebibmacro{prenote}}
 {\scbx@registerkey
-  \ifciteindex
-  {\indexfield{indextitle}}
-  {}%
-  \usebibmacro{cite}%
-  \iflastciteonsamepage
-  {}%what is 
-  {\usebibmacro{sidecite}}}
+	\ifciteindex
+	{\indexfield{indextitle}}
+	{}%
+	\usebibmacro{cite}%
+	\iflastciteonsamepage
+	{}%what is 
+	{\usebibmacro{sidecite}}}
 {\multicitedelim}
 {\usebibmacro{postnote}}
 
 \DeclareCiteCommand{\citeonly}[\mkbibbrackets]
 {\usebibmacro{prenote}}
 {\ifciteindex
-  {\indexfield{indextitle}}
-  {}%
-  \usebibmacro{cite}}
+	{\indexfield{indextitle}}
+	{}%
+	\usebibmacro{cite}}
 {\multicitedelim}
 {\usebibmacro{postnote}}
 
 \DeclareCiteCommand{\cbx@textcite}
 {\usebibmacro{textcite:init}}
 {\scbx@registerkey
-  \usebibmacro{citeindex}%
-  \usebibmacro{textcite}%
-  \iflastciteonsamepage
-  {}
-  {\usebibmacro{sidecite}}}
+	\usebibmacro{citeindex}%
+	\usebibmacro{textcite}%
+	\iflastciteonsamepage
+	{}
+	{\usebibmacro{sidecite}}}
 {}
 {\usebibmacro{textcite:postnote}}
 
@@ -460,9 +472,9 @@
 \DeclareCiteCommand{\fullcite}
 {\usebibmacro{prenote}}
 {\usedriver
-  {\defcounter{minnames}{6}%
-    \defcounter{maxnames}{6}}
-  {\thefield{entrytype}}}
+	{\defcounter{minnames}{6}%
+		\defcounter{maxnames}{6}}
+	{\thefield{entrytype}}}
 {\multicitedelim}
 {\usebibmacro{postnote}}
 
@@ -479,7 +491,7 @@
 \usepackage[noend]{algpseudocode}
 \newcommand*\Let[2]{\State{} #1 $\gets$ #2}
 \algrenewcommand\alglinenumber[1]{%
-  {\sffamily\footnotesize#1}}
+	{\sffamily\footnotesize#1}}
 \algrenewcommand\algorithmicrequire{\textbf{Precondition:}}
 \algrenewcommand\algorithmicensure{\textbf{Postcondition:}}
 \usepackage[algoruled, linesnumbered, onelanguage]{algorithm2e}
@@ -544,20 +556,20 @@
 % --- HyperRef and links  --- %
 \RequirePackage{hyperref}
 \hypersetup{%
-  linktocpage,
-  %   bookmarks,
-  bookmarksdepth = section,
-  colorlinks = true,
-  linkcolor = linkcolor,
-  urlcolor = urlcolor,
-  citecolor = citecolor,
-  pdfpagelayout=TwoPageLeft,
-  pdftitle={\myTitle},%
-  pdfauthor={\myName, \myUni, \myFaculty},%
-  % pdfsubject={},%
-  pdfkeywords={\myKeywords},%
-  pdfcreator={pdfLaTeX},%w   
-  pdfproducer={LaTeX with hyperref and classicthesis}%
+	linktocpage,
+	%   bookmarks,
+	bookmarksdepth = section,
+	colorlinks = true,
+	linkcolor = linkcolor,
+	urlcolor = urlcolor,
+	citecolor = citecolor,
+	pdfpagelayout=TwoPageLeft,
+	pdftitle={\myTitle},%
+	pdfauthor={\myName, \myUni, \myFaculty},%
+	% pdfsubject={},%
+	pdfkeywords={\myKeywords},%
+	pdfcreator={pdfLaTeX},%w   
+	pdfproducer={LaTeX with hyperref and classicthesis}%
 }
 
 \RequirePackage[capitalise,nameinlink]{cleveref}

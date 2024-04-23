@@ -13,7 +13,7 @@
 \usepackage{csquotes}
 
 % --- Debug stuff -------------------------------------------------------------
-\usepackage{morewrites} % workaround for "no room for new \write" error
+% \usepackage{morewrites} % workaround for "no room for new \write" error
 
 % --- Font stuff --------------------------------------------------------------
 \usepackage{stackengine} % for overlapping text
@@ -97,10 +97,10 @@
 \usepackage{minitoc} % must be inserted after any modification of TOC
 
 % --- Graphics ----------------------------------------------------------------
-\usepackage{pgfplots}
-\pgfplotsset{compat=1.8}
-\usepgfplotslibrary{fillbetween} %for fill under curve
-\usepackage{tikz}
+% \usepackage{pgfplots}
+% \pgfplotsset{compat=1.8}
+% \usepgfplotslibrary{fillbetween} %for fill under curve
+% \usepackage{tikz}
 \usetikzlibrary{calc,patterns,arrows,shapes.arrows,intersections,fadings,shadows.blur}
 \usepackage[abs]{overpic}
 % \usepackage[percent]{overpic} % provide \put on figures
@@ -109,7 +109,7 @@
 % add pdf pages
 \usepackage{pdfpages} % \includepdf[pages=-]{myfile.pdf}
 \usepackage{rotating} % provide sidewaystable env
-\usepackage{media9}
+% \usepackage{media9}
 % \usepackage{subcaption}
 \captionsetup{compatibility=false} % to avoid warning with subcaption
 % 2 sub figures
@@ -134,15 +134,15 @@
 
 \includeonly{   % Of course this list allows many more file
 % contents/main_matter/chapter_intro
-contents/main_matter/chapter_lit
+% contents/main_matter/chapter_lit
 % contents/main_matter/chapter_design
 % contents/main_matter/chapter_testing
 % contents/main_matter/chapter_results
-% contents/main_matter/chapter_discussion
+contents/main_matter/chapter_discussion
 % contents/main_matter/chapter_conclusion
 % contents/back_matter/appendix
 % contents/back_matter/bibliography
-    }
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%DOCUMENT%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -152,19 +152,26 @@ contents/main_matter/chapter_lit
 \author{Oscar Daly}
 \date{\today}
 
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{etoolbox}
+
 \begin{document}
 
 % === FRONT MATTER
 \frontmatter{}
 \includepdf[pages=-]{assets/first.pdf}
-\listoftodos
+% \listoftodos
 % \include{contents/front_matter/colophon_dedication}
 \include{contents/front_matter/abstract}
 % \include{contents/front_matter/acknowledgments}
 \setcounter{mtc}{2}
 \doparttoc[n]
 \tableofcontents*\addcontentsline{toc}{chapter}{Contents}
-
+\newpage
+\listoffigures%*\addcontentsline{lof}{chapter}{List of Figures}
+\newpage
+\listoftables%*\addcontentsline{lot}{chapter}{List of Tables}
 
 % \glsaddallunused
 % \printnoidxglossary[type=symbols,title={Symbols}]
@@ -180,29 +187,29 @@ contents/main_matter/chapter_lit
 \mainmatter{}
 
 \begin{fullwidth}
-  \part{Prologue}\label{pt:prologue}
+    \part{Prologue}\label{pt:prologue}
 \end{fullwidth}
 \include{contents/main_matter/chapter_intro}
 \include{contents/main_matter/chapter_lit}
 
 \begin{fullwidth}
-  \part{Methodology}\label{pt:methodology}
+    \part{Methodology}\label{pt:methodology}
 \end{fullwidth}
 \parttoc[n]
 \include{contents/main_matter/chapter_design}
 \include{contents/main_matter/chapter_testing}
 
 \begin{fullwidth}
-  \part{Results, Analysis, and Discussion}\label{pt:ResAnDis}
+    \part{Results, Analysis, and Discussion}\label{pt:ResAnDis}
 \end{fullwidth}
 \parttoc[n]
 \include{contents/main_matter/chapter_results}
 \include{contents/main_matter/chapter_discussion}
 
 \begin{fullwidth}
-  \part{Epilogue}\label{pt:epilogue}
+    \part{Epilogue}\label{pt:epilogue}
 \end{fullwidth}
-\parttoc[n]
+% \parttoc[n]
 \include{contents/main_matter/chapter_conclusion}
 
 % % === BACK MATTER ===% \backmatter{}

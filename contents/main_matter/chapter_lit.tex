@@ -1,4 +1,5 @@
-\chapter{Literature Review}\label{ch:lit}
+\chapter{Literature Review}\label{ch:lit}\addtocontents{lof}{\protect\contentsline{chapter}{\protect\numberline{\thechapter}Literature Review}{}{}}\addtocontents{lot}{\protect\contentsline{chapter}{\protect\numberline{\thechapter}Literature Review}{}{}}
+
 
 % \openepigraph{Sound, a certain movement of air.}{Aristotele, De Anima II.8 420b12}
 \vspace{-2.5em}
@@ -74,7 +75,6 @@ The human heart contains four main valves: the mitral, tricuspid, aortic, and pu
     \item Valvular Stenosis: Stenosis of a valve leads to a narrowing of the valve opening, restricting blood flow. This results in increased workload for the heart chambers upstream of the affected valve, potentially causing hypertrophy and, ultimately, heart failure.
     \item Valvular Regurgitation: Valve regurgitation occurs when a valve does not close properly, allowing blood to flow backward. This leads to volume overload in the affected chambers, requiring the heart to work harder to pump the additional volume, which can also lead to heart failure over time.
 \end{itemize}
-
 Both conditions, if severe, can significantly impair cardiac function and may require surgical intervention, such as valve repair or replacement, to restore normal blood flow dynamics and prevent further cardiac damage. For instance, afterload mismatch in valvular heart disease, particularly in aortic stenosis, occurs when the left ventricle is unable to generate sufficient pressure to overcome the increased afterload caused by the stenosed valve, leading to a decrease in cardiac output. Surgical therapy, like aortic valve replacement, can relieve this mismatch and improve cardiac function, underscoring the importance of timely intervention in patients with valvular heart disease ~\citeonly{rossAfterloadMismatchAortic1985}.
 
 %     Variability and Pathologies: Briefly touch on common variations in \gls{TV} anatomy and how they might affect valve function. Also, review pathologies that can affect the valve, underscoring the need for effective simulation models.
@@ -109,7 +109,7 @@ Transcatheter techniques have emerged as a forefront innovation for treating \gl
 \begin{figure}[H]
     \centering
     \includegraphics[width=\linewidth]{figures/TTVR.jpg}
-    \caption{Current landscape of TTVR products being used surgically ~\citeonly{curioUpdateCurrentLandscape2019}}
+    \caption{Current landscape of \gls{TTVR} products being used surgically ~\citeonly{curioUpdateCurrentLandscape2019}}
     \label{fig:TTVR}
 \end{figure}
 \newthought{Impact of Valve Modeling and Simulation:}\\
@@ -134,22 +134,21 @@ The advent of 3D printing and \gls{CAD} technologies has revolutionized the fabr
 
 Heart valve models and simulators have significantly advanced, providing diverse tools for educational purposes, surgical planning, and research. These models range from low-fidelity simulators for basic educational use to high-fidelity, patient-specific models for complex surgical planning and research on prosthetics or interventions.
 
-\newthought{Educational Models:}\\
-Low-fidelity models, often made from commonly available materials, are used primarily for educational purposes. They provide an accessible and cost-effective means for trainees to develop surgical skills and understand valve anatomy and function. For instance, novel simulators made from components like baby bottles, combined with dental dam, offer simulation training in mitral and \gls{TV} surgical techniques, almost anywhere, at minimal cost. These models have been evaluated positively for their ability to replicate anatomy and surgical handling, proving very useful as training tools for cardiac surgery ~\citeonly{verberkmoesNovelLowfidelitySimulator2013}
+\newthought{Surgical Planning and Educational Models:}\\
+Low-fidelity models, often made from commonly available materials, are used primarily for educational purposes. They provide an accessible and cost-effective means for trainees to develop surgical skills and understand valve anatomy and function. For instance, novel simulators made from components like baby bottles, combined with dental dam, offer simulation training in mitral and \gls{TV} surgical techniques, almost anywhere, at minimal cost. These models have been evaluated positively for their ability to replicate anatomy and surgical handling, proving very useful as training tools for cardiac surgery ~\citeonly{verberkmoesNovelLowfidelitySimulator2013}\\
 
-High-Fidelity Tissue-Based Simulators: These offer a realistic environment for training cardiac surgical residents, replicating a variety of cardiac surgical procedures. They are instrumental in low-volume cardiothoracic surgery units, providing trainees with pre-clinical experience and helping them respond to clinical situations associated with heart-lung bypass machine operation and changes in patient clinical parameters. ~\citeonly{ramphalHighFidelityTissuebased2005}
+One attempt at such an educational simulator took an entirely tissue-based approach. ~\citeonly{ramphalHighFidelityTissuebased2005} This offered a realistic environment for training cardiac surgical residents, replicating a variety of cardiac surgical procedures. They are instrumental in low-volume cardiothoracic surgery units, providing trainees with pre-clinical experience and helping them respond to clinical situations associated with heart-lung bypass machine operation and changes in patient clinical parameters.\\
 
-\newthought{Surgical Planning and Research Models:}\\
-Advanced, high-fidelity models are developed for surgical planning and research, employing technologies like 3D printing and silicone casting to create patient-specific valve models. These models enable simulation under dynamic physiologic conditions, allowing for the testing of surgical repairs and interventions with considerable accuracy. For example, dynamic ventricular simulators, capable of testing the quality of simulated heart valve procedures, utilize 3D printed valve suspension chambers and model pulsatile pumps to provide close-to-physiologic hemodynamic conditions for education and training in cardiac surgery ~\citeonly{zilinskasPhysiologicalVentricularSimulator2022}
+Advanced, high-fidelity models are developed for surgical planning and research, employing technologies like 3D printing and silicone casting to create patient-specific valve models. These models enable simulation under dynamic physiologic conditions, allowing for the testing of surgical repairs and interventions with considerable accuracy. For example, dynamic ventricular simulators, capable of testing the quality of simulated heart valve procedures, utilize 3D printed valve suspension chambers and model pulsatile pumps to provide close-to-physiologic hemodynamic conditions for education and training in cardiac surgery ~\citeonly{zilinskasPhysiologicalVentricularSimulator2022}\\
 
-Simulation models for valve surgery, like those for mitral valve repair, offer detailed physiological simulation, including real-time feedback mechanisms. These models incorporate integrated sensors to generate, record, and display quantitative data on trainee performance, significantly enhancing the learning experience ~\citeonly{tozziHeartSurgerySimulator2022}
+Simulation models for valve surgery, like those for mitral valve repair, offer detailed physiological simulation, including real-time feedback mechanisms. These models incorporate integrated sensors to generate, record, and display quantitative data on trainee performance, significantly enhancing the learning experience ~\citeonly{tozziHeartSurgerySimulator2022}\\
 
-Utilizing 3D printed valve suspension chambers and model pulsatile pumps, these simulators offer close to physiologic hemodynamic conditions. They have been validated for testing aortic valve leaflet repairs and replacements, demonstrating the potential for extensive educational use in cardiac surgery. ~\citeonly{zilinskasPhysiologicalVentricularSimulator2022}
+Utilizing 3D printed valve suspension chambers and model pulsatile pumps, these simulators offer close to physiologic hemodynamic conditions. They have been validated for testing aortic valve leaflet repairs and replacements, demonstrating the potential for extensive educational use in cardiac surgery. ~\citeonly{zilinskasPhysiologicalVentricularSimulator2022}\\
 
 Computational models are developed based on patient-specific data to predict clinical outcomes, aiding in planning medical procedures such as percutaneous pulmonary valve implantation and surgical repair of congenital heart diseases. These simulations have shown good agreement with clinical decisions, demonstrating their utility in personalized cardiovascular treatments. ~\citeonly{capelliPatientspecificSimulationsPlanning2017}
 
 \newthought{Research-focused Models:}\\
-For research, especially in developing prosthetics and testing interventions, simulators that can replicate the heart's mechanical and hemodynamic environment under various conditions are utilized. These include both native heart valve simulations and artificial heart valve simulations, categorized based on the prototype model. Such models are pivotal in studying valve biomechanics, facilitating predictive surgical planning, and aiding in the design and evaluation of repair devices and prostheses ~\citeonly{zhongNumericalSimulationDynamics2014}
+For research, especially in developing prosthetics and testing interventions, simulators that can replicate the heart's mechanical and hemodynamic environment under various conditions are utilized. These include both native heart valve simulations and artificial heart valve simulations, categorized based on the prototype model. Such models are pivotal in studying valve biomechanics, facilitating predictive surgical planning, and aiding in the design and evaluation of repair devices and prostheses ~\citeonly{zhongNumericalSimulationDynamics2014}\\
 
 Simulators designed to house an entire explanted heart subjected to pulsatile fluid-dynamic conditions enable the hemodynamic analysis of simulated surgical procedures. These setups are beneficial for device testing, offering a platform for in-depth investigation of valvular surgeries and interventions. ~\citeonly{leopaldiVitroHemodynamicsValve2012}
 
@@ -181,7 +180,6 @@ Simulators designed to house an entire explanted heart subjected to pulsatile fl
           }
           This study ran a few different experiments, one with a mitral valve prosethesis, one with a mechanical valve, two with ex-vivo valves that were sewn onto an oversized elliptical frame and one experiment most close to the nature of this thesis where an in-vitro valve was
 \end{itemize}
-
 \newthought{Impact on Understanding Valve Mechanics and Patient Outcomes:}\\
 Simulators play a crucial role in understanding the intricate mechanics of heart valves under various physiological and pathological conditions. They provide a risk-free environment for exploring new surgical techniques and device interventions, which is critical for advancing cardiac care. By allowing for the simulation of complex cardiac procedures and the testing of prosthetic valves and annuloplasty rings, these tools help improve surgical precision and patient outcomes. The feedback and data generated from simulators enable continuous learning and adaptation of best practices in heart valve surgery and intervention.
 
@@ -202,6 +200,8 @@ Biological tissues have been a cornerstone in heart valve modeling, particularly
 \newthought{Emerging Materials and Technologies:}\\
 Recent advancements have led to the exploration of nanocomposite polymers \sidenote{essentially adding nano-sized building blocks into the polymer matrix which enhances durability while maintaining flexibility and processability} and hydrogels for heart valve modeling. Nanocomposite polymers, such as poly(carbonate-urea)urethane integrated with polyhedral oligomeric silsesquioxanes, exhibit enhanced mechanical properties and biostability. These materials show reduced calcification potential under in vitro conditions, making them attractive for the development of synthetic leaflet heart valves ~\citeonly{ghanbariAnticalcificationPotentialSilsesquioxane2010}
 
+Hydrogels, derived from natural or synthetic sources, are being investigated for their potential in valve tissue engineering due to their biocompatibility and ability to support cell adhesion and proliferation. Challenges exist in balancing the bioactivity and mechanical durability of hydrogels to meet the demands of heart valve function.\citeonly{zhangApplicationHydrogelsHeart2015}
+
 \marginpar{
     \centering
     \footnotesize
@@ -219,7 +219,7 @@ The Engelhardt group \citeonly{engelhardtFlexibleComprehensivePatientspecific201
     \centering
     \href{https://link.springer.com/article/10.1007/s11548-019-01971-9#MOESM1}{\includegraphics[width=\linewidth]{figures/Engel}}%
     \caption{Video of annuloplasty being performed on silicone mitral valve \textbf{(click to view video)}}
-    \label{fig:Videos}
+    \label{fig:Videoengel}
 \end{figure}
 
 \newthought{}
@@ -230,7 +230,9 @@ The Engelhardt group \citeonly{engelhardtFlexibleComprehensivePatientspecific201
 \citeonly{luoEffectBendingRigidity2012}
 0.125mm average thickness, chordae 0.7mm diam, modelled in systole, leaflet youngs modulus 5.4mpa\ chordae youngs 30mpa
 
-Hydrogels, derived from natural or synthetic sources, are being investigated for their potential in valve tissue engineering due to their biocompatibility and ability to support cell adhesion and proliferation. Challenges exist in balancing the bioactivity and mechanical durability of hydrogels to meet the demands of heart valve function.
+small Youngs modulus (~0.5 MPa) and high extensibility (~900\%) of the silicone alone. MV structures such as primary chordae tendineae have a higher Youngs modulus (~85 MPa) and a lower extensibility (4.3\%)\citeonly{liaoStructuralBasisSizerelated2003}
+
+
 
 % \subsection{3D Printing and Fabrication Techniques}
 %     3D Printing and Fabrication Techniques: Dive into modern fabrication techniques, especially 3D printing, used in valve model creation. Discuss the advantages of these methods in achieving anatomical precision and customizability.
@@ -394,7 +396,7 @@ Current simulators have often opted for integrating disected porcine hearts into
 % \end{itemize}
 
 
-\begin{table}[b]
+\begin{table}[H]
     \begin{fullwidth}
         \centering
         \footnotesize

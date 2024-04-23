@@ -172,7 +172,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>nyt</bcf:value>
+      <bcf:value>none</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -875,6 +875,11 @@
   </bcf:datafieldset>
   <!-- SOURCEMAP -->
   <bcf:sourcemap>
+    <bcf:maps datatype="bibtex" level="user">
+      <bcf:map>
+        <bcf:map_step map_field_set="urldate" map_null="1"/>
+      </bcf:map>
+    </bcf:maps>
     <bcf:maps datatype="bibtex" level="driver">
       <bcf:map>
         <bcf:map_step map_field_set="day" map_null="1"/>
@@ -2373,103 +2378,17 @@
     <bcf:datasource type="file" datatype="bibtex">contents/back_matter/references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">fraterARTIFICIALHEARTVALVES1962</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">rockComplexCollagenFiber2014</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">rockComplexCollagenFiber2014</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">simionescuArtificialHeartValves2006</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">simionescuArtificialHeartValves2006</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">YostDrawingDetailed</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">YostDrawingDetailed</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">sandersTricuspidValveEmbryology2014</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">buzzattiAnatomyTricuspidValve2018</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">TricuspidValveDisease</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">TricuspidValveDisease</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">rossAfterloadMismatchAortic1985</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">tretterAssessmentAnatomicalVariation2016</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">shahTricuspidValveDisease2008</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">hellComputedTomographyImaging2021</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">galesTranscatheterValveReplacement2018</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">curioUpdateCurrentLandscape2019</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">curioUpdateCurrentLandscape2019</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">westerhofArterialWindkessel2009</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">westerhofArterialWindkessel2009</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">westerhofArterialWindkessel2009</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">verberkmoesNovelLowfidelitySimulator2013</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">ramphalHighFidelityTissuebased2005</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">zilinskasPhysiologicalVentricularSimulator2022</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">tozziHeartSurgerySimulator2022</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">zilinskasPhysiologicalVentricularSimulator2022</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">capelliPatientspecificSimulationsPlanning2017</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">zhongNumericalSimulationDynamics2014</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">leopaldiVitroHemodynamicsValve2012</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">mathurTexasTriValveReverseengineered2022</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">rabbahNovelLeftHeart2013</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">pokutta-paskalevaComparativeMechanicalMorphological2019</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">karlExvivoInvitroDynamic2024</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">karlExvivoInvitroDynamic2024</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">karlExvivoInvitroDynamic2024</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">karlExvivoInvitroDynamic2024</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">karlExvivoInvitroDynamic2024</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">ghanbariAnticalcificationPotentialSilsesquioxane2010</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">ghanbariAnticalcificationPotentialSilsesquioxane2010</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">filovaTissueengineeredHeartValves2009</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">ghanbariAnticalcificationPotentialSilsesquioxane2010</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">ghanbariAnticalcificationPotentialSilsesquioxane2010</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">ghanbariAnticalcificationPotentialSilsesquioxane2010</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">baxterChapter12Selection2006</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">engelhardtFlexibleComprehensivePatientspecific2019</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">gintyModelingPatientSpecificDeformable2018</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">luoEffectBendingRigidity2012</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">ionasecPatientSpecificModelingQuantification2010</bcf:citekey>
-    <bcf:citekey order="49" intorder="1">grbicCompleteValvularHeart2012</bcf:citekey>
-    <bcf:citekey order="50" intorder="1">vukicevic3DPrintedModeling2017</bcf:citekey>
-    <bcf:citekey order="51" intorder="1">vukicevicPatientSpecific3DimensionalPrinted2020</bcf:citekey>
-    <bcf:citekey order="52" intorder="1">ahnTricuspidValveImaging2021</bcf:citekey>
-    <bcf:citekey order="53" intorder="1">suhWholeheartMotioncorrectionAlgorithm2017</bcf:citekey>
-    <bcf:citekey order="54" intorder="1">ahnTricuspidValveImaging2021</bcf:citekey>
-    <bcf:citekey order="54" intorder="2">suhWholeheartMotioncorrectionAlgorithm2017</bcf:citekey>
-    <bcf:citekey order="55" intorder="1">stasiakDesignDevelopmentTesting2020</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">walkerVitroEvaluationMechanical2010</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">thomasComputationalMultiscaleApproach2019</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">leeFluidStructureInteractionModels2020</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">damoreHeartValveScaffold2018</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">laurenceInvestigationRegionalVariations2019</bcf:citekey>
-    <bcf:citekey order="61" intorder="1">bazanExperimentalValidationCardiac2016</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">baillargeonLivingHeartProject2014</bcf:citekey>
-    <bcf:citekey order="63" intorder="1">rajabChapterIIIEthical2013</bcf:citekey>
-    <bcf:citekey order="64" intorder="1">fletcherCardiacTransplantsArtificial1983</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">aultmanEthicsRepeatHeart2018</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">kidaneCurrentDevelopmentsFuture2009</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">tretterAssessmentAnatomicalVariation2016</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">stevanellaFiniteElementModelling2010</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">karlExvivoInvitroDynamic2024</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">rabbahNovelLeftHeart2013</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">karlExvivoInvitroDynamic2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="nyt">
+  <bcf:sortingtemplate name="none">
     <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="6">
-      <bcf:sortitem order="1">volume</bcf:sortitem>
-      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
+    <bcf:sort order="2">
+      <bcf:sortitem order="1">intciteorder</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->

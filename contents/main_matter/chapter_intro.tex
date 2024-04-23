@@ -3,45 +3,40 @@
 \section{Background}
 
 \subsection{Understanding the Need for Heart Valve Simulators}
-\newthought{Cardiovascular Diseases Prevalence}
+\newthought{Cardiovascular Diseases Prevalence}\\
+\gls{CVD}'s, including heart valve diseases, are the leading cause of global mortality and a significant contributor to disability. The Global Burden of Disease Study 2019 revealed that prevalent cases of total \gls{CVD} nearly doubled from 271 million in 1990 to 523 million in 2019, with the number of \gls{CVD} deaths increasing from 12.1 million to 18.6 million over the same period. The study highlights the continuing rise in \gls{CVD} burden, especially in low- and middle-income countries, and a concerning trend of increasing age-standardized rates of \gls{CVD} in some high-income countries where rates were previously declining.\citeonly{rothGlobalBurdenCardiovascular2020a}
 
-Cardiovascular diseases (CVDs), including heart valve diseases, are the leading cause of global mortality and a significant contributor to disability. The Global Burden of Disease Study 2019 revealed that prevalent cases of total CVD nearly doubled from 271 million in 1990 to 523 million in 2019, with the number of CVD deaths increasing from 12.1 million to 18.6 million over the same period. The study highlights the continuing rise in CVD burden, especially in low- and middle-income countries, and a concerning trend of increasing age-standardized rates of CVD in some high-income countries where rates were previously declining.\cite{rothGlobalBurdenCardiovascular2020a}
+\newthought{Valvular Heart Diseases Prevalence}\\
+Valvular heart diseases, a subset of \gls{CVD}s, are characterized by abnormalities in the heart's valves, affecting blood flow within the heart chambers. These diseases encompass a wide range of conditions, including valvular stenosis, regurgitation, and prolapse, with the most common types affecting the aortic and mitral valves.
+Another study by \citeonly{nkomoBurdenValvularHeart2006a} emphasizes the substantial prevalence of valvular heart diseases in the general population, affecting approximately 2.5\% of the US population, with the prevalence increasing with age. This underscores valvular heart diseases as an important public health problem.
 
-\newthought{Valvular Heart Diseases Prevalence}
-Valvular heart diseases, a subset of CVDs, are characterized by abnormalities in the heart's valves, affecting blood flow within the heart chambers. These diseases encompass a wide range of conditions, including valvular stenosis, regurgitation, and prolapse, with the most common types affecting the aortic and mitral valves.
-Another study by Nkomo et al. (2006) emphasizes the substantial prevalence of valvular heart diseases in the general population, affecting approximately 2.5\% of the US population, with the prevalence increasing with age. This underscores valvular heart diseases as an important public health problem. \cite{nkomoBurdenValvularHeart2006a}
-
-\newthought{Challenges in Heart Valve Treatment}
-The treatment of heart valve diseases involves complex surgical and non-surgical interventions, facing several limitations that highlight the need for innovative solutions. The challenges include the invasive nature of current treatments, the requirement for high precision in surgery to avoid complications, and the limited availability of treatment options for certain patient groups. \cite{musumeciProstheticAorticValves2018}
+\newthought{Challenges in Heart Valve Treatment}\\
+The treatment of heart valve diseases involves complex surgical and non-surgical interventions, facing several limitations that highlight the need for innovative solutions. The challenges include the invasive nature of current treatments, the requirement for high precision in surgery to avoid complications, and the limited availability of treatment options for certain patient groups. \citeonly{musumeciProstheticAorticValves2018}
 % These complexities make the development of heart valve simulators an urgent necessity to improve surgical planning, training, and the overall management of heart valve diseases. The advancement in simulation technologies can play a pivotal role in addressing these challenges by enabling more accurate and less invasive treatment options, thereby enhancing patient outcomes.
 
-% In conclusion, the global prevalence of CVDs and the complexities involved in treating heart valve diseases underscore the significant need for heart valve simulators. These tools can provide invaluable benefits in medical training, surgical planning, and the development of new therapeutic techniques, ultimately aiming to reduce the burden of heart valve diseases and improve patient care.
+% In conclusion, the global prevalence of \gls{CVD}s and the complexities involved in treating heart valve diseases underscore the significant need for heart valve simulators. These tools can provide invaluable benefits in medical training, surgical planning, and the development of new therapeutic techniques, ultimately aiming to reduce the burden of heart valve diseases and improve patient care.
 
 \subsection{The Role of the Tricuspid Valve in Cardiac Function}
-\newthought{Anatomical and Physiological Overview}
+\newthought{Anatomical and Physiological Overview}\\
+The \gls{TV}, an essential component of the heart's right side, plays a vital role in cardiac physiology. It is located between the right atrium and the right ventricle, acting as a one-way gate that ensures unidirectional blood flow. Structurally, the \gls{TV} is complex, comprising an annulus, usually three leaflets (anterior, posterior, and septal), the supporting chordae tendineae, and the papillary muscles. This valve is crucial for electrically isolating the two cardiac chambers and maintaining efficient blood flow, with the variability in the number, length, and shape of the chordae tendineae and papillary muscles having significant clinical implications for valve function. \citeonly{sandersTricuspidValveEmbryology2014}
 
-The \gls{TV}, an essential component of the heart's right side, plays a vital role in cardiac physiology. It is located between the right atrium and the right ventricle, acting as a one-way gate that ensures unidirectional blood flow. Structurally, the \gls{TV} is complex, comprising an annulus, usually three leaflets (anterior, posterior, and septal), the supporting chordae tendineae, and the papillary muscles. This valve is crucial for electrically isolating the two cardiac chambers and maintaining efficient blood flow, with the variability in the number, length, and shape of the chordae tendineae and papillary muscles having significant clinical implications for valve function. \cite{sandersTricuspidValveEmbryology2014}
-
-\newthought{Pathologies Affecting the \gls{TV}}
-
+\newthought{Pathologies Affecting the \gls{TV}:}\\
 \gls{TV} diseases, such as tricuspid regurgitation or stenosis, significantly impact heart function. Tricuspid regurgitation, where the valve fails to close properly, allows blood to flow back into the right atrium during systole, while stenosis restricts blood flow from the atrium to the ventricle. These conditions can lead to heart failure if left untreated. In these diseases the annulus dilates and leaflet tethering is disrupted due to right ventricular remodeling, which are the main mechanisms responsible for most cases of tricuspid regurgitation.
 % Precise knowledge of tricuspid anatomy and function is fundamental for successful transcatheter tricuspid procedures. 
-\cite{buzzattiAnatomyTricuspidValve2018}
+\citeonly{buzzattiAnatomyTricuspidValve2018}
 
-\mynewline
 These conditions underscore the need for accurate simulation models to improve diagnostic and treatment strategies. The complexity of the \gls{TV}'s anatomy and the prevalence of its pathologies highlight the necessity for innovative solutions that can provide precise and personalized treatments, making the development of realistic simulation models critical for advancing cardiac care.
 
 
 \subsection{Technological Advances in Heart Valve Simulation}
 
-\newthought{Evolution of Heart Valve Simulators}
+\newthought{Evolution of Heart Valve Simulators}\\
+The journey of heart valve simulators from early mechanical models to today's advanced computer simulations marks a significant evolution in cardiovascular medicine. Initially, simulators were simplistic, focusing on the basic mechanical functions of heart valves. \citeonly{takashinaNewCardiacAuscultation1990} developed one of the early cardiac auscultation simulators that digitally recorded, modified, and played back heart sounds characteristic of various heart diseases, marking a pivotal moment in the simulation technology for educational purposes.
 
-The journey of heart valve simulators from early mechanical models to today's advanced computer simulations marks a significant evolution in cardiovascular medicine. Initially, simulators were simplistic, focusing on the basic mechanical functions of heart valves. Takashina, Masuzawa, and Fukui (1990) developed one of the early cardiac auscultation simulators that digitally recorded, modified, and played back heart sounds characteristic of various heart diseases, marking a pivotal moment in the simulation technology for educational purposes. \cite{takashinaNewCardiacAuscultation1990}
+Advancements continued with the introduction of tissue-based simulators for surgical training. \citeonly{ramphalHighFidelityTissuebased2005} described a high-fidelity, tissue-based cardiac surgical simulator that significantly enhanced the realism of training, enabling surgical residents to practice a variety of cardiac procedures in a risk-free environment.
 
-Advancements continued with the introduction of tissue-based simulators for surgical training. Ramphal et al. (2005) described a high-fidelity, tissue-based cardiac surgical simulator that significantly enhanced the realism of training, enabling surgical residents to practice a variety of cardiac procedures in a risk-free environment. \cite{ramphalHighFidelityTissuebased2005}
-Current State of \gls{TV} Simulators
-
-Today, the focus has shifted towards creating highly realistic and patient-specific models. The Living Heart Project represents a groundbreaking step towards integrative simulators for human heart function. This simulator for a four-chamber human heart model created from imaging data illustrates the electrical and mechanical response of the heart, including its valves, throughout the cardiac cycle, offering a sophisticated tool for exploring heart function under various conditions. \cite{baillargeonLivingHeartProject2014}
+\newthought{Current State of \gls{TV} Simulators:}\\
+The focus has shifted towards creating highly realistic and patient-specific models. The Living Heart Project represents a groundbreaking step towards integrative simulators for human heart function. This simulator for a four-chamber human heart model created from imaging data illustrates the electrical and mechanical response of the heart, including its valves, throughout the cardiac cycle, offering a sophisticated tool for exploring heart function under various conditions. \citeonly{baillargeonLivingHeartProject2014}
 
 Despite these advancements, current \gls{TV} simulators still face gaps in realism, accessibility, or functionality. These limitations include the challenge of accurately replicating the intricate biomechanics of the \gls{TV} and its interaction with the right heart dynamics under physiological and pathological conditions.
 % Furthermore, the accessibility of high-fidelity simulators for widespread educational use remains limited, highlighting a need for cost-effective and widely accessible simulation tools.
@@ -49,12 +44,12 @@ Despite these advancements, current \gls{TV} simulators still face gaps in reali
 % These challenges motivate further research and development in the field. Improving the fidelity of \gls{TV} simulators to better mimic real-life conditions, enhancing their accessibility for educational purposes, and expanding their functionality to cover a broader range of pathological conditions are critical areas for future innovation. Addressing these gaps has the potential to significantly impact the training of medical professionals, the planning of surgical interventions, and the development of new treatment modalities, ultimately advancing patient care in the realm of heart valve diseases.
 
 \subsection{The Importance of Realistic Simulation Models}
-\newthought{Benefits for Medical Training and Surgical Planning}
+\newthought{Benefits for Medical Training and Surgical Planning}\\
 Realistic heart valve simulators have emerged as critical tools for medical education and surgical planning. These simulators allow practitioners to gain hands-on experience without any risk to patients, bridging the gap between theoretical learning and practical application. They serve an essential role in pre-surgical planning, enabling surgeons to explore intervention strategies and anticipate challenges in a controlled environment. This aspect is crucial for complex procedures like heart valve surgery, where understanding the intricate details of the valve's anatomy and predicting the outcomes of surgical interventions can significantly affect patient outcomes.
 
-% One notable advancement in this domain is the development of patient-specific bioprosthetic heart valves using immersogeometric fluid-structure interaction analysis. This technology allows for the creation of customized prosthetic heart valves based on patient-specific aortic root geometries, derived from medical imaging data. By simulating various design perturbations under physiological conditions, researchers can optimize heart valve performance, indicated by effective orifice area and coaptation area, thus contributing significantly to the design and pre-surgical planning of prosthetic heart valves. \cite{xuFrameworkDesigningPatientspecific2018}
+% One notable advancement in this domain is the development of patient-specific bioprosthetic heart valves using immersogeometric fluid-structure interaction analysis. This technology allows for the creation of customized prosthetic heart valves based on patient-specific aortic root geometries, derived from medical imaging data. By simulating various design perturbations under physiological conditions, researchers can optimize heart valve performance, indicated by effective orifice area and coaptation area, thus contributing significantly to the design and pre-surgical planning of prosthetic heart valves. \citeonly{xuFrameworkDesigningPatientspecific2018}
 
-\newthought{Contribution to Prosthetic Valve Development}
+\newthought{Contribution to Prosthetic Valve Development}\\
 Accurate simulation models contribute immensely to the design and testing of prosthetic valves. They enable the identification of design considerations that affect performance and longevity, such as the impact of geometric variations on valve mechanics. By simulating the dynamic behavior of valve leaflets and the surrounding blood flow, engineers and surgeons can refine prosthetic designs to enhance their functionality durability, and ultimately lead to improved patient outcomes.
 
 % Simulation models have also facilitated the development of novel materials and designs for heart valve prostheses, offering insights into their behavior under physiological pressures and flows. This has been instrumental in advancing prosthetic valve technology, ensuring that new designs are not only effective but also reliable over the long term.
@@ -66,35 +61,30 @@ Accurate simulation models contribute immensely to the design and testing of pro
 % Current simulation technologies exhibit a notable gap in anatomical accuracy and physiological fidelity, particularly for the \gls{TV}. While advancements have been made, simulators often fail to replicate the intricate details and dynamic responses of the \gls{TV} accurately. Moreover, the accessibility and cost-effectiveness of these technologies for training and testing remain limited, restricting their widespread adoption in medical education and surgical preparation. Addressing these gaps requires a concerted effort to develop more detailed and dynamically accurate models that are also accessible and cost-effective.
 % Potential Impact of Your Research
 
-% The development of a more realistic mock \gls{TV} simulator, as highlighted by Xu et al. (2018), who demonstrated the potential of patient-specific bioprosthetic heart valves using immersogeometric fluid-structure interaction analysis, could revolutionize surgical training and prosthetic valve design.\cite{xuFrameworkDesigningPatientspecific2018} By providing an accurate and responsive simulation environment, surgeons and trainees can explore intervention strategies and anticipate surgical challenges without patient risk, improving skill acquisition and surgical outcomes. Additionally, such a simulator could significantly contribute to the design and testing of prosthetic valves, offering insights into how design variations influence performance and longevity. Ultimately, this research could lead to improved patient outcomes through more effective surgical interventions and prosthetic valve solutions, addressing a critical need in cardiac care.
+% The development of a more realistic mock \gls{TV} simulator, as highlighted by Xu et al. (2018), who demonstrated the potential of patient-specific bioprosthetic heart valves using immersogeometric fluid-structure interaction analysis, could revolutionize surgical training and prosthetic valve design.\citeonly{xuFrameworkDesigningPatientspecific2018} By providing an accurate and responsive simulation environment, surgeons and trainees can explore intervention strategies and anticipate surgical challenges without patient risk, improving skill acquisition and surgical outcomes. Additionally, such a simulator could significantly contribute to the design and testing of prosthetic valves, offering insights into how design variations influence performance and longevity. Ultimately, this research could lead to improved patient outcomes through more effective surgical interventions and prosthetic valve solutions, addressing a critical need in cardiac care.
 
 \section{Aims, Scope and Limitations}
-
 \newthought{Primary Objective}
 \begin{itemize}
     \item To develop a mock \gls{TV} that accurately replicates the anatomical structure and physiological function of the human \gls{TV} for use in a heart simulator.
 \end{itemize}
-
-
 \newthought{Secondary Objectives}
-
 \begin{itemize}
     \item To evaluate the realism and functionality of the developed valve model in comparison to existing simulators.
     \item To assess the potential of the valve model for enhancing surgical training and planning.
     \item To explore the model's utility in testing and improving prosthetic valve designs.
 \end{itemize}
-
 Achieving these objectives will not only fill the current technological void but also potentially revolutionize the way heart valve diseases, especially those affecting the \gls{TV}, are understood, taught, and treated.
 
 \subsection{Scope}
 
 The primary focus of this research is the design, development, and testing of a mock \gls{TV} intended for integration within a specifically designed right heart simulator. This project aims to utilize advanced biomedical engineering principles and methodologies to create a valve that closely mimics the physiological behaviors and properties of a natural human \gls{TV}. The research will leverage materials known for their biocompatibility and mechanical resilience, ensuring the mock valve's functionality.
 
-Additionally, the project will employ state-of-the-art CAD technologies to optimize the valve's performance under various physiological conditions and to refine the design in terms of anatomical accuracy. This scope encompasses the iterative design process, fabrication techniques potentially involving 3D printing with biocompatible materials,  \todo{make sound better} and a series of validation tests within the simulator environment to evaluate hemodynamic performance, durability, and response to simulated physiological variations.
+Additionally, the project will employ state-of-the-art \gls{CAD} technologies to optimize the valve's performance under various physiological conditions and to refine the design in terms of anatomical accuracy. This scope encompasses the iterative design process, fabrication techniques potentially involving 3D printing with biocompatible materials,  \todo{make sound better} and a series of validation tests within the simulator environment to evaluate hemodynamic performance, durability, and response to simulated physiological variations.
 
 \subsection{Limitations}
 
-There are inherent limitations associated with studies replicating biological function, this impacts the results and their applicability. Firstly, the complexity of replicating the exact physiological environment and dynamic conditions of the heart poses a significant challenge. The material selected for the mock \gls{TV}, while similar, may not perfectly mimic the viscoelastic properties of natural heart valve tissue, potentially leading to differences in hemodynamic/hydrodynamic performance when compared to a biological valve. Additionally, the scale and scope of the study are focused exclusively on the \gls{TV}, excluding other cardiac structures and valves, which may limit the understanding of the valve's interaction within the complete cardiac system. The research is also conducted within a simulator environment, which, despite its advanced design, cannot replicate every aspect of human physiology or the potential effects of systemic factors such as neurohormonal feedback. \cite{chatterjeeNeurohormonalActivationCongestive2005}
+There are inherent limitations associated with studies replicating biological function, this impacts the results and their applicability. Firstly, the complexity of replicating the exact physiological environment and dynamic conditions of the heart poses a significant challenge. The material selected for the mock \gls{TV}, while similar, may not perfectly mimic the viscoelastic properties of natural heart valve tissue, potentially leading to differences in hemodynamic/hydrodynamic performance when compared to a biological valve. Additionally, the scale and scope of the study are focused exclusively on the \gls{TV}, excluding other cardiac structures and valves, which may limit the understanding of the valve's interaction within the complete cardiac system. The research is also conducted within a simulator environment, which, despite its advanced design, cannot replicate every aspect of human physiology or the potential effects of systemic factors such as neurohormonal feedback. \citeonly{chatterjeeNeurohormonalActivationCongestive2005}
 
 These limitations underscore the importance of interpreting the findings within the context of the study's controlled conditions, with an understanding that further research and testing are necessary to bridge the gap between simulation and real-world application.
 
@@ -120,11 +110,11 @@ Based on the outlined objectives, the following research questions and hypothese
 \end{enumerate}
 
 \section{Problem Statement}
-Current simulators for heart valve diseases, particularly those affecting the \gls{TV}, fall short in accurately replicating the valve's intricate anatomy and physiology. This gap limits their utility in characterizing prosthetic valves, a critical step in the development and evaluation process. Despite advancements in simulation technologies, there's a distinct need for a \gls{TV} simulator that closely models the real-world behavior of valves under various physiological conditions. This research aims to address this by developing a \gls{TV} simulator that enhances anatomical and physiological realism while maintaining accessibility of measurement systems like particle image velocimetry
+Current simulators for heart valve diseases, particularly those affecting the \gls{TV}, fall short in accurately replicating the valve's intricate anatomy and physiology. This gap limits their utility in characterizing prosthetic valves, a critical step in the development and evaluation process. Despite advancements in simulation technologies, there's a distinct need for a \gls{TV} simulator that closely models the real-world behavior of valves under various physiological conditions. This research aims to address this by developing a \gls{TV} simulator that enhances anatomical and physiological realism while maintaining accessibility of measurement systems like particle image velocimetry.
 \todo{Not entirely happy with this}
 % \subsection{Introduction to the Issue}
 
-% Cardiovascular diseases (CVDs) continue to be a leading cause of morbidity and mortality globally, with heart valve diseases representing a significant portion of this burden. Among these, diseases affecting the \gls{TV} are particularly challenging due to the complex anatomy and critical physiological role of this valve in cardiac function. The current landscape of heart valve treatment, encompassing both surgical and non-surgical interventions, faces significant challenges in addressing \gls{TV} pathologies effectively.
+% Cardiovascular diseases (\gls{CVD}s) continue to be a leading cause of morbidity and mortality globally, with heart valve diseases representing a significant portion of this burden. Among these, diseases affecting the \gls{TV} are particularly challenging due to the complex anatomy and critical physiological role of this valve in cardiac function. The current landscape of heart valve treatment, encompassing both surgical and non-surgical interventions, faces significant challenges in addressing \gls{TV} pathologies effectively.
 
 % \subsection{Gaps in Current Solutions}
 

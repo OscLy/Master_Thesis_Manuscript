@@ -1,17 +1,18 @@
-{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode \chapternumberline {3}\MakeTextLowercase []{Design and Prototyping}}{\reset@font\ptcCfont 28}{chapter.3}}
-{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.1}Conceptualisation and Initial Design}{\reset@font\ptcSfont 28}{section.3.1}}
-{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.2}Design Criteria}{\reset@font\ptcSfont 29}{section.3.2}}
-{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.3}Modelling and Design Iterations}{\reset@font\ptcSfont 31}{section.3.3}}
-{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3.1}Simplified Valve Designs}{\reset@font\ptcSSfont 31}{subsection.3.3.1}}
-{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3.2}Represenative Valve Designs}{\reset@font\ptcSSfont 32}{subsection.3.3.2}}
-{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3.3}Model Refinement}{\reset@font\ptcSSfont 32}{subsection.3.3.3}}
-{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.4}Prototyping}{\reset@font\ptcSfont 33}{section.3.4}}
-{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.4.1}Valve Iterations}{\reset@font\ptcSSfont 33}{subsection.3.4.1}}
-{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.4.2}Chordae Tendineae }{\reset@font\ptcSSfont 34}{subsection.3.4.2}}
-{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.4.3}Fixturing}{\reset@font\ptcSSfont 36}{subsection.3.4.3}}
-{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode \chapternumberline {4}\MakeTextLowercase []{Experimental Setup and Testing}}{\reset@font\ptcCfont 37}{chapter.4}}
-{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.1}Fixturing Assembly}{\reset@font\ptcSfont 37}{section.4.1}}
-{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.2}Rig Assembly}{\reset@font\ptcSfont 38}{section.4.2}}
-{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.3}Testing Procedure}{\reset@font\ptcSfont 38}{section.4.3}}
-{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.1}Pilot Checks}{\reset@font\ptcSSfont 38}{subsection.4.3.1}}
-{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.2}Coaptation Testing}{\reset@font\ptcSSfont 39}{subsection.4.3.2}}
+{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode \chapternumberline {3}\MakeTextLowercase []{Design and Prototyping}}{\reset@font\ptcCfont 29}{chapter.3}}
+{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.1}Conceptualisation and Initial Design}{\reset@font\ptcSfont 29}{section.3.1}}
+{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.2}Design Criteria}{\reset@font\ptcSfont 30}{section.3.2}}
+{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.3}Modelling and Design Iterations}{\reset@font\ptcSfont 32}{section.3.3}}
+{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3.1}Simplified Valve Designs}{\reset@font\ptcSSfont 32}{subsection.3.3.1}}
+{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3.2}Represenative Valve Designs}{\reset@font\ptcSSfont 33}{subsection.3.3.2}}
+{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3.3}Model Refinement}{\reset@font\ptcSSfont 33}{subsection.3.3.3}}
+{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.4}Prototyping}{\reset@font\ptcSfont 35}{section.3.4}}
+{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.4.1}Valve Iterations}{\reset@font\ptcSSfont 35}{subsection.3.4.1}}
+{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.4.2}Chordae Tendineae}{\reset@font\ptcSSfont 37}{subsection.3.4.2}}
+{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.4.3}Fixturing}{\reset@font\ptcSSfont 39}{subsection.3.4.3}}
+{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.5}Design Validation}{\reset@font\ptcSfont 39}{section.3.5}}
+{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode \chapternumberline {4}\MakeTextLowercase []{Experimental Setup and Testing}}{\reset@font\ptcCfont 41}{chapter.4}}
+{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.1}Fixturing Assembly}{\reset@font\ptcSfont 41}{section.4.1}}
+{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.2}Rig Assembly}{\reset@font\ptcSfont 42}{section.4.2}}
+{\reset@font\ptcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.3}Testing Procedure}{\reset@font\ptcSfont 42}{section.4.3}}
+{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.1}Pilot Checks}{\reset@font\ptcSSfont 42}{subsection.4.3.1}}
+{\reset@font\ptcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.2}Coaptation Testing}{\reset@font\ptcSSfont 43}{subsection.4.3.2}}
