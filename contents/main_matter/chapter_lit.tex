@@ -76,9 +76,11 @@ The human heart contains four main valves: the mitral, tricuspid, aortic, and pu
     \item Valvular Regurgitation: Valve regurgitation occurs when a valve does not close properly, allowing blood to flow backward. This leads to volume overload in the affected chambers, requiring the heart to work harder to pump the additional volume, which can also lead to heart failure over time.
 \end{itemize}
 Both conditions, if severe, can significantly impair cardiac function and may require surgical intervention, such as valve repair or replacement, to restore normal blood flow dynamics and prevent further cardiac damage. For instance, afterload mismatch in valvular heart disease, particularly in aortic stenosis, occurs when the left ventricle is unable to generate sufficient pressure to overcome the increased afterload caused by the stenosed valve, leading to a decrease in cardiac output. Surgical therapy, like aortic valve replacement, can relieve this mismatch and improve cardiac function, underscoring the importance of timely intervention in patients with valvular heart disease ~\citeonly{rossAfterloadMismatchAortic1985}.
+\todo{maybe delete}
+
 
 %     Variability and Pathologies: Briefly touch on common variations in \gls{TV} anatomy and how they might affect valve function. Also, review pathologies that can affect the valve, underscoring the need for effective simulation models.
-\subsection{Variability and Pathologies}
+\subsection{Variability and Pathologies}\label{sec:varpath}
 The \gls{TV} is an essential component of the heart's right side and plays a critical role in the unidirectional blood flow from the right atrium to the right ventricle. Its anatomy and functioning can be affected by various factors, highlighting the importance of understanding its variability and pathologies;
 
 \newthought{Anatomical Variability:}\\
@@ -90,7 +92,7 @@ The \gls{TV} typically features three leaflets (anterior, septal, and posterior)
     \item Primary \gls{TV} disease encompasses congenital abnormalities, infective endocarditis, rheumatic disease, and degenerative changes.
     \item Secondary \gls{TV} disease is often related to left heart diseases or pulmonary hypertension, leading to tricuspid annular dilation and right ventricular remodeling. These changes can result in tricuspid regurgitation or, less commonly, tricuspid stenosis, significantly impacting cardiac function and patient prognosis.
 \end{itemize}
-Advanced imaging techniques are crucial for the detailed evaluation of \gls{TV} anatomy and pathology, aiding in the accurate assessment and management of these conditions.~\citeonly{shahTricuspidValveDisease2008}
+Advanced imaging techniques are crucial for the detailed evaluation of \gls{TV} anatomy and pathology, aiding in the accurate assessment and management of these conditions.~\citeonly{shahTricuspidValveDisease2008} One key aspect of tricuspid regurgitation that this study is looking to capture is the remodelling affects that tricuspid regurgitation has on the right ventricle and the valvular apparatus, some key variables that changes are the annular dilation, annular height, and circularity, which have been shown to increase in \citeonly{namModelingTricuspidValve2023} and chordal/papillary muscle lengths in \citeonly{obaseElongationChordaeTendineae2016}. All of these parameters are hoped to be captured over the study.
 
 \newthought{Need for Effective Simulation Models:}\\
 Given the complex anatomy of the \gls{TV} and the wide range of pathologies that can affect it, there is a growing need for effective simulation models. These models, computational and experimental can help in understanding the functional impacts of anatomical variability and pathological changes on the \gls{TV}, facilitating the development of more precise diagnostic tools and treatment strategies. Such models are particularly valuable in planning surgical interventions and predicting their outcomes.
@@ -102,9 +104,9 @@ The landscape of treatments for \gls{TV} disease has been evolving, incorporatin
 \newthought{Transcatheter Developments:}\\
 Transcatheter techniques have emerged as a forefront innovation for treating \gls{TV} disease, especially for high-risk patients for whom traditional surgery is not viable. Transcatheter \gls{TV} repair and replacement therapies have shown promise in reducing tricuspid regurgitation and improving patient outcomes with less invasiveness than traditional surgery.
 \begin{itemize}
-    \item Repair: Various devices and techniques are being developed and tested, including coaptation devices, annuloplasty systems, and heterotopic caval valve implantation. These approaches aim to reduce tricuspid regurgitation by improving leaflet coaptation or reducing annular dilatation, offering symptomatic relief and functional improvement to patients with severe tricuspid regurgitation. ~\citeonly{hellComputedTomographyImaging2021}
+    \item In transcatheter tricuspid valve repair various devices and techniques are being developed and tested, including coaptation devices, annuloplasty systems, and heterotopic caval valve implantation. These approaches aim to reduce tricuspid regurgitation by improving leaflet coaptation or reducing annular dilatation, offering symptomatic relief and functional improvement to patients with severe tricuspid regurgitation. ~\citeonly{hellComputedTomographyImaging2021}
 
-    \item Replacement: Transcatheter \gls{TV} replacement involves the percutaneous placement of a new valve within the native tricuspid annulus or a previously implanted surgical valve. This method has been advantageous for patients with severe \gls{TV} disease who are ineligible for surgical repair or replacement, demonstrating comparable safety and short-term outcomes. ~\citeonly{galesTranscatheterValveReplacement2018}
+    \item Transcatheter tricuspid valve replacement involves the percutaneous placement of a new valve within the native tricuspid annulus or a previously implanted surgical valve. This method has been advantageous for patients with severe \gls{TV} disease who are ineligible for surgical repair or replacement, demonstrating comparable safety and short-term outcomes. ~\citeonly{galesTranscatheterValveReplacement2018}
 \end{itemize}
 \begin{figure}[H]
     \centering
@@ -112,7 +114,8 @@ Transcatheter techniques have emerged as a forefront innovation for treating \gl
     \caption{Current landscape of \gls{TTVR} products being used surgically ~\citeonly{curioUpdateCurrentLandscape2019}}
     \label{fig:TTVR}
 \end{figure}
-\newthought{Impact of Valve Modeling and Simulation:}\\
+
+\newthought{Impact of Valve Modelling and Simulation:}\\
 Advancements in valve modeling and simulation have significantly impacted the development of new therapeutic techniques for \gls{TV} disease. High-fidelity models created from patient-specific anatomical data have been instrumental in the design and testing of transcatheter devices, allowing for the precise customization of treatments. Computational simulations have also been crucial in understanding the biomechanical properties of the \gls{TV} under various physiological conditions, aiding in the optimization of device designs for improved durability and performance. These innovations in modelling and simulation hold the potential to enhance treatment outcomes for \gls{TV} disease, paving the way for the development of more effective and less invasive therapeutic options.
 
 \section{Current Models and Simulators}
