@@ -4345,8 +4345,8 @@
       \strng{editornamehash}{5f5bb83afd5c394474e49f23ca144798}
       \strng{editorfullhash}{5f5bb83afd5c394474e49f23ca144798}
       \strng{editorfullhashraw}{5f5bb83afd5c394474e49f23ca144798}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -4401,8 +4401,8 @@
       \strng{authornamehash}{7c5ed68009a4c30b3fce4de23210d069}
       \strng{authorfullhash}{eceb9941f50b841f269312d348e848f4}
       \strng{authorfullhashraw}{eceb9941f50b841f269312d348e848f4}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -4463,8 +4463,8 @@
       \strng{authornamehash}{f561dd7aeeab732c092e3b2cbb1d3317}
       \strng{authorfullhash}{e80e15653229e112f360673b5b6cbb87}
       \strng{authorfullhashraw}{e80e15653229e112f360673b5b6cbb87}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -4553,8 +4553,8 @@
       \strng{authornamehash}{7b8f097a517c6e3360326b9eb380f376}
       \strng{authorfullhash}{08200a48700cf42236d65ffb5a8d2eef}
       \strng{authorfullhashraw}{08200a48700cf42236d65ffb5a8d2eef}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -4626,8 +4626,8 @@
       \strng{authornamehash}{eacea44330acc3a0e376c2d6a71db9c9}
       \strng{authorfullhash}{3e384abc1bd2751d21699de66684acdc}
       \strng{authorfullhashraw}{3e384abc1bd2751d21699de66684acdc}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -4648,9 +4648,6 @@
       \range{pages}{10}
       \verb{doi}
       \verb 10.1016/j.euromechsol.2014.04.001
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\5NH6786B\Baillargeon et al. - 2014 - The Living Heart Project A robust and integrative.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0997753814000564
@@ -4677,8 +4674,8 @@
       \strng{authornamehash}{fc5c08ef657f4bfdb2334c0c82ca29fc}
       \strng{authorfullhash}{fc5c08ef657f4bfdb2334c0c82ca29fc}
       \strng{authorfullhashraw}{fc5c08ef657f4bfdb2334c0c82ca29fc}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -4860,8 +4857,8 @@
       \keyw{bioprostheses,cross-linking,extracellular matrix,mechanical,regenerative medicine,tissue engineering}
     \endentry
     \entry{YostDrawingDetailed}{online}{}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
       \field{title}{Yost - {{Drawing Detailed}} View of Tricuspid Valve - {{English}} Labels | {{AnatomyTOOL}}}
@@ -4876,8 +4873,8 @@
       \endverb
     \endentry
     \entry{TricuspidValveDisease}{video}{}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Tricuspid valve disease Videos, Flashcards, High Yield Notes, \& Practice Questions. Learn and reinforce your understanding of Tricuspid valve disease.}
@@ -5032,8 +5029,8 @@
       \strng{authornamehash}{df7c15f6f5628b9024b1cf6bc3176777}
       \strng{authorfullhash}{df7c15f6f5628b9024b1cf6bc3176777}
       \strng{authorfullhashraw}{df7c15f6f5628b9024b1cf6bc3176777}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -5178,8 +5175,8 @@
       \strng{authornamehash}{26edcb6e5416068bfe23a48b7eb7f065}
       \strng{authorfullhash}{75f938a03dc34162ec6b06b1f357f134}
       \strng{authorfullhashraw}{75f938a03dc34162ec6b06b1f357f134}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -5291,8 +5288,8 @@
       \strng{authornamehash}{32105c3548670a7112c52b3053a33957}
       \strng{authorfullhash}{42f20efac5832ddf8b6cfb9e0ad9c323}
       \strng{authorfullhashraw}{42f20efac5832ddf8b6cfb9e0ad9c323}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -5378,8 +5375,8 @@
       \strng{authornamehash}{38451761f460fc22208c8eae509ef0fa}
       \strng{authorfullhash}{36b013d61183a2b2ea050712d15dcb31}
       \strng{authorfullhashraw}{36b013d61183a2b2ea050712d15dcb31}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -5399,9 +5396,6 @@
       \range{pages}{10}
       \verb{doi}
       \verb 10.1093/ehjci/jeaa308
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\7543DC9D\Hell et al. - 2021 - Computed tomography imaging needs for novel transc.pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1093/ehjci/jeaa308
@@ -5439,8 +5433,8 @@
       \strng{authornamehash}{67d699c525e8733dc8098b7ad4c0a988}
       \strng{authorfullhash}{94e278ea635b642d25712356326a9ff8}
       \strng{authorfullhashraw}{94e278ea635b642d25712356326a9ff8}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -5523,8 +5517,8 @@
       \strng{authornamehash}{4bfd1a8dd3899dd9b061805fd3c4d224}
       \strng{authorfullhash}{e772c5ac5862f5b1b6791afcf20bc667}
       \strng{authorfullhashraw}{e772c5ac5862f5b1b6791afcf20bc667}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -5536,9 +5530,6 @@
       \field{title}{Update on the {{Current Landscape}} of {{Transcatheter Options}} for {{Tricuspid Regurgitation Treatment}}}
       \field{year}{2019}
       \field{dateera}{ce}
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\ZAFAJRD4\Curio et al. - 2019 - Update on the Current Landscape of Transcatheter O.pdf
-      \endverb
       \verb{urlraw}
       \verb https://www.icrjournal.com/articles/update-current-landscape-transcatheter-options-tricuspid-regurgitation-treatment
       \endverb
@@ -5632,8 +5623,8 @@
       \strng{authornamehash}{b5355bb037a35ee5f468983f5d2680d1}
       \strng{authorfullhash}{b5355bb037a35ee5f468983f5d2680d1}
       \strng{authorfullhashraw}{b5355bb037a35ee5f468983f5d2680d1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -5715,8 +5706,8 @@
       \strng{authornamehash}{04ba333b9f0d0301f948baeeb9a4dc50}
       \strng{authorfullhash}{9c095b1026889b9ff35b055ce9096820}
       \strng{authorfullhashraw}{9c095b1026889b9ff35b055ce9096820}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -5783,8 +5774,8 @@
       \strng{authornamehash}{52be9c3ca06f8c776d9e8b925ec6ba0f}
       \strng{authorfullhash}{ebf58f62a96ec7062e89addeb75f197a}
       \strng{authorfullhashraw}{ebf58f62a96ec7062e89addeb75f197a}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -5892,8 +5883,8 @@
       \strng{authornamehash}{e616e5fdd96a4884472d9220c5b24c9d}
       \strng{authorfullhash}{ab586feeeadd55f990fb4a91cd91ef1c}
       \strng{authorfullhashraw}{ab586feeeadd55f990fb4a91cd91ef1c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -5911,9 +5902,6 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1098/rsfs.2017.0021
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\WEZBZIBU\Capelli et al. - 2017 - Patient-specific simulations for planning treatmen.pdf
       \endverb
       \verb{urlraw}
       \verb https://royalsocietypublishing.org/doi/10.1098/rsfs.2017.0021
@@ -5961,8 +5949,8 @@
       \strng{authornamehash}{d07461d2f1424b0aa0a99727823a1bc4}
       \strng{authorfullhash}{4850bef3586a99f25d23aec9390e69e0}
       \strng{authorfullhashraw}{4850bef3586a99f25d23aec9390e69e0}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6059,8 +6047,8 @@
       \strng{authornamehash}{fd7d97037457baa26e824eef968e6126}
       \strng{authorfullhash}{8fd3bc20103fbf4d031f44d459ff8dad}
       \strng{authorfullhashraw}{8fd3bc20103fbf4d031f44d459ff8dad}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6139,8 +6127,8 @@
       \strng{authornamehash}{c9e979e502d7ed86c0e44f23382bfce9}
       \strng{authorfullhash}{bcefd5262992e6f6a27a32260e29f20b}
       \strng{authorfullhashraw}{bcefd5262992e6f6a27a32260e29f20b}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6203,8 +6191,8 @@
       \strng{authornamehash}{10a4a35612ced00d5c0dbaac4ace382f}
       \strng{authorfullhash}{3c6a5ab83dbe4d29e017698a501b9014}
       \strng{authorfullhashraw}{3c6a5ab83dbe4d29e017698a501b9014}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6272,8 +6260,8 @@
       \strng{authornamehash}{82375e8d5ad3c7bc18ac4ba559ea31dd}
       \strng{authorfullhash}{3b39bc00b5391145aff20f8eac107094}
       \strng{authorfullhashraw}{3b39bc00b5391145aff20f8eac107094}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6402,8 +6390,8 @@
       \strng{authornamehash}{05c6b8a406398a95b2b3e04a2f8ba9e7}
       \strng{authorfullhash}{3ea592e4610433a9d1c4921fdc9cfdca}
       \strng{authorfullhashraw}{3ea592e4610433a9d1c4921fdc9cfdca}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6425,9 +6413,6 @@
       \range{pages}{11}
       \verb{doi}
       \verb 10.1007/s11548-023-03036-4
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\QDIHKRYB\Karl et al. - 2024 - An ex-vivo and in-vitro dynamic simulator for surg.pdf
       \endverb
       \verb{urlraw}
       \verb https://link.springer.com/article/10.1007/s11548-023-03036-4
@@ -6483,8 +6468,8 @@
       \strng{authornamehash}{bbae2520bedba873693438faffa7067f}
       \strng{authorfullhash}{0af0422a94d8fc8ae070dfa633fdc060}
       \strng{authorfullhashraw}{0af0422a94d8fc8ae070dfa633fdc060}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6555,8 +6540,8 @@
       \strng{authornamehash}{20327b09edc7f90d3a4102d7b6b6e4af}
       \strng{authorfullhash}{66e237278530f67925a4abe9a644201e}
       \strng{authorfullhashraw}{66e237278530f67925a4abe9a644201e}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6578,9 +6563,6 @@
       \endverb
       \verb{eprint}
       \verb 20131932
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\HVCB94D9\Filová et al. - 2009 - Tissue-engineered heart valves.pdf
       \endverb
       \keyw{Animals,Biocompatible Materials,Bioprosthesis,Heart Valve Prosthesis,Heart Valve Prosthesis Implantation,Humans,Prosthesis Design,Tissue Culture Techniques,Tissue Engineering}
     \endentry
@@ -6631,8 +6613,8 @@
       \strng{authornamehash}{420f7c4343552e62918555b07cd6fdaf}
       \strng{authorfullhash}{fbc7c7c813ea3ac26582250bdb249e8a}
       \strng{authorfullhashraw}{fbc7c7c813ea3ac26582250bdb249e8a}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6705,8 +6687,8 @@
       \strng{editornamehash}{59cb2b9e9c8b3439f29eccb14c70ab67}
       \strng{editorfullhash}{59cb2b9e9c8b3439f29eccb14c70ab67}
       \strng{editorfullhashraw}{59cb2b9e9c8b3439f29eccb14c70ab67}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6781,8 +6763,8 @@
       \strng{authornamehash}{1a30afdfafa9aa3fabf8d767372db26c}
       \strng{authorfullhash}{2917d82a78b76ba3a37958f95ab04de4}
       \strng{authorfullhashraw}{2917d82a78b76ba3a37958f95ab04de4}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6803,9 +6785,6 @@
       \range{pages}{10}
       \verb{doi}
       \verb 10.1007/s11548-019-01971-9
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\5DHW7CLA\Engelhardt et al. - 2019 - Flexible and comprehensive patient-specific mitral.pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1007/s11548-019-01971-9
@@ -6850,8 +6829,8 @@
       \strng{authornamehash}{c4630262cdd7436728f3c2cedb87ed99}
       \strng{authorfullhash}{03802551f731a82db061e2f21815e56a}
       \strng{authorfullhashraw}{03802551f731a82db061e2f21815e56a}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6942,8 +6921,8 @@
       \strng{authornamehash}{7b2a74ada3b87091f98f8692a331dbeb}
       \strng{authorfullhash}{5ebd3cb3e69d9731a3ae5722248f429e}
       \strng{authorfullhashraw}{5ebd3cb3e69d9731a3ae5722248f429e}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6999,8 +6978,8 @@
       \strng{authornamehash}{176f57038b5ff2ba6e93bf79fadb9fe1}
       \strng{authorfullhash}{176f57038b5ff2ba6e93bf79fadb9fe1}
       \strng{authorfullhashraw}{176f57038b5ff2ba6e93bf79fadb9fe1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7091,8 +7070,8 @@
       \strng{authornamehash}{b21d481a8764c6f0f20679482bbb2edd}
       \strng{authorfullhash}{125d6b334125602f251fb2ea2b4c6718}
       \strng{authorfullhashraw}{125d6b334125602f251fb2ea2b4c6718}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7111,9 +7090,6 @@
       \range{pages}{16}
       \verb{doi}
       \verb 10.1109/TMI.2010.2048756
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\K9NV66DI\Ionasec et al. - 2010 - Patient-Specific Modeling and Quantification of th.pdf
       \endverb
       \verb{urlraw}
       \verb https://ieeexplore.ieee.org/document/5458068
@@ -7182,8 +7158,8 @@
       \strng{authornamehash}{86676d469814cbdf200f22a814baf7c1}
       \strng{authorfullhash}{dd8a4423beff8c6ac76d73850431d149}
       \strng{authorfullhashraw}{dd8a4423beff8c6ac76d73850431d149}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7247,8 +7223,8 @@
       \strng{authornamehash}{75e0ef0afe1fd4fe6727338ff792d2ec}
       \strng{authorfullhash}{690c9b715a403bdaccb5d3c91c37d4bc}
       \strng{authorfullhashraw}{690c9b715a403bdaccb5d3c91c37d4bc}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7343,8 +7319,8 @@
       \strng{authornamehash}{c6351c3fabf1c63cd204b1362ad4fb23}
       \strng{authorfullhash}{399d43962d5fbe32f3e7ede701d5faf8}
       \strng{authorfullhashraw}{399d43962d5fbe32f3e7ede701d5faf8}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7407,8 +7383,8 @@
       \strng{authornamehash}{fd653f8ced76f3e75546b33ce0e5c89b}
       \strng{authorfullhash}{252236c8095f020f8076baad4fc2ae3d}
       \strng{authorfullhashraw}{252236c8095f020f8076baad4fc2ae3d}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7428,9 +7404,6 @@
       \range{pages}{18}
       \verb{doi}
       \verb 10.3348/kjr.2020.1507
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\PGQUGAY6\Ahn et al. - 2021 - Tricuspid Valve Imaging and Right Ventricular Func.pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.3348/kjr.2020.1507
@@ -7492,8 +7465,8 @@
       \strng{authornamehash}{3775328d755d61ea97652188d6d60f9d}
       \strng{authorfullhash}{891a3799625d42c0c2325d0bcc84f75b}
       \strng{authorfullhashraw}{891a3799625d42c0c2325d0bcc84f75b}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7618,8 +7591,8 @@
       \strng{authornamehash}{f5eb94b0ba190c245b32b6df067efcd9}
       \strng{authorfullhash}{b5553bde79164a0a4dc26f38e4aa650d}
       \strng{authorfullhashraw}{b5553bde79164a0a4dc26f38e4aa650d}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7668,8 +7641,8 @@
       \strng{authornamehash}{8f144009567e7ce35fb6fe85256df570}
       \strng{authorfullhash}{8f144009567e7ce35fb6fe85256df570}
       \strng{authorfullhashraw}{8f144009567e7ce35fb6fe85256df570}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7719,8 +7692,8 @@
       \strng{authornamehash}{c54ae0b300056dd57016b14c7ac66084}
       \strng{authorfullhash}{84b443348a1c537d0c51c5a42eb996c6}
       \strng{authorfullhashraw}{84b443348a1c537d0c51c5a42eb996c6}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7813,8 +7786,8 @@
       \strng{authornamehash}{9c836eac80eeb7e5b03fab38ea8c541c}
       \strng{authorfullhash}{d88f76c2571c332fbb16e456147839b7}
       \strng{authorfullhashraw}{d88f76c2571c332fbb16e456147839b7}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7933,8 +7906,8 @@
       \strng{authornamehash}{a77504397b164ab8a006cee2b77432f3}
       \strng{authorfullhash}{3efcfb14fb2ac317331ab66f07121bb3}
       \strng{authorfullhashraw}{3efcfb14fb2ac317331ab66f07121bb3}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7956,7 +7929,7 @@
       \verb 10.1016/j.biomaterials.2017.10.011
       \endverb
       \verb{file}
-      \verb C\:\\Users\\O S C A R\\Zotero\\storage\\6WF63J5W\\D'Amore et al. - 2018 - Heart valve scaffold fabrication Bioinspired cont.pdf;C\:\\Users\\O S C A R\\Zotero\\storage\\C477YFXH\\S0142961217306397.html
+      \verb C:\Users\O S C A R\Zotero\storage\C477YFXH\S0142961217306397.html
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0142961217306397
@@ -8043,8 +8016,8 @@
       \strng{authornamehash}{75d3aea42f9f74f623f7f768d7f6563f}
       \strng{authorfullhash}{92de9efda7d3d1d0d80e483fee946d8a}
       \strng{authorfullhashraw}{92de9efda7d3d1d0d80e483fee946d8a}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8101,8 +8074,8 @@
       \strng{authornamehash}{e4b479af834c1069df3180bed7f08e19}
       \strng{authorfullhash}{e4b479af834c1069df3180bed7f08e19}
       \strng{authorfullhashraw}{e4b479af834c1069df3180bed7f08e19}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8119,9 +8092,6 @@
       \range{pages}{7}
       \verb{doi}
       \verb 10.5935/1678-9741.20160041
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\IXA3GD5D\Bazan and Ortiz - 2016 - Experimental Validation of a Cardiac Simulator for.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.scielo.br/j/rbccv/a/cGMDYQsfPj6QzqqLRJCYVBm/?lang=en
@@ -8201,8 +8171,8 @@
       \strng{editornamehash}{02840ae34d1d30fe26b66bc92f95a09d}
       \strng{editorfullhash}{93d87a991caa5d3a4a67dea6fb592a25}
       \strng{editorfullhashraw}{93d87a991caa5d3a4a67dea6fb592a25}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8246,8 +8216,8 @@
       \strng{authornamehash}{5f8e86342e24c1a426561346fec8fbbc}
       \strng{authorfullhash}{5f8e86342e24c1a426561346fec8fbbc}
       \strng{authorfullhashraw}{5f8e86342e24c1a426561346fec8fbbc}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8264,9 +8234,6 @@
       \range{pages}{5}
       \verb{doi}
       \verb 10.1161/01.CIR.68.6.1339
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\2B2F6RTK\Fletcher - 1983 - Cardiac transplants and the artificial heart ethi.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.ahajournals.org/doi/10.1161/01.CIR.68.6.1339
@@ -8338,8 +8305,8 @@
       \strng{authornamehash}{9e3cd0769293c9af71bf8ca9a14aa485}
       \strng{authorfullhash}{e625f5846144c223952298edc88c829a}
       \strng{authorfullhashraw}{e625f5846144c223952298edc88c829a}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8355,9 +8322,6 @@
       \field{dateera}{ce}
       \verb{doi}
       \verb 10.5772/intechopen.76844
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\UKHQXFR8\Aultman et al. - 2018 - The Ethics in Repeat Heart Valve Replacement Surge.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.intechopen.com/chapters/61397
@@ -8425,8 +8389,8 @@
       \strng{authornamehash}{1b87eb5d70785165910882f17328de05}
       \strng{authorfullhash}{3dc9ed54f2efc9eea8b03d08f6a43581}
       \strng{authorfullhashraw}{3dc9ed54f2efc9eea8b03d08f6a43581}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8446,7 +8410,7 @@
       \verb 10.1002/jbm.b.31151
       \endverb
       \verb{file}
-      \verb C\:\\Users\\O S C A R\\Zotero\\storage\\25QKVB8M\\Kidane et al. - 2009 - Current developments and future prospects for hear.pdf;C\:\\Users\\O S C A R\\Zotero\\storage\\46J79BQT\\jbm.b.html
+      \verb C:\Users\O S C A R\Zotero\storage\46J79BQT\jbm.b.html
       \endverb
       \verb{urlraw}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm.b.31151
@@ -8497,8 +8461,8 @@
       \strng{authornamehash}{b2bb586ce8d9e3b66059660ecc0b150e}
       \strng{authorfullhash}{1f23da3397d92c093729f8fde5fb02d9}
       \strng{authorfullhashraw}{1f23da3397d92c093729f8fde5fb02d9}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8602,8 +8566,8 @@
       \strng{authornamehash}{f7f3d87c9b710dcd6f8839bf73c8cf95}
       \strng{authorfullhash}{8d879f4b2f0773f86e0d74a2e84bbd50}
       \strng{authorfullhashraw}{8d879f4b2f0773f86e0d74a2e84bbd50}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8664,8 +8628,8 @@
       \strng{authornamehash}{28ac47687c1c13857ae52a600e61bf0d}
       \strng{authorfullhash}{73ea57d76f19907905b39b5654816f25}
       \strng{authorfullhashraw}{73ea57d76f19907905b39b5654816f25}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8751,8 +8715,8 @@
       \strng{authornamehash}{ee3ecbd47d6c85311a60bcf5b0b86941}
       \strng{authorfullhash}{fa98a3edd08cdb69bda91c9a0ca92c1d}
       \strng{authorfullhashraw}{fa98a3edd08cdb69bda91c9a0ca92c1d}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8773,9 +8737,6 @@
       \range{pages}{10}
       \verb{doi}
       \verb 10.1007/s13239-017-0309-y
-      \endverb
-      \verb{file}
-      \verb C:\Users\O S C A R\Zotero\storage\RTHPCUBL\Büsen et al. - 2017 - Development of an In Vitro PIV Setup for Prelimina.pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1007/s13239-017-0309-y

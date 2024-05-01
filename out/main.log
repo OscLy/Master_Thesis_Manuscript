@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.5)  25 APR 2024 16:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.5)  1 MAY 2024 23:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -727,8 +727,8 @@ Package biblatex Info: ... and expl3
  (c:/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
-Package biblatex Info: Redefining '\cite' on input line 438.
-Package biblatex Info: Redefining '\fullcite' on input line 472.
+Package biblatex Info: Redefining '\cite' on input line 449.
+Package biblatex Info: Redefining '\fullcite' on input line 483.
  (c:/texlive/2024/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
 \MT@toks=\toks28
@@ -1075,8 +1075,8 @@ Package: memhfixc 2023/09/10 v1.22 hyperref package fixes for memoir class
 \c@memhycontfloat=\count501
 \c@Hpagenote=\count502
 )
-Package hyperref Info: Option `linktocpage' set `true' on input line 573.
-Package hyperref Info: Option `colorlinks' set `true' on input line 573.
+Package hyperref Info: Option `linktocpage' set `true' on input line 584.
+Package hyperref Info: Option `colorlinks' set `true' on input line 584.
  (c:/texlive/2024/texmf-dist/tex/latex/cleveref/cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
 LaTeX Info: Redefining \Cref on input line 925.
@@ -1990,7 +1990,97 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rotFPbot=\skip355
 \rot@float@box=\box161
 \rot@mess@toks=\toks82
-) (./contents/front_matter/glossary.tex) (./contents/synopsis.tex)
+) (./contents/front_matter/glossary.tex) (./contents/synopsis.tex) (c:/texlive/2024/texmf-dist/tex/latex/tabularray/tabularray.sty
+Package: tabularray 2024-02-16 v2024A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count640
+\l__tblr_c_int=\count641
+\l__tblr_r_int=\count642
+\l__tblr_d_dim=\dimen416
+\l__tblr_h_dim=\dimen417
+\l__tblr_o_dim=\dimen418
+\l__tblr_p_dim=\dimen419
+\l__tblr_q_dim=\dimen420
+\l__tblr_r_dim=\dimen421
+\l__tblr_s_dim=\dimen422
+\l__tblr_t_dim=\dimen423
+\l__tblr_v_dim=\dimen424
+\l__tblr_w_dim=\dimen425
+\l__tblr_a_box=\box162
+\l__tblr_b_box=\box163
+\l__tblr_c_box=\box164
+\l__tblr_d_box=\box165
+\g__tblr_table_count_int=\count643
+\c@colnum=\count644
+\c@rowcount=\count645
+\c@colcount=\count646
+\abovesep=\dimen426
+\belowsep=\dimen427
+\leftsep=\dimen428
+\rightsep=\dimen429
+\g_tblr_level_int=\count647
+\g__tblr_data_row_key_count_int=\count648
+\g__tblr_data_column_key_count_int=\count649
+\g__tblr_data_cell_key_count_int=\count650
+\g__tblr_array_int=\count651
+\l__tblr_key_count_int=\count652
+\l__tblr_key_quotient_int=\count653
+\l__tblr_key_quotient_two_int=\count654
+\l__tblr_key_remainder_int=\count655
+\g__tblr_data_str_value_count_int=\count656
+\rulewidth=\dimen430
+\l__tblr_strut_dp_dim=\dimen431
+\l__tblr_strut_ht_dim=\dimen432
+\g__tblr_cell_wd_dim=\dimen433
+\g__tblr_cell_ht_dim=\dimen434
+\g__tblr_cell_head_dim=\dimen435
+\g__tblr_cell_foot_dim=\dimen436
+\l__column_target_dim=\dimen437
+\l__tblr_caption_box=\box166
+\l__tblr_caption_left_box=\box167
+\l__tblr_row_head_box=\box168
+\l__tblr_row_foot_box=\box169
+\l__tblr_row_head_foot_dim=\dimen438
+\tablewidth=\dimen439
+\l__tblr_table_firsthead_box=\box170
+\l__tblr_table_middlehead_box=\box171
+\l__tblr_table_lasthead_box=\box172
+\l__tblr_table_firstfoot_box=\box173
+\l__tblr_table_middlefoot_box=\box174
+\l__tblr_table_lastfoot_box=\box175
+\l__tblr_remain_height_dim=\dimen440
+\l__tblr_long_from_int=\count657
+\l__tblr_long_to_int=\count658
+\l__tblr_curr_i_int=\count659
+\l__tblr_prev_i_int=\count660
+\l__tblr_table_page_int=\count661
+\l__tblr_table_head_box=\box176
+\l__tblr_table_foot_box=\box177
+\l__tblr_table_head_foot_dim=\dimen441
+\l__tblr_table_head_body_foot_dim=\dimen442
+\l__tblr_table_box=\box178
+\l__tblr_table_hlines_box=\box179
+\l__tblr_hline_box=\box180
+\l__tblr_row_box=\box181
+\l__tblr_col_o_wd_dim=\dimen443
+\l__tblr_col_b_wd_dim=\dimen444
+\l__tblr_hline_leftskip_dim=\dimen445
+\l__tblr_hline_rightskip_dim=\dimen446
+\l__tblr_row_ht_dim=\dimen447
+\l__tblr_row_dp_dim=\dimen448
+\l__tblr_row_abovesep_dim=\dimen449
+\l__tblr_row_belowsep_dim=\dimen450
+\l__tblr_row_vlines_box=\box182
+\l__tblr_vline_box=\box183
+\l__tblr_cell_box=\box184
+\l__row_upper_dim=\dimen451
+\l__row_lower_dim=\dimen452
+\l__row_vpace_dim=\dimen453
+\l__tblr_vline_aboveskip_dim=\dimen454
+\l__tblr_vline_belowskip_dim=\dimen455
+\l__tblr_cell_wd_dim=\dimen456
+\l__tblr_cell_ht_dim=\dimen457
+\l__tblr_diag_box=\box185
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1998,7 +2088,7 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 LaTeX Font Info:    Trying to load font information for T1+txr on input line 159.
  (c:/texlive/2024/texmf-dist/tex/latex/txfonts/t1txr.fd
 File: t1txr.fd 2000/12/15 v3.1
-) (out/main.aux (out/contents/front_matter/abstract.aux) (out/contents/main_matter/chapter_intro.aux) (out/contents/main_matter/chapter_lit.aux) (out/contents/main_matter/chapter_design.aux) (out/contents/main_matter/chapter_testing.aux) (out/contents/main_matter/chapter_results.aux) (out/contents/main_matter/chapter_discussion.aux) (out/contents/main_matter/chapter_conclusion.aux) (out/contents/back_matter/appendix.aux) (out/contents/back_matter/bibliography.aux))
+) (out/main.aux (out/contents/front_matter/abstract.aux) (out/contents/front_matter/acknowledgments.aux) (out/contents/main_matter/chapter_intro.aux) (out/contents/main_matter/chapter_lit.aux) (out/contents/main_matter/chapter_design.aux) (out/contents/main_matter/chapter_testing.aux) (out/contents/main_matter/chapter_results.aux) (out/contents/main_matter/chapter_discussion.aux) (out/contents/main_matter/chapter_conclusion.aux) (out/contents/back_matter/appendix.aux) (out/contents/back_matter/bibliography.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 159.
@@ -2082,8 +2172,8 @@ Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@mv@tabular=\count640
-\c@mv@boldtabular=\count641
+\c@mv@tabular=\count662
+\c@mv@boldtabular=\count663
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -2124,16 +2214,16 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 ) (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count642
-\scratchdimen=\dimen416
-\scratchbox=\box162
-\nofMPsegments=\count643
-\nofMParguments=\count644
+\scratchcounter=\count664
+\scratchdimen=\dimen458
+\scratchbox=\box186
+\nofMPsegments=\count665
+\nofMParguments=\count666
 \everyMPshowfont=\toks83
-\MPscratchCnt=\count645
-\MPscratchDim=\dimen417
-\MPnumerator=\count646
-\makeMPintoPDFobject=\count647
+\MPscratchCnt=\count667
+\MPscratchDim=\dimen459
+\MPnumerator=\count668
+\makeMPintoPDFobject=\count669
 \everyMPtoPDFconversion=\toks84
 ) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -2166,12 +2256,12 @@ Package translations Info: loading dictionary `translations-basic-dictionary' fo
 File: translations-basic-dictionary-french.trsl (french translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `french'. on input line 159.
-\c@minilofdepth=\count648
-\c@minilotdepth=\count649
-\c@partlofdepth=\count650
-\c@partlotdepth=\count651
-\c@sectlofdepth=\count652
-\c@sectlotdepth=\count653
+\c@minilofdepth=\count670
+\c@minilotdepth=\count671
+\c@partlofdepth=\count672
+\c@partlotdepth=\count673
+\c@sectlofdepth=\count674
+\c@sectlotdepth=\count675
 Package minitoc(hints) Info: I0049
 (minitoc(hints))             ==> You requested the hints option. 
 (minitoc(hints))             Some hints are eventually given below.
@@ -2191,10 +2281,17 @@ Package minitoc(hints) Info: I0044
 (minitoc(hints))             --- The memoir class is loaded. 
 (minitoc(hints))             See the minitoc package documentation 
 (minitoc(hints))             for specific precautions.
+ (c:/texlive/2024/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 
+
+LaTeX Warning: Package "xcolor" has already been loaded: ignoring load-time
+(LaTeX)        option "pdftex".
+
+)
 
 pdfTeX warning: pdflatex.exe (file ./assets/first.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<assets/first.pdf, id=195, 597.55246pt x 845.07718pt>
+<assets/first.pdf, id=203, 597.55246pt x 845.07718pt>
 File: assets/first.pdf Graphic file (type pdf)
 <use assets/first.pdf>
 Package pdftex.def Info: assets/first.pdf  used on input line 163.
@@ -2212,7 +2309,7 @@ pdfTeX warning: pdflatex.exe (file ./assets/first.pdf): PDF inclusion: found PDF
 
 
 pdfTeX warning: pdflatex.exe (file ./assets/first.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<assets/first.pdf, id=198, page=1, 597.55246pt x 845.07718pt>
+<assets/first.pdf, id=206, page=1, 597.55246pt x 845.07718pt>
 File: assets/first.pdf Graphic file (type pdf)
 <use assets/first.pdf, page 1>
 Package pdftex.def Info: assets/first.pdf , page1 used on input line 163.
@@ -2242,58 +2339,89 @@ Package pdftex.def Info: assets/first.pdf , page1 used on input line 163.
 
  (./contents/front_matter/abstract.tex
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <8> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 7.
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 11.
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 15.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 24.
  (c:/texlive/2024/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for OML+mak on input line 11.
+LaTeX Font Info:    Trying to load font information for OML+mak on input line 24.
  (c:/texlive/2024/texmf-dist/tex/latex/kerkis/omlmak.fd)
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 6.29996pt on input line 11.
+(Font)              scaled to size 6.29996pt on input line 24.
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 4.49997pt on input line 11.
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 11.
+(Font)              scaled to size 4.49997pt on input line 24.
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 24.
  (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 11.
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 24.
  (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 11.
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 24.
  (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 11.
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 24.
  (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for T1+mak on input line 11.
+LaTeX Font Info:    Trying to load font information for T1+mak on input line 24.
  (c:/texlive/2024/texmf-dist/tex/latex/kerkis/t1mak.fd)
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 6.29996pt on input line 11.
+(Font)              scaled to size 6.29996pt on input line 24.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `mak' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 4.49997pt on input line 11.
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 11.
+(Font)              scaled to size 4.49997pt on input line 24.
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 24.
  (c:/texlive/2024/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )) [2
 
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}]
+\openout2 = `contents/front_matter/acknowledgments.aux'.
+
+ (./contents/front_matter/acknowledgments.tex
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 15.
+LaTeX Font Info:    Font shape `OML/mak/m/it' will be
+(Font)              scaled to size 9.89993pt on input line 15.
+LaTeX Font Info:    Font shape `OML/mak/m/it' will be
+(Font)              scaled to size 6.92992pt on input line 15.
+LaTeX Font Info:    Font shape `OML/mak/m/it' will be
+(Font)              scaled to size 4.94997pt on input line 15.
+LaTeX Font Info:    Font shape `T1/mak/m/n' will be
+(Font)              scaled to size 9.89993pt on input line 15.
+LaTeX Font Info:    Font shape `T1/mak/m/n' will be
+(Font)              scaled to size 6.92992pt on input line 15.
+LaTeX Font Info:    Font shape `T1/mak/m/n' will be
+(Font)              scaled to size 4.94997pt on input line 15.
+LaTeX Font Info:    Font shape `OML/mak/m/it' will be
+(Font)              scaled to size 8.09995pt on input line 15.
+LaTeX Font Info:    Font shape `OML/mak/m/it' will be
+(Font)              scaled to size 5.39996pt on input line 15.
+LaTeX Font Info:    Font shape `T1/mak/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 15.
+LaTeX Font Info:    Font shape `T1/mak/m/n' will be
+(Font)              scaled to size 5.39996pt on input line 15.
+) [3
+
+
+
+
+]
 Package minitoc Info: I0025
 (minitoc)             PREPARING PARTTOCS FROM main.toc on input line 169.
 
 {\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode Abstract}{\reset@font\ptcCfont ii}{chapter*.1}}
-{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode Contents}{\reset@font\ptcCfont iv}{section*.2}}
-{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode List of Figures}{\reset@font\ptcCfont v}{section*.3}}
-{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode List of Tables}{\reset@font\ptcCfont vii}{section*.4}}
-{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode List of Acronyms}{\reset@font\ptcCfont viii}{section*.5}}
+{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode Acknowledgements}{\reset@font\ptcCfont iii}{chapter*.2}}
+{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode Contents}{\reset@font\ptcCfont v}{section*.3}}
+{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode List of Figures}{\reset@font\ptcCfont vi}{section*.4}}
+{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode List of Tables}{\reset@font\ptcCfont viii}{section*.5}}
+{\reset@font\ptcCfont\mtc@string\contentsline{chapter}{\noexpand \leavevmode List of Acronyms}{\reset@font\ptcCfont ix}{section*.6}}
 Package minitoc Info: I0033
 (minitoc)             Writing main.ptc1.
 \openout7 = `main.ptc1'.
@@ -2313,44 +2441,37 @@ Package minitoc Info: I0033
 (out/main.toc
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <11> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 3.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 3.
-LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 9.89993pt on input line 3.
-LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 6.92992pt on input line 3.
-LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 4.94997pt on input line 3.
-LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 9.89993pt on input line 3.
-LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 6.92992pt on input line 3.
-LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 4.94997pt on input line 3.
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <9> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10.95> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 8.
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 9.85492pt on input line 8.
+(Font)              scaled to size 9.85492pt on input line 9.
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 7.19995pt on input line 8.
-LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 5.39996pt on input line 8.
+(Font)              scaled to size 7.19995pt on input line 9.
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 8.
+(Font)              scaled to size 9.85492pt on input line 9.
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 8.
-LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 5.39996pt on input line 8.
- [3
+(Font)              scaled to size 7.19995pt on input line 9.
+ [4
 
 
-]) [4] (out/main.lof [5]) [6] (out/main.lot) [7]
+]) [5] (out/main.lof
+Overfull \hbox (8.44766pt too wide) in paragraph at lines 19--19
+ [][] []\T1/txr/m/n/11 (-20) Comparison of polyurethane and poly(carbonate-urea)urethane 
+ []
+
+
+Overfull \hbox (32.43132pt too wide) in paragraph at lines 20--20
+ [][] []\T1/txr/m/n/11 (-20) Comparison sur-faces in fa-tigued (a) polyurethane (b) poly(carbonate- 
+ []
+
+[6]) [7] (out/main.lot) [8]
 Underfull \hbox (badness 10000) in paragraph at lines 180--180
 []|\T1/txr/bx/n/11 (+20) Page
  []
 
-[8
+[9
 
 
 ]
@@ -2391,23 +2512,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--180
 
 
 ]
+Package marginnote Info: Using workaround for absolute page number on input line 190.
 \openout2 = `contents/main_matter/chapter_intro.aux'.
 
  (./contents/main_matter/chapter_intro.tex [2
 
 
 
-] [3] [4]
-LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 8.09995pt on input line 69.
-LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 69.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 83.
- [5] [6]) [7]
+] [3] [4] [5] [6]) [7]
 \openout2 = `contents/main_matter/chapter_lit.aux'.
 
  (./contents/main_matter/chapter_lit.tex
-<figures/heartimage.jpg, id=530, 196.735pt x 182.18062pt>
+<figures/heartimage.jpg, id=575, 196.735pt x 182.18062pt>
 File: figures/heartimage.jpg Graphic file (type jpg)
 <use figures/heartimage.jpg>
 Package pdftex.def Info: figures/heartimage.jpg  used on input line 22.
@@ -2424,19 +2540,19 @@ See the caption package documentation for explanation.
 
 
  <./figures/heartimage.jpg>]
-<figures/tricuspidimage.jpg, id=544, 248.75334pt x 273.46968pt>
+<figures/tricuspidimage.jpg, id=590, 248.75334pt x 273.46968pt>
 File: figures/tricuspidimage.jpg Graphic file (type jpg)
 <use figures/tricuspidimage.jpg>
-Package pdftex.def Info: figures/tricuspidimage.jpg  used on input line 40.
+Package pdftex.def Info: figures/tricuspidimage.jpg  used on input line 46.
 (pdftex.def)             Requested size: 144.0pt x 158.30789pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 40.
+(caption)                particular \caption on input line 46.
 See the caption package documentation for explanation.
 
 [9 <./figures/tricuspidimage.jpg>]
-<figures/regurgsteno.jpg, id=563, 394.47375pt x 361.35pt>
+<figures/regurgsteno.jpg, id=608, 394.47375pt x 361.35pt>
 File: figures/regurgsteno.jpg Graphic file (type jpg)
 <use figures/regurgsteno.jpg>
 Package pdftex.def Info: figures/regurgsteno.jpg  used on input line 73.
@@ -2447,126 +2563,214 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 73.
 See the caption package documentation for explanation.
 
-[10 <./figures/regurgsteno.jpg>] [11] [12]
-<figures/TTVR.jpg, id=609, 277.53688pt x 181.67876pt>
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 79.
+[10 <./figures/regurgsteno.jpg>]
+<figures/tretter.jpg, id=622, 413.91pt x 490.56pt>
+File: figures/tretter.jpg Graphic file (type jpg)
+<use figures/tretter.jpg>
+Package pdftex.def Info: figures/tretter.jpg  used on input line 93.
+(pdftex.def)             Requested size: 144.0pt x 170.66559pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 93.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Marginpar on page 11 moved by 18.06651pt.
+
+[11 <./figures/tretter.jpg>] [12]
+<figures/TTVR.jpg, id=656, 277.53688pt x 181.67876pt>
 File: figures/TTVR.jpg Graphic file (type jpg)
 <use figures/TTVR.jpg>
-Package pdftex.def Info: figures/TTVR.jpg  used on input line 113.
+Package pdftex.def Info: figures/TTVR.jpg  used on input line 121.
 (pdftex.def)             Requested size: 312.0pt x 204.24115pt.
  [13 <./figures/TTVR.jpg>]
-<figures/WindKessel.jpg, id=624, 222.33063pt x 152.06813pt>
+<figures/WindKessel.jpg, id=669, 222.33063pt x 152.06813pt>
 File: figures/WindKessel.jpg Graphic file (type jpg)
 <use figures/WindKessel.jpg>
-Package pdftex.def Info: figures/WindKessel.jpg  used on input line 131.
+Package pdftex.def Info: figures/WindKessel.jpg  used on input line 139.
 (pdftex.def)             Requested size: 144.0pt x 98.49272pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 131.
+(caption)                particular \caption on input line 139.
 See the caption package documentation for explanation.
 
 [14 <./figures/windkessel.JPG>]
-Underfull \hbox (badness 10000) in paragraph at lines 140--142
+<figures/verb.jpg, id=679, 311.1625pt x 207.77625pt>
+File: figures/verb.jpg Graphic file (type jpg)
+<use figures/verb.jpg>
+Package pdftex.def Info: figures/verb.jpg  used on input line 155.
+(pdftex.def)             Requested size: 144.0pt x 96.15524pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 155.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 155--155
+[]\T1/txr/m/sc/8 (+20) Figure 2.7\T1/txr/m/n/8 (+20) : |[]Set up for min-i-mally in-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+LaTeX Warning: Marginpar on page 15 moved by 1.15524pt.
+
+<figures/zilin1.jpg, id=685, 220.825pt x 291.0875pt>
+File: figures/zilin1.jpg Graphic file (type jpg)
+<use figures/zilin1.jpg>
+Package pdftex.def Info: figures/zilin1.jpg  used on input line 166.
+(pdftex.def)             Requested size: 100.79956pt x 132.8714pt.
+<figures/zilin2.jpg, id=686, 165.61874pt x 291.0875pt>
+File: figures/zilin2.jpg Graphic file (type jpg)
+<use figures/zilin2.jpg>
+Package pdftex.def Info: figures/zilin2.jpg  used on input line 166.
+(pdftex.def)             Requested size: 86.40088pt x 151.85493pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 166.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 153--155
+[15 <./figures/verb.jpg> <./figures/zilin1.jpg> <./figures/zilin2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 175--177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--161
+Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
 
 [16]
-<figures/karl2.jpg, id=665, 322.20375pt x 389.95688pt>
+<figures/karl2.jpg, id=717, 322.20375pt x 389.95688pt>
 File: figures/karl2.jpg Graphic file (type jpg)
 <use figures/karl2.jpg>
-Package pdftex.def Info: figures/karl2.jpg  used on input line 176.
+Package pdftex.def Info: figures/karl2.jpg  used on input line 198.
 (pdftex.def)             Requested size: 144.0pt x 174.28296pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 176.
+(caption)                particular \caption on input line 198.
 See the caption package documentation for explanation.
 
-<figures/karl1.jpg, id=668, 363.3575pt x 387.4475pt>
+<figures/karl1.jpg, id=720, 363.3575pt x 387.4475pt>
 File: figures/karl1.jpg Graphic file (type jpg)
 <use figures/karl1.jpg>
-Package pdftex.def Info: figures/karl1.jpg  used on input line 183.
+Package pdftex.def Info: figures/karl1.jpg  used on input line 205.
 (pdftex.def)             Requested size: 144.0pt x 153.55147pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 183.
+(caption)                particular \caption on input line 205.
 See the caption package documentation for explanation.
 
 
 LaTeX Warning: Marginpar on page 17 moved by 197.5015pt.
 
 [17 <./figures/karl2.jpg> <./figures/karl1.jpg>]
-<figures/PUanal.jpg, id=678, 239.19452pt x 360.07089pt>
+<figures/PUanal.jpg, id=728, 239.19452pt x 360.07089pt>
 File: figures/PUanal.jpg Graphic file (type jpg)
 <use figures/PUanal.jpg>
-Package pdftex.def Info: figures/PUanal.jpg  used on input line 199.
+Package pdftex.def Info: figures/PUanal.jpg  used on input line 221.
 (pdftex.def)             Requested size: 144.0pt x 216.77493pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 199.
+(caption)                particular \caption on input line 221.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 7238) in paragraph at lines 199--199
-[]\T1/txr/m/sc/8 (+20) Figure 2.8\T1/txr/m/n/8 (+20) : |[]Comparison of [][]PU[][] and
- []
+LaTeX Warning: Marginpar on page 18 moved by 39.04721pt.
 
-<figures/PUanal2.jpg, id=689, 328.73256pt x 422.74753pt>
+<figures/PUanal2.jpg, id=737, 328.73256pt x 422.74753pt>
 File: figures/PUanal2.jpg Graphic file (type jpg)
 <use figures/PUanal2.jpg>
-Package pdftex.def Info: figures/PUanal2.jpg  used on input line 214.
+Package pdftex.def Info: figures/PUanal2.jpg  used on input line 236.
 (pdftex.def)             Requested size: 144.0pt x 185.1838pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 214.
+(caption)                particular \caption on input line 236.
 See the caption package documentation for explanation.
 
 
 LaTeX Warning: Marginpar on page 18 moved by 37.86583pt.
 
 [18 <./figures/PUanal.jpg> <./figures/PUanal2.jpg>]
-<figures/Engel.jpg, id=708, 334.75063pt x 190.21063pt>
+<figures/Engel.jpg, id=758, 334.75063pt x 190.21063pt>
 File: figures/Engel.jpg Graphic file (type jpg)
 <use figures/Engel.jpg>
-Package pdftex.def Info: figures/Engel.jpg  used on input line 223.
+Package pdftex.def Info: figures/Engel.jpg  used on input line 245.
 (pdftex.def)             Requested size: 312.0pt x 177.29749pt.
- [19 <./figures/Engel.JPG>] [20]
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+ [19 <./figures/Engel.JPG>]
+<figures/liao.jpg, id=770, 361.85187pt x 352.31625pt>
+File: figures/liao.jpg Graphic file (type jpg)
+<use figures/liao.jpg>
+Package pdftex.def Info: figures/liao.jpg  used on input line 264.
+(pdftex.def)             Requested size: 144.0pt x 140.20363pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 264.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (1.66696pt too wide) in paragraph at lines 257--265
+[]\T1/txr/m/n/11 (-20) Work from [[][]Liao and Vesely [][]2003[][]] (Vesely be-ing a Croí-Valve Alumni)
+ []
+
+
+LaTeX Warning: Marginpar on page 20 moved by 11.20363pt.
+
+[20 <./figures/liao.JPG>]
+<figures/suhcorrect.jpg, id=799, 96.57318pt x 419.54973pt>
+File: figures/suhcorrect.jpg Graphic file (type jpg)
+<use figures/suhcorrect.jpg>
+Package pdftex.def Info: figures/suhcorrect.jpg  used on input line 298.
+(pdftex.def)             Requested size: 72.0pt x 312.7986pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 298.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
 
  []
 
-[21] [22] [23] [24] [25]
+[21 <./figures/suhcorrect.jpg>]
+<figures/leecomp.jpg, id=816, 1505.625pt x 1323.94624pt>
+File: figures/leecomp.jpg Graphic file (type jpg)
+<use figures/leecomp.jpg>
+Package pdftex.def Info: figures/leecomp.jpg  used on input line 331.
+(pdftex.def)             Requested size: 144.0pt x 126.62466pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 331.
+See the caption package documentation for explanation.
+
+[22 <./figures/leecomp.jpg>] [23] [24] [25]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -2712,7 +2916,7 @@ LaTeX Font Info:    Font shape `T1/txr/b/sc' in size <11> not available
 \openout2 = `contents/main_matter/chapter_design.aux'.
 
  (./contents/main_matter/chapter_design.tex
-<figures/flat.png, id=853, 186.6975pt x 161.10187pt>
+<figures/flat.png, id=910, 186.6975pt x 161.10187pt>
 File: figures/flat.png Graphic file (type png)
 <use figures/flat.png>
 Package pdftex.def Info: figures/flat.png  used on input line 10.
@@ -2723,7 +2927,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 10.
 See the caption package documentation for explanation.
 
-<figures/balloon.png, id=855, 173.89969pt x 161.10187pt>
+<figures/balloon.png, id=912, 173.89969pt x 161.10187pt>
 File: figures/balloon.png Graphic file (type png)
 <use figures/balloon.png>
 Package pdftex.def Info: figures/balloon.png  used on input line 17.
@@ -2736,7 +2940,7 @@ See the caption package documentation for explanation.
 
 LaTeX Warning: Marginpar on page 29 moved by 159.35725pt.
 
-<figures/balloont.png, id=856, 181.42781pt x 161.85469pt>
+<figures/balloont.png, id=913, 181.42781pt x 161.85469pt>
 File: figures/balloont.png Graphic file (type png)
 <use figures/balloont.png>
 Package pdftex.def Info: figures/balloont.png  used on input line 24.
@@ -2749,7 +2953,7 @@ See the caption package documentation for explanation.
 
 LaTeX Warning: Marginpar on page 29 moved by 313.77368pt.
 
-<figures/anat.png, id=857, 186.6975pt x 164.11313pt>
+<figures/anat.png, id=914, 186.6975pt x 164.11313pt>
 File: figures/anat.png Graphic file (type png)
 <use figures/anat.png>
 Package pdftex.def Info: figures/anat.png  used on input line 31.
@@ -2806,7 +3010,7 @@ Overfull \hbox (6.80966pt too wide) in paragraph at lines 90--91
 []\T1/txr/m/n/11 (-20) Casting the valve part with-out tendineae and then at-tach-ing tendineae
  []
 
-<figures/billow.png, id=898, 258.9675pt x 92.345pt>
+<figures/billow.png, id=953, 258.9675pt x 92.345pt>
 File: figures/billow.png Graphic file (type png)
 <use figures/billow.png>
 Package pdftex.def Info: figures/billow.png  used on input line 100.
@@ -2814,44 +3018,49 @@ Package pdftex.def Info: figures/billow.png  used on input line 100.
 [32
 
  <./figures/billow.png>] [33]
-<figures/NetFabbRepair.png, id=915, 654.94687pt x 383.93437pt>
+<figures/NetFabbRepair.png, id=970, 654.94687pt x 383.93437pt>
 File: figures/NetFabbRepair.png Graphic file (type png)
 <use figures/NetFabbRepair.png>
 Package pdftex.def Info: figures/NetFabbRepair.png  used on input line 138.
 (pdftex.def)             Requested size: 249.60095pt x 146.31837pt.
-<figures/NetFabbShell.png, id=916, 655.95062pt x 391.4625pt>
+<figures/NetFabbShell.png, id=971, 655.95062pt x 391.4625pt>
 File: figures/NetFabbShell.png Graphic file (type png)
 <use figures/NetFabbShell.png>
 Package pdftex.def Info: figures/NetFabbShell.png  used on input line 145.
 (pdftex.def)             Requested size: 249.60095pt x 148.96037pt.
+<figures/nfcut.jpg, id=973, 670.00313pt x 375.4025pt>
+File: figures/nfcut.jpg Graphic file (type jpg)
+<use figures/nfcut.jpg>
+Package pdftex.def Info: figures/nfcut.jpg  used on input line 155.
+(pdftex.def)             Requested size: 249.60095pt x 139.84763pt.
  [34 <./figures/NetFabbRepair.PNG> <./figures/NetFabbShell.PNG>]
-<figures/silicone mould.jpg, id=926, 1984.41376pt x 1683.28876pt>
+<figures/silicone mould.jpg, id=984, 1984.41376pt x 1683.28876pt>
 File: figures/silicone mould.jpg Graphic file (type jpg)
 <use figures/silicone mould.jpg>
-Package pdftex.def Info: figures/silicone mould.jpg  used on input line 188.
+Package pdftex.def Info: figures/silicone mould.jpg  used on input line 196.
 (pdftex.def)             Requested size: 140.39905pt x 119.07512pt.
-<figures/silicone mould open.jpg, id=927, 1953.2975pt x 1541.76pt>
+<figures/silicone mould open.jpg, id=985, 1953.2975pt x 1541.76pt>
 File: figures/silicone mould open.jpg Graphic file (type jpg)
 <use figures/silicone mould open.jpg>
-Package pdftex.def Info: figures/silicone mould open.jpg  used on input line 189.
+Package pdftex.def Info: figures/silicone mould open.jpg  used on input line 197.
 (pdftex.def)             Requested size: 140.39905pt x 110.8043pt.
 
-Overfull \hbox (1.53917pt too wide) in paragraph at lines 184--194
+Overfull \hbox (1.53917pt too wide) in paragraph at lines 192--202
 [][]\T1/txr/m/sc/11 (-20) Preliminary Pro-to-typ-ing Meth-ods \T1/txr/m/n/11 (-20) The pro-to-typ-ing method went through
  []
 
-[35 <./figures/silicone mould.jpg> <./figures/silicone mould open.jpg>]
-<figures/flat mould.jpg, id=935, 1627.07875pt x 1482.53876pt>
+[35 <./figures/nfcut.JPG>]
+<figures/flat mould.jpg, id=992, 1627.07875pt x 1482.53876pt>
 File: figures/flat mould.jpg Graphic file (type jpg)
 <use figures/flat mould.jpg>
-Package pdftex.def Info: figures/flat mould.jpg  used on input line 211.
+Package pdftex.def Info: figures/flat mould.jpg  used on input line 219.
 (pdftex.def)             Requested size: 140.39905pt x 127.92566pt.
-<figures/flat valve.jpg, id=936, 1996.45876pt x 1805.74625pt>
+<figures/flat valve.jpg, id=993, 1996.45876pt x 1805.74625pt>
 File: figures/flat valve.jpg Graphic file (type jpg)
 <use figures/flat valve.jpg>
-Package pdftex.def Info: figures/flat valve.jpg  used on input line 212.
+Package pdftex.def Info: figures/flat valve.jpg  used on input line 220.
 (pdftex.def)             Requested size: 140.39905pt x 126.96622pt.
- [36 <./figures/flat mould.jpg> <./figures/flat valve.jpg>]
+ [36 <./figures/silicone mould.jpg> <./figures/silicone mould open.jpg>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -2884,78 +3093,95 @@ Package pdftex.def Info: figures/flat valve.jpg  used on input line 212.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<figures/firstdraftmouldofmould.jpg, id=943, 2482.27374pt x 1566.85374pt>
+<figures/firstdraftmouldofmould.jpg, id=999, 2482.27374pt x 1566.85374pt>
 File: figures/firstdraftmouldofmould.jpg Graphic file (type jpg)
 <use figures/firstdraftmouldofmould.jpg>
-Package pdftex.def Info: figures/firstdraftmouldofmould.jpg  used on input line 240.
+Package pdftex.def Info: figures/firstdraftmouldofmould.jpg  used on input line 248.
 (pdftex.def)             Requested size: 202.29771pt x 127.69386pt.
-<figures/mouldofmould.jpg, id=944, 3309.36375pt x 2140.99875pt>
+<figures/mouldofmould.jpg, id=1000, 3309.36375pt x 2140.99875pt>
 File: figures/mouldofmould.jpg Graphic file (type jpg)
 <use figures/mouldofmould.jpg>
-Package pdftex.def Info: figures/mouldofmould.jpg  used on input line 243.
+Package pdftex.def Info: figures/mouldofmould.jpg  used on input line 251.
 (pdftex.def)             Requested size: 202.29771pt x 130.87189pt.
-<figures/splitmoulddesign.jpg, id=945, 2923.92375pt x 1928.20375pt>
+<figures/splitmoulddesign.jpg, id=1001, 2923.92375pt x 1928.20375pt>
 File: figures/splitmoulddesign.jpg Graphic file (type jpg)
 <use figures/splitmoulddesign.jpg>
-Package pdftex.def Info: figures/splitmoulddesign.jpg  used on input line 247.
+Package pdftex.def Info: figures/splitmoulddesign.jpg  used on input line 255.
 (pdftex.def)             Requested size: 202.29771pt x 133.39926pt.
-<figures/firstdraftcastedpart.jpg, id=946, 3293.30376pt x 2169.10374pt>
+<figures/firstdraftcastedpart.jpg, id=1002, 3293.30376pt x 2169.10374pt>
 File: figures/firstdraftcastedpart.jpg Graphic file (type jpg)
 <use figures/firstdraftcastedpart.jpg>
-Package pdftex.def Info: figures/firstdraftcastedpart.jpg  used on input line 251.
+Package pdftex.def Info: figures/firstdraftcastedpart.jpg  used on input line 259.
 (pdftex.def)             Requested size: 202.29771pt x 133.2187pt.
- [37
+ [37 <./figures/flat mould.jpg> <./figures/flat valve.jpg>]
+<figures/silicast.jpg, id=1016, 1387.1825pt x 1184.425pt>
+File: figures/silicast.jpg Graphic file (type jpg)
+<use figures/silicast.jpg>
+Package pdftex.def Info: figures/silicast.jpg  used on input line 280.
+(pdftex.def)             Requested size: 187.2019pt x 159.83626pt.
+ [38
 
 
  <./figures/firstdraftmouldofmould.jpg> <./figures/mouldofmould.jpg> <./figures/splitmoulddesign.jpg> <./figures/firstdraftcastedpart.jpg>]
-<figures/embeds.jpg, id=955, 3066.45625pt x 2337.73375pt>
+<figures/embeds.jpg, id=1025, 3066.45625pt x 2337.73375pt>
 File: figures/embeds.jpg Graphic file (type jpg)
 <use figures/embeds.jpg>
-Package pdftex.def Info: figures/embeds.jpg  used on input line 281.
+Package pdftex.def Info: figures/embeds.jpg  used on input line 309.
 (pdftex.def)             Requested size: 140.39905pt x 107.0127pt.
-<figures/embedswithgluesamp.jpg, id=956, 956.57375pt x 731.73375pt>
+<figures/embedswithgluesamp.jpg, id=1026, 956.57375pt x 731.73375pt>
 File: figures/embedswithgluesamp.jpg Graphic file (type jpg)
 <use figures/embedswithgluesamp.jpg>
-Package pdftex.def Info: figures/embedswithgluesamp.jpg  used on input line 284.
+Package pdftex.def Info: figures/embedswithgluesamp.jpg  used on input line 312.
 (pdftex.def)             Requested size: 140.39905pt x 107.39943pt.
- [38 <./figures/embeds.jpg> <./figures/embedswithgluesamp.jpg>] [39]
-<figures/micwt.jpg, id=974, 4015.0pt x 1806.75pt>
-File: figures/micwt.jpg Graphic file (type jpg)
-<use figures/micwt.jpg>
-Package pdftex.def Info: figures/micwt.jpg  used on input line 344.
-(pdftex.def)             Requested size: 249.60095pt x 112.31508pt.
-<figures/micwit.jpg, id=975, 4015.0pt x 1806.75pt>
-File: figures/micwit.jpg Graphic file (type jpg)
-<use figures/micwit.jpg>
-Package pdftex.def Info: figures/micwit.jpg  used on input line 348.
-(pdftex.def)             Requested size: 249.60095pt x 112.31508pt.
-) [40 <./figures/micwt.jpg> <./figures/micwit.jpg>]
+ [39 <./figures/silicast.jpg> <./figures/embeds.jpg> <./figures/embedswithgluesamp.jpg>]
+<figures/fixturesketch.jpg, id=1039, 1554.80875pt x 2136.98375pt>
+File: figures/fixturesketch.jpg Graphic file (type jpg)
+<use figures/fixturesketch.jpg>
+Package pdftex.def Info: figures/fixturesketch.jpg  used on input line 354.
+(pdftex.def)             Requested size: 144.0pt x 197.89615pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 354.
+See the caption package documentation for explanation.
+
+) [40 <./figures/fixturesketch.jpg>] [41]
 \openout2 = `contents/main_matter/chapter_testing.aux'.
 
  (./contents/main_matter/chapter_testing.tex
-<figures/assemblingfixtures.jpg, id=983, 3083.52pt x 4095.3pt>
+<figures/micwt.jpg, id=1050, 4015.0pt x 1806.75pt>
+File: figures/micwt.jpg Graphic file (type jpg)
+<use figures/micwt.jpg>
+Package pdftex.def Info: figures/micwt.jpg  used on input line 17.
+(pdftex.def)             Requested size: 249.60095pt x 112.31508pt.
+<figures/micwit.jpg, id=1051, 4015.0pt x 1806.75pt>
+File: figures/micwit.jpg Graphic file (type jpg)
+<use figures/micwit.jpg>
+Package pdftex.def Info: figures/micwit.jpg  used on input line 21.
+(pdftex.def)             Requested size: 249.60095pt x 112.31508pt.
+ [42
+
+
+
+
+ <./figures/micwt.jpg> <./figures/micwit.jpg>]
+<figures/assemblingfixtures.jpg, id=1058, 3083.52pt x 4095.3pt>
 File: figures/assemblingfixtures.jpg Graphic file (type jpg)
 <use figures/assemblingfixtures.jpg>
-Package pdftex.def Info: figures/assemblingfixtures.jpg  used on input line 20.
+Package pdftex.def Info: figures/assemblingfixtures.jpg  used on input line 35.
 (pdftex.def)             Requested size: 249.60095pt x 331.44254pt.
- [41
-
-
-
-
-]
-<figures/suckingoutbubbles.jpg, id=989, 4095.3pt x 3083.52pt>
-File: figures/suckingoutbubbles.jpg Graphic file (type jpg)
-<use figures/suckingoutbubbles.jpg>
-Package pdftex.def Info: figures/suckingoutbubbles.jpg  used on input line 38.
-(pdftex.def)             Requested size: 249.60095pt x 187.92035pt.
- [42 <./figures/assemblingfixtures.jpg>]
-<figures/testrigbirdseye.jpg, id=994, 4095.3pt x 3083.52pt>
+<figures/testrigbirdseye.jpg, id=1059, 4095.3pt x 3083.52pt>
 File: figures/testrigbirdseye.jpg Graphic file (type jpg)
 <use figures/testrigbirdseye.jpg>
-Package pdftex.def Info: figures/testrigbirdseye.jpg  used on input line 50.
+Package pdftex.def Info: figures/testrigbirdseye.jpg  used on input line 47.
 (pdftex.def)             Requested size: 249.60095pt x 187.92035pt.
-) [43 <./figures/suckingoutbubbles.jpg> <./figures/testrigbirdseye.jpg>]
+ [43 <./figures/assemblingfixtures.jpg>]
+<figures/suckingoutbubbles.jpg, id=1064, 4095.3pt x 3083.52pt>
+File: figures/suckingoutbubbles.jpg Graphic file (type jpg)
+<use figures/suckingoutbubbles.jpg>
+Package pdftex.def Info: figures/suckingoutbubbles.jpg  used on input line 59.
+(pdftex.def)             Requested size: 249.60095pt x 187.92035pt.
+) [44 <./figures/testrigbirdseye.jpg>] [45 <./figures/suckingoutbubbles.jpg>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -2988,7 +3214,7 @@ Package pdftex.def Info: figures/testrigbirdseye.jpg  used on input line 50.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [44
+ [46
 
 
 
@@ -2998,13 +3224,55 @@ Package pdftex.def Info: figures/testrigbirdseye.jpg  used on input line 50.
 
 \openout7 = `main.mtc'.
 
- (out/main.ptc3) [45
+ (out/main.ptc3) [47
 
 
 ]
 \openout2 = `contents/main_matter/chapter_results.aux'.
 
- (./contents/main_matter/chapter_results.tex [46
+ (./contents/main_matter/chapter_results.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(73.97716pt, 449.55356pt, 73.97716pt)
+* v-part:(T,H,B)=(72.0pt, 671.04684pt, 102.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=449.55356pt
+* \textheight=671.04684pt
+* \oddsidemargin=1.70717pt
+* \evensidemargin=1.70717pt
+* \topmargin=-44.28218pt
+* \headheight=21.25pt
+* \headsep=22.76219pt
+* \topskip=10.0pt
+* \footskip=28.45274pt
+* \marginparwidth=144.0pt
+* \marginparsep=25.60747pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./tables/res.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+) [48
 
 
 
@@ -3041,40 +3309,93 @@ Package pdftex.def Info: figures/testrigbirdseye.jpg  used on input line 50.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<figures/valverigcloseup.png, id=1026, 427.5975pt x 262.48062pt>
+<figures/post.jpg, id=1100, 342.27875pt x 195.73125pt>
+File: figures/post.jpg Graphic file (type jpg)
+<use figures/post.jpg>
+Package pdftex.def Info: figures/post.jpg  used on input line 23.
+(pdftex.def)             Requested size: 134.86743pt x 77.12633pt.
+<figures/ant.jpg, id=1101, 329.23pt x 189.20688pt>
+File: figures/ant.jpg Graphic file (type jpg)
+<use figures/ant.jpg>
+Package pdftex.def Info: figures/ant.jpg  used on input line 26.
+(pdftex.def)             Requested size: 134.86743pt x 77.50891pt.
+<figures/sep.jpg, id=1102, 342.78062pt x 185.19188pt>
+File: figures/sep.jpg Graphic file (type jpg)
+<use figures/sep.jpg>
+Package pdftex.def Info: figures/sep.jpg  used on input line 30.
+(pdftex.def)             Requested size: 134.86743pt x 72.86598pt.
+ [49
+
+
+
+
+ <./figures/post.JPG> <./figures/ant.JPG> <./figures/sep.JPG>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(73.97716pt, 449.55356pt, 73.97716pt)
+* v-part:(T,H,B)=(72.0pt, 671.04684pt, 102.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=449.55356pt
+* \textheight=671.04684pt
+* \oddsidemargin=1.70717pt
+* \evensidemargin=1.70717pt
+* \topmargin=-44.28218pt
+* \headheight=21.25pt
+* \headsep=22.76219pt
+* \topskip=10.0pt
+* \footskip=28.45274pt
+* \marginparwidth=144.0pt
+* \marginparsep=25.60747pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<figures/valverigcloseup.png, id=1114, 427.5975pt x 262.48062pt>
 File: figures/valverigcloseup.png Graphic file (type png)
 <use figures/valverigcloseup.png>
-Package pdftex.def Info: figures/valverigcloseup.png  used on input line 31.
+Package pdftex.def Info: figures/valverigcloseup.png  used on input line 57.
 (pdftex.def)             Requested size: 202.29771pt x 124.17894pt.
-<figures/valverigcloseup2.png, id=1028, 506.89375pt x 303.63437pt>
+<figures/valverigcloseup2.png, id=1116, 506.89375pt x 303.63437pt>
 File: figures/valverigcloseup2.png Graphic file (type png)
 <use figures/valverigcloseup2.png>
-Package pdftex.def Info: figures/valverigcloseup2.png  used on input line 34.
+Package pdftex.def Info: figures/valverigcloseup2.png  used on input line 60.
 (pdftex.def)             Requested size: 202.29771pt x 121.17824pt.
-) [47
+) [50
 
 
  <./figures/valverigcloseup.PNG> <./figures/valverigcloseup2.PNG>]
 \openout2 = `contents/main_matter/chapter_discussion.aux'.
 
- (./contents/main_matter/chapter_discussion.tex [48
+ (./contents/main_matter/chapter_discussion.tex [51
 
 
 
 
 ]
-<figures/latercastnice.jpg, id=1043, 1496.59125pt x 1016.29688pt>
+<figures/latercastnice.jpg, id=1130, 1496.59125pt x 1016.29688pt>
 File: figures/latercastnice.jpg Graphic file (type jpg)
 <use figures/latercastnice.jpg>
 Package pdftex.def Info: figures/latercastnice.jpg  used on input line 14.
 (pdftex.def)             Requested size: 234.0pt x 158.88904pt.
- [49 <./figures/latercastnice.jpg>]
-<figures/resinprintanat.jpg, id=1054, 1690.81688pt x 1410.77063pt>
+ [52 <./figures/latercastnice.jpg>] [53]
+<figures/resinprintanat.jpg, id=1147, 1690.81688pt x 1410.77063pt>
 File: figures/resinprintanat.jpg Graphic file (type jpg)
 <use figures/resinprintanat.jpg>
 Package pdftex.def Info: figures/resinprintanat.jpg  used on input line 40.
 (pdftex.def)             Requested size: 234.0pt x 195.22472pt.
- [50] [51 <./figures/resinprintanat.jpg>] [52]) [53]
+ [54 <./figures/resinprintanat.jpg>] [55] [56]) [57]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -3107,7 +3428,7 @@ Package pdftex.def Info: figures/resinprintanat.jpg  used on input line 40.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [54
+ [58
 
 
 
@@ -3115,14 +3436,55 @@ Package pdftex.def Info: figures/resinprintanat.jpg  used on input line 40.
 ]
 \openout2 = `contents/main_matter/chapter_conclusion.aux'.
 
- (./contents/main_matter/chapter_conclusion.tex [55
+ (./contents/main_matter/chapter_conclusion.tex [59
 
 
 
-]) [56]
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(73.97716pt, 449.55356pt, 73.97716pt)
+* v-part:(T,H,B)=(72.0pt, 671.04684pt, 102.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=449.55356pt
+* \textheight=671.04684pt
+* \oddsidemargin=1.70717pt
+* \evensidemargin=1.70717pt
+* \topmargin=-44.28218pt
+* \headheight=21.25pt
+* \headsep=22.76219pt
+* \topskip=10.0pt
+* \footskip=28.45274pt
+* \marginparwidth=144.0pt
+* \marginparsep=25.60747pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<figures/future.jpg, id=1203, 426.59375pt x 395.4775pt>
+File: figures/future.jpg Graphic file (type jpg)
+<use figures/future.jpg>
+Package pdftex.def Info: figures/future.jpg  used on input line 21.
+(pdftex.def)             Requested size: 359.64421pt x 333.42987pt.
+) [60
+
+
+ <./figures/future.JPG>]
 \openout2 = `contents/back_matter/appendix.aux'.
 
- (./contents/back_matter/appendix.tex) [57
+ (./contents/back_matter/appendix.tex) [61
 
 
 
@@ -3171,12 +3533,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `txtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Overfull \hbox (1.27599pt too wide) in paragraph at lines 7--7
-\T1/txr/m/n/11 (-20) pies^^Q. In: \T1/txr/m/it/11 (-20) In-ter-ven-tional Car-di-ol-ogy Clin-ics\T1/txr/m/n/11 (-20) . Tran-scatheter Tri-cus-pid Valve In-ter-ven-tion/Interventional
- []
-
-[58
+ [62
 
 
 
@@ -3188,7 +3545,12 @@ Overfull \hbox (1.27599pt too wide) in paragraph at lines 7--7
 Package biblatex Warning: No driver for 'video'.
 (biblatex)                Using fallback driver on input line 7.
 
-[59] [60] [61] [62] [63] [64])
+[63]
+Overfull \hbox (3.94344pt too wide) in paragraph at lines 7--7
+\T1/txr/m/n/11 (-20) ing^^Q. In: \T1/txr/m/it/11 (-20) Bio-engi-neer-ing \T1/txr/m/n/11 (-20) 9.6 (6), p. 264. \T1/txr/m/sc/11 (-20) issn\T1/txr/m/n/11 (-20) : 2306-5354. \T1/txr/m/sc/11 (-20) doi\T1/txr/m/n/11 (-20) : [][]$\T1/txtt/m/n/11 10 . 3390 / bioengineering9060264$[][]
+ []
+
+[64] [65] [66] [67] [68] [69])
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the main.maf file.
@@ -3205,7 +3567,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the main.log file.
 
-[65
+[70
 
 
 
@@ -3219,30 +3581,30 @@ Package minitoc(hints) Warning: W0024
 \tf@lot=\write11
 \openout11 = `main.lot'.
 
- (out/main.aux (out/contents/front_matter/abstract.aux) (out/contents/main_matter/chapter_intro.aux) (out/contents/main_matter/chapter_lit.aux) (out/contents/main_matter/chapter_design.aux) (out/contents/main_matter/chapter_testing.aux) (out/contents/main_matter/chapter_results.aux) (out/contents/main_matter/chapter_discussion.aux) (out/contents/main_matter/chapter_conclusion.aux) (out/contents/back_matter/appendix.aux) (out/contents/back_matter/bibliography.aux))
+ (out/main.aux (out/contents/front_matter/abstract.aux) (out/contents/front_matter/acknowledgments.aux) (out/contents/main_matter/chapter_intro.aux) (out/contents/main_matter/chapter_lit.aux) (out/contents/main_matter/chapter_design.aux) (out/contents/main_matter/chapter_testing.aux) (out/contents/main_matter/chapter_results.aux) (out/contents/main_matter/chapter_discussion.aux) (out/contents/main_matter/chapter_conclusion.aux) (out/contents/back_matter/appendix.aux) (out/contents/back_matter/bibliography.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B7CD528E38D4E6C6494D7169AAE14965;6695.
+(rerunfilecheck)             Checksum: 52DDD925D91087F2E93BCAC37D8CF314;6953.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 65921 strings out of 474103
- 1302731 string characters out of 5747482
- 2703993 words of memory out of 5000000
- 86089 multiletter control sequences out of 15000+600000
- 716151 words of font info for 749 fonts, out of 8000000 for 9000
+ 68665 strings out of 474103
+ 1372994 string characters out of 5747482
+ 2805676 words of memory out of 5000000
+ 88704 multiletter control sequences out of 15000+600000
+ 721838 words of font info for 771 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 124i,17n,126p,3100b,3803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,17n,126p,3100b,3743s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxbsc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on out/main.pdf (73 pages, 33770195 bytes).
+Output written on out/main.pdf (79 pages, 35947714 bytes).
 PDF statistics:
- 1433 PDF objects out of 1440 (max. 8388607)
- 1235 compressed objects within 13 object streams
- 284 named destinations out of 1000 (max. 500000)
- 185981 words of extra memory for PDF output out of 221844 (max. 10000000)
+ 1608 PDF objects out of 1728 (max. 8388607)
+ 1387 compressed objects within 14 object streams
+ 367 named destinations out of 1000 (max. 500000)
+ 194259 words of extra memory for PDF output out of 221844 (max. 10000000)
 

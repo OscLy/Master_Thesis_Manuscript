@@ -1,0 +1,68 @@
+% \renewcommand{\arraystretch}{1.2}
+% \begin{tabular}{p{50pt}|p{75pt}|p{75pt}|p{110pt}|p{55pt}|p{75pt}}
+%   \textbf{Authors \& Year} & \textbf{Key Findings}                                                & \textbf{Study Objective}                                            & \textbf{Methodology}                                                                                & \textbf{Relevance to Your Study} & \textbf{Key Learnings}                        \\ \hline
+%   Filová et al. 2009       & Calcification of PU in vivo                                          & Overview of tissue-engineered heart valves                          & Meta-Analysis                                                                                       & Material Choice                  & Limited sample size                           \\
+%   Baxter et al. 2006       & Flexibility and durability of PU                                     & Overview of synthetic materials in heart valves                     & Tearing energy and crack growth rate tests                                                          & Material Choice                  & Performs even better at elevated temperatures \\
+%   Aggarwal et al. 2013     & Converting CT to 3D                                                  & To map patient-specific aortic valves                               & Spline-fitting with mathematic models using echocardiographic images                                & Modelling / Morphology           & Maps microstructure of leaflets               \\
+%   Leopaldi et al. 2012     & Comparative data for experimental and simulatory flow-loop           & To develop a flow loop with a porcine heart                         & Endoscopic imaging and hemodynamic measured with ultrasound flowmeter and piezoelectric transducers & Simulator Development            & Compares pressures and flow rates             \\
+%   Zilinskas et al. 2022    & Simulator succesfully used for performing valve replacement training & To develop a surgical training simulator using porcine aortic roots & Porcine aortic valve dissected and tether to chamber                                                & Simulator Development            & Demonstrates efficacy of bench-top simulators \\
+% \end{tabular}
+
+
+% \begin{table}
+%   \centering
+%   \resizebox{\linewidth}{!}{%
+\begin{tblr}{
+  row{3} = {r},
+  row{4} = {r},
+  row{5} = {r},
+  row{7} = {r},
+  row{8} = {r},
+  row{9} = {r},
+  row{10} = {r},
+  row{12} = {r},
+  row{13} = {r},
+  row{14} = {r},
+  row{15} = {r},
+  row{16} = {r},
+  column{2} = {c},
+  cell{1}{1} = {c=2}{},
+  cell{2}{1} = {r=4}{},
+  cell{2}{3} = {r},
+  cell{2}{4} = {r},
+  cell{2}{5} = {r},
+  cell{6}{1} = {r=5}{},
+  cell{6}{3} = {r},
+  cell{6}{4} = {r},
+  cell{6}{5} = {r},
+  cell{11}{1} = {r=6}{},
+  cell{11}{3} = {r},
+  cell{11}{4} = {r},
+  cell{11}{5} = {r},
+  cell{17}{1} = {c=2}{},
+  cell{18}{1} = {c=2}{},
+  vline{3-5} = {1,17-18}{},
+  vline{3-5} = {2-16}{},
+  hline{2,6,11,17-18} = {-}{},
+    }
+  Measurement ID     &    & Without Tendineae & With Tendineae & CAD Model   \\
+  Posterior          & 1  & 0.38              & 0.45           & 0.40        \\
+                     & 2  & 0.38              & 0.41           & 0.41        \\
+                     & 3  & 0.39              & 0.41           & 0.41        \\
+                     & 4  & 0.39              & 0.50           & 0.40        \\
+  Anterior           & 5  & 0.40              & 0.50           & 0.45        \\
+                     & 6  & 0.40              & 0.72           & 0.44        \\
+                     & 7  & 0.42              & 0.45           & 0.45        \\
+                     & 8  & 0.43              & 0.56           & 0.47        \\
+                     & 9  & 0.43              & 0.44           & 0.47        \\
+  Septal             & 10 & 0.45              & 0.52           & 0.46        \\
+                     & 11 & 0.40              & 0.43           & 0.42        \\
+                     & 12 & 0.42              & 0.56           & 0.43        \\
+                     & 13 & 0.39              & 0.52           & 0.43        \\
+                     & 14 & 0.43              & 0.50           & 0.44        \\
+                     & 15 & 0.40              & 0.45           & 0.42        \\
+  Standard Deviation &    & 0.021104695       & 0.078392654    & 0.023211538 \\
+  Average            &    & 0.407333333       & 0.494666667    & 0.433333333
+\end{tblr}
+% }
+% \end{table}

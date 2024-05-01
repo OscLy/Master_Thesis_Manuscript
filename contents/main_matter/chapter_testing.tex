@@ -1,38 +1,59 @@
 \chapter{Experimental Setup and Testing}\label{ch:testing}\addtocontents{lof}{\protect\contentsline{chapter}{\protect\numberline{\thechapter}Experimental Setup and Testing}{}{}}
 % \openepigraph{Everything in its right place \\
 % There are two colours in my head}{Radiohead \textit{Everything In Its Right Place}}
-\vspace{-2.5em}
+% \vspace{-2.5em}
 % \newthought{Synopsis}\synopsisMethod
 
-\mynewline
-After completing the literature review I decided to go down two main paths: developing a representative valve and a anatomical valve. The representative valve would be a simple model that could be used to test the simulator and the anatomical valve would be a more complex model that could be used to test the simulator and also be used for educational purposes.
+% \mynewline
+% After completing the literature review two main paths were decided to be explored: developing a representative valve and a anatomical valve. The representative valve would be a simple model that could be used to test the simulator and the anatomical valve would be a more complex model that could be used to test the simulator and also be used for educational purposes.
+\section{Design Validation}
+To investigate the experimental thickness of the valve model and compare to the theoretical thickness from the \gls{CAD} model a series of micrometer measurements were taken on the leaflets. This was done for both models with chordae tendineae attached and without to also get a measured estimate of how much thickness the nylon wire and adhesive adds to the leaflets.
 
-\section{Fixturing Assembly}
-The assembly process began with seating the valve in it's ring holder and passing the chordae tendineae through the evenly spaced notches of the ring fixture.
+\begin{figure}[H]
+    % \begin{fullwidth}
+    \centering
+    \subfloat[Testing the thickness with the chordae tendineae attached]{%
+        {\includegraphics[width=0.8\linewidth]{figures/micwt}}%
+    }
 
-The chordae tendineae were tensioned evenly by hanging the two part fixture in a retort stand and manually pulling the wires through the notch fixture until visibly evenly tensioned, at which point Buna-N rubber wedges were inserted to hold the tension in place.
+    \subfloat[Testing the thickness without the chordae tendineae attached]{%
+        {\includegraphics[width=0.8\linewidth]{figures/micwit}}
+    }
+    \caption{Thickness investigation for the experimental model of the valve}
+    \label{fig:ctinvestigation}
+    % \end{fullwidth}
+\end{figure}
 
-The assembly fixturing being all one piece was inserted through the distal end of the polycarbonate tubing, once the end cap was press fit into the tubing a hook tool was used to manuver the seated valve into place further down the tube.
+\section{Assembly of Fixturing}
+The assembly process began with seating the valve in its ring holder and passing the chordae tendineae through the evenly spaced notches of the ring fixture.
 
+The chordae tendineae were tensioned evenly by hanging the two-part fixture in a retort stand and manually pulling the wires through the notch fixture until visibly evenly tensioned, at which point Buna-N rubber wedges were inserted to hold the tension in place.
 
-\begin{figure}
+The assembly fixturing, being all one piece, was inserted through the distal end of the polycarbonate tubing. Once the end cap was press-fit into the tubing, a hook tool was used to manoeuvre the seated valve into place 10cm from the edge of the chordae ring.
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{figures/assemblingfixtures.jpg}
     \caption{Tensioning of chordae tendineae}
     \label{fig:chordtens}
 \end{figure}
+
 \section{Rig Assembly}
 
-Once the core testing aparatus was assembled, the various adapters for routing the pulsatile flow loop to the valve and valve to reservoir were wrapped in teflon tape to secure the connections from leaks.
+Once the core testing apparatus was assembled, the various adapters for routing the pulsatile flow loop to the valve and valve to the reservoir were wrapped in Teflon tape to secure the connections from leaks.
 
-When all connections were securely tightened, the components were levelled to eye with pads of styrofoam.
-
+When all connections were securely tightened, the components were levelled by eye with styrofoam pads.
+\begin{figure}
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/testrigbirdseye.jpg}
+    \caption{Bird's eye view of the test rig}
+    \label{fig:rig}
+\end{figure}
 \section{Testing Procedure}
 
 \subsection{Pilot Checks}
-Prior to the main testing a series of system leakage checks were performed to ensure minimal leaking throughout the main tests. Leakage in coaptation testing results in a great loss in the differential pressure across the valve resulting in a reduced coaptation for the same pump displacement.
+Prior to the main testing, a series of system leakage checks were performed to ensure minimal leaking throughout the main tests. Leakage in coaptation testing results in a great loss in the differential pressure across the valve, resulting in a reduced coaptation for the same pump displacement.
 
-The reservoir was filled and leur lock valve on the pulsatile pumped was opened so the system could fill with fluid. The system was then purged of air bubbles by using a guide wire and syringe to pull the air out. As leakage spots were observed they were sealed with blue tack.
+The reservoir was filled, and the leur lock valve on the pulsatile pump was opened so the system could fill with fluid. The system was then purged of air bubbles by using a guide wire and syringe to pull the air out. As leakage spots were observed, they were sealed with blue tack.
 \begin{figure}
     \centering
     \includegraphics[width=0.8\textwidth]{figures/suckingoutbubbles.jpg}
@@ -42,16 +63,11 @@ The reservoir was filled and leur lock valve on the pulsatile pumped was opened 
 
 \subsection{Coaptation Testing}
 Once leaks were adequately sealed and air bubbles removed, the pulsatile flow loop was started. The pulsatile pump had a set displacement and frequency.
-This was sequenced to remove new bubbles which the system leaks introduced as the testing progressed which obscured the visual and performance of the valve.
+This was sequenced to remove new bubbles, which the system leaks introduced as the testing progressed, obscuring the valve's visual appearance and performance.
 The valve was observed and recorded for coaptation at multiple angles.
-To see if the valve presented failure from cyclic stress at the chordae tendineae attachments the test was let to run for 10 minutes.
-\begin{figure}
-    \centering
-    \includegraphics[width=0.8\textwidth]{figures/testrigbirdseye.jpg}
-    \caption{Birds eye view of the test rig}
-    \label{fig:rig}
-\end{figure}
-\todo{change to subfloats}
+To see if the valve presented failure from cyclic stress at the chordae tendineae attachments, the system was left to run for a few minutes longer.
+
+% \todo{change to subfloats}
 % \section{Challenges and Mitigations}
 
 % \begin{itemize}

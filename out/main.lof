@@ -9,13 +9,19 @@
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Heart Valve System ~\blx@tocontentsinit {0}\citeonly {rockComplexCollagenFiber2014}}}{8}{figure.2.1}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Sub-System of Tricuspid Valve ~\blx@tocontentsinit {0}\citeonly {YostDrawingDetailed}}}{9}{figure.2.2}%
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Illustration of Regurgitation vs Stenosis ~\blx@tocontentsinit {0}\citeonly {TricuspidValveDisease}}}{10}{figure.2.3}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Current landscape of \gls {TTVR} products being used surgically ~\blx@tocontentsinit {0}\citeonly {curioUpdateCurrentLandscape2019}}}{13}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Concept of the WindKessel Model ~\blx@tocontentsinit {0}\citeonly {westerhofArterialWindkessel2009}}}{14}{figure.2.5}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Side cross section of simulator with dynamic statecamera attachment ~\blx@tocontentsinit {0}\citeonly {karlExvivoInvitroDynamic2024}}}{17}{figure.2.6}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Side cross-section with static state surgery attachment ~\blx@tocontentsinit {0}\citeonly {karlExvivoInvitroDynamic2024}}}{17}{figure.2.7}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Comparison of \gls {PU} and poly(carbonate-urea)urethane for heart valve performance ~\blx@tocontentsinit {0}\citeonly {ghanbariAnticalcificationPotentialSilsesquioxane2010}}}{18}{figure.2.8}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Comparison surfaces in fatigued (a) \gls {PU} (b) poly(carbonate-urea)urethane (c) valve leaflets showing tissue failure and fibre dehiscence marked by the yellow arrows in each ~\blx@tocontentsinit {0}\citeonly {ghanbariAnticalcificationPotentialSilsesquioxane2010}}}{18}{figure.2.9}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Video of annuloplasty being performed on silicone mitral valve \textbf {(click to view video)}}}{19}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Disssected tricuspid valve with common anomaly of having 4 leaflets ~\blx@tocontentsinit {0}\citeonly {tretterAssessmentAnatomicalVariation2016}}}{11}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Current landscape of tricuspid valve replacement/repair products being used surgically ~\blx@tocontentsinit {0}\citeonly {curioUpdateCurrentLandscape2019}}}{13}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Concept of the WindKessel Model ~\blx@tocontentsinit {0}\citeonly {westerhofArterialWindkessel2009}}}{14}{figure.2.6}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Set up for minimally invasive training \blx@tocontentsinit {0}\citeonly {verberkmoesNovelLowfidelitySimulator2013}}}{15}{figure.2.7}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces 3D valve suspension chamber with sutured valve \blx@tocontentsinit {0}\citeonly {zilinskasPhysiologicalVentricularSimulator2022}}}{15}{figure.2.8}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Side cross-section of simulator with dynamic state camera attachment ~\blx@tocontentsinit {0}\citeonly {karlExvivoInvitroDynamic2024}}}{17}{figure.2.9}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Side cross-section with static state surgery attachment ~\blx@tocontentsinit {0}\citeonly {karlExvivoInvitroDynamic2024}}}{17}{figure.2.10}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Comparison of polyurethane and poly(carbonate-urea)urethane for heart valve performance ~\blx@tocontentsinit {0}\citeonly {ghanbariAnticalcificationPotentialSilsesquioxane2010}}}{18}{figure.2.11}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Comparison surfaces in fatigued (a) polyurethane (b) poly(carbonate-urea)urethane (c) valve leaflets showing tissue failure and fibre dehiscence marked by the yellow arrows in each ~\blx@tocontentsinit {0}\citeonly {ghanbariAnticalcificationPotentialSilsesquioxane2010}}}{18}{figure.2.12}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Video of annuloplasty being performed on silicone mitral valve \textbf {(click to view video)}}}{19}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Fluid pressure field from FSI simulation of mitral valve model in \blx@tocontentsinit {0}\citeonly {luoEffectBendingRigidity2012}}}{20}{figure.2.14}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Example of CT image sets with and without motion correction of a 47-year-old-female with a prosthetic aortic valve, at a heart rate of 70bpm \blx@tocontentsinit {0}\citeonly {suhWholeheartMotioncorrectionAlgorithm2017} }}{21}{figure.2.15}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Von Mises stress (kPa) on the porcine aortic (a, c) and bovine pericardial (b, d) valves during diastole (a, b) and systole (c, d) \blx@tocontentsinit {0}\citeonly {leeFluidStructureInteractionModels2020}}}{22}{figure.2.16}%
 \contentsline {xpart}{Methodology}{28}{part.2}%
 \addvspace {10pt}
 \contentsline {xchapter}{}{29}{chapter.3}%
@@ -24,40 +30,49 @@
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Billowed Valve Model}}{29}{figure.3.2}%
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Billowed Valve with Chordae Tendineae Model}}{29}{figure.3.3}%
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Anatomical Model}}{29}{figure.3.4}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Visual represenation of regurtitant valve morphological progression \blx@tocontentsinit {0}\citeonly {namModelingTricuspidValve2023}}}{32}{figure.caption.17}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Netfabb Repair Scripts}}{34}{figure.caption.18}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Netfabb Shell}}{34}{figure.caption.19}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Silicone Mould Design}}{35}{figure.caption.20}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Press Mould Design and casted part for Flat Valve}}{36}{figure.caption.21}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Iterations of epoxy mould die method}}{37}{figure.caption.22}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {First draft mould die}}}{37}{subfigure.10.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Later iteration of mould die}}}{37}{subfigure.10.2}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Split mould trialing}}}{37}{subfigure.10.3}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Draft and casted part of epoxy moulds}}}{37}{subfigure.10.4}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Testing the methods for attaching the chordae tendineae to leaflets}}{38}{figure.caption.23}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Embedded method trialing}}}{38}{subfigure.11.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Cyanoacrylate method trialing}}}{38}{subfigure.11.2}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Thickness investigation for experimental model of the valve}}{40}{figure.caption.24}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Testing the thickness with the chordae tendineae attached}}}{40}{subfigure.12.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Testing the thickness without the chordae tendineae attached}}}{40}{subfigure.12.2}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Visual representation of regurgitant valve morphological progression \blx@tocontentsinit {0}\citeonly {namModelingTricuspidValve2023}}}{32}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Netfabb Repair Scripts}}{34}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Netfabb Shell Tool}}{34}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Netfabb Cutting Tool}}{35}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Silicone Mould Design}}{36}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Press Mould Design and cast part for Flat Valve}}{37}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Iterations of epoxy mould die method}}{38}{figure.caption.20}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {First draft mould die}}}{38}{subfigure.11.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Later iteration of mould die}}}{38}{subfigure.11.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Split mould trialing}}}{38}{subfigure.11.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Draft and casted part of epoxy moulds}}}{38}{subfigure.11.4}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Failed silicone casting trial part}}{39}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Testing the methods for attaching the chordae tendineae to leaflets}}{39}{figure.caption.22}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Embedded method trialing}}}{39}{subfigure.13.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Cyanoacrylate method trialing}}}{39}{subfigure.13.2}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Initial Sketch of Fixturing}}{40}{figure.3.14}%
 \addvspace {10pt}
-\contentsline {xchapter}{}{41}{chapter.4}%
+\contentsline {xchapter}{}{42}{chapter.4}%
 \contentsline {chapter}{\numberline {4}Experimental Setup and Testing}{}{}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Tensioning of chordae tendineae}}{42}{figure.caption.25}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Removing air bubbles from the system}}{43}{figure.caption.26}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Birds eye view of the test rig}}{43}{figure.caption.27}%
-\contentsline {xpart}{Results, Analysis, and Discussion}{45}{part.3}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Thickness investigation for the experimental model of the valve}}{42}{figure.caption.23}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Testing the thickness with the chordae tendineae attached}}}{42}{subfigure.1.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Testing the thickness without the chordae tendineae attached}}}{42}{subfigure.1.2}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Tensioning of chordae tendineae}}{43}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Bird's eye view of the test rig}}{44}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Removing air bubbles from the system}}{45}{figure.caption.26}%
+\contentsline {xpart}{Results, Analysis, and Discussion}{47}{part.3}%
 \addvspace {10pt}
-\contentsline {xchapter}{}{46}{chapter.5}%
+\contentsline {xchapter}{}{48}{chapter.5}%
 \contentsline {chapter}{\numberline {5}Results}{}{}
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Frame from video of valve coapting during testing \textbf {(click to view video)}}}{47}{figure.caption.31}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Head-On View}}}{47}{subfigure.1.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Oblique View}}}{47}{subfigure.1.2}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Locations of points chosen for thickness measurements on the valve models}}{49}{figure.caption.29}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Posterior Leaflet}}}{49}{subfigure.1.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Anterior Leaflet}}}{49}{subfigure.1.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Septal Leaflet}}}{49}{subfigure.1.3}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Frame from video of valve coapting during testing \textbf {(click to view video)}}}{50}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Head-On View}}}{50}{subfigure.2.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Oblique View}}}{50}{subfigure.2.2}%
 \addvspace {10pt}
-\contentsline {xchapter}{}{48}{chapter.6}%
+\contentsline {xchapter}{}{51}{chapter.6}%
 \contentsline {chapter}{\numberline {6}Discussion}{}{}
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Final cast of anatomical valve}}{49}{figure.caption.32}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Early revision \gls {SLA} print of anatomical valve}}{51}{figure.caption.33}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Final cast of anatomical valve}}{52}{figure.caption.31}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Early revision SLA print of anatomical valve}}{54}{figure.caption.32}%
 \addvspace {10pt}
-\contentsline {xchapter}{}{55}{chapter.7}%
-\contentsline {xpart}{Epilogue}{55}{part.4}%
+\contentsline {xchapter}{}{59}{chapter.7}%
+\contentsline {chapter}{\numberline {7}Conclusion}{}{}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces An assembly of the CroiValve DUO device in the right heart simulator}}{60}{figure.caption.34}%
+\contentsline {xpart}{Epilogue}{59}{part.4}%

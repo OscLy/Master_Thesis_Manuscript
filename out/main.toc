@@ -1,10 +1,11 @@
 \babel@toc {english}{}\relax 
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{Abstract}{ii}{chapter*.1}%
-\contentsline {chapter}{Contents}{iv}{section*.2}%
-\contentsline {chapter}{List of Figures}{v}{section*.3}%
-\contentsline {chapter}{List of Tables}{vii}{section*.4}%
-\contentsline {chapter}{List of Acronyms}{viii}{section*.5}%
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.2}%
+\contentsline {chapter}{Contents}{v}{section*.3}%
+\contentsline {chapter}{List of Figures}{vi}{section*.4}%
+\contentsline {chapter}{List of Tables}{viii}{section*.5}%
+\contentsline {chapter}{List of Acronyms}{ix}{section*.6}%
 \contentsline {part}{\partnumberline {I}\MakeTextUppercase []{Prologue}}{1}{part.1}%
 \contentsline {chapter}{\chapternumberline {1}\MakeTextLowercase []{Introduction}}{2}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Background}{2}{section.1.1}%
@@ -26,16 +27,16 @@
 \contentsline {subsection}{\numberline {2.1.4}Variability and Pathologies}{11}{subsection.2.1.4}%
 \contentsline {section}{\numberline {2.2}Advances in Heart Valve Disease Treatment}{12}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Current Models and Simulators}{14}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Early Developments and Evolutation of Physcial Simulators}{14}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.1}Early Developments and Evolution of Physical Simulators}{14}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Current State of the Art Simulators}{14}{subsection.2.3.2}%
 \contentsline {section}{\numberline {2.4}Materials and Methods in Valve Modeling}{18}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Materials Used in Valve Modeling}{18}{subsection.2.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.1.1}Synthetic Polymers:}{19}{subsubsection.2.4.1.1}%
-\contentsline {subsection}{\numberline {2.4.2}From Anatomical Data to Model}{19}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.2}From Anatomical Data to Model}{20}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}Evaluation and Testing Methods}{21}{subsection.2.4.3}%
-\contentsline {section}{\numberline {2.5}Regulatory and Ethical Considerations}{22}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Regulatory Standards for Valve Models and Simulators}{22}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Ethical Implications}{23}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.5}Regulatory and Ethical Considerations}{23}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Regulatory Standards for Valve Models and Simulators}{23}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Ethical Implications}{24}{subsection.2.5.2}%
 \contentsline {section}{\numberline {2.6}Research Strengths and Gaps}{24}{section.2.6}%
 \contentsline {subsection}{\numberline {2.6.1}Research Strengths}{24}{subsection.2.6.1}%
 \contentsline {subsection}{\numberline {2.6.2}Research Gaps}{25}{subsection.2.6.2}%
@@ -49,29 +50,33 @@
 \contentsline {subsection}{\numberline {3.3.2}Represenative Valve Designs}{33}{subsection.3.3.2}%
 \contentsline {subsection}{\numberline {3.3.3}Model Refinement}{33}{subsection.3.3.3}%
 \contentsline {section}{\numberline {3.4}Prototyping}{35}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Valve Iterations}{35}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Chordae Tendineae}{38}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Fixturing}{39}{subsection.3.4.3}%
-\contentsline {section}{\numberline {3.5}Design Validation}{39}{section.3.5}%
-\contentsline {chapter}{\chapternumberline {4}\MakeTextLowercase []{Experimental Setup and Testing}}{41}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Fixturing Assembly}{41}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Rig Assembly}{42}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Testing Procedure}{42}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Pilot Checks}{42}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Coaptation Testing}{43}{subsection.4.3.2}%
-\contentsline {part}{\partnumberline {III}\MakeTextUppercase []{Results, Analysis, and Discussion}}{44}{part.3}%
-\contentsline {xpart}{Results, Analysis, and Discussion}{45}{part.3}%
-\contentsline {chapter}{\chapternumberline {5}\MakeTextLowercase []{Results}}{46}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Design evaluation and thickness investigaton}{46}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Pilot Tests}{46}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Coaptation Test}{46}{section.5.3}%
-\contentsline {chapter}{\chapternumberline {6}\MakeTextLowercase []{Discussion}}{48}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Challenges and the Various Explored Approaches}{48}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Modelling Challenges}{48}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Manufacturing Challenges}{49}{subsection.6.1.2}%
-\contentsline {section}{\numberline {6.2}Contextualizing Results}{52}{section.6.2}%
-\contentsline {part}{\partnumberline {IV}\MakeTextUppercase []{Epilogue}}{54}{part.4}%
-\contentsline {chapter}{\chapternumberline {7}\MakeTextLowercase []{Conclusions and Future Work}}{55}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Future Research Directions}{55}{section.7.1}%
-\contentsline {xpart}{Epilogue}{55}{part.4}%
-\contentsline {chapter}{Bibliography}{58}{section*.37}%
+\contentsline {subsection}{\numberline {3.4.1}Mould Die Iterations}{35}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Casting Material Considerations}{38}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Chordae Tendineae}{38}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Fixturing}{40}{subsection.3.4.4}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextLowercase []{Experimental Setup and Testing}}{42}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Design Validation}{42}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Assembly of Fixturing}{43}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Rig Assembly}{43}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Testing Procedure}{44}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Pilot Checks}{44}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Coaptation Testing}{44}{subsection.4.4.2}%
+\contentsline {part}{\partnumberline {III}\MakeTextUppercase []{Results, Analysis, and Discussion}}{46}{part.3}%
+\contentsline {xpart}{Results, Analysis, and Discussion}{47}{part.3}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextLowercase []{Results}}{48}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Design evaluation and thickness investigation}{48}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Pilot Tests}{49}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Coaptation Test}{49}{section.5.3}%
+\contentsline {chapter}{\chapternumberline {6}\MakeTextLowercase []{Discussion}}{51}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Challenges and the Various Explored Approaches}{51}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Modelling Challenges}{51}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Manufacturing Challenges}{52}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Contextualizing Results}{55}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Design Validation Testing}{55}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Coaptation Testing}{56}{subsection.6.2.2}%
+\contentsline {part}{\partnumberline {IV}\MakeTextUppercase []{Epilogue}}{58}{part.4}%
+\contentsline {chapter}{\chapternumberline {7}\MakeTextLowercase []{Conclusions and Future Work}}{59}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Conclusions}{59}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Future Research Directions}{59}{section.7.2}%
+\contentsline {xpart}{Epilogue}{59}{part.4}%
+\contentsline {chapter}{Bibliography}{62}{section*.37}%

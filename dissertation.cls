@@ -157,9 +157,11 @@
 %%% Section and Subsection Style %%%
 \setsecheadstyle{\normalfont\large\scshape}
 \setsubsecheadstyle{\normalfont\large\itshape}
+\setsubsubsecheadstyle{\normalfont\large\itshape}
 \setsecnumformat{\llap{\small\upshape\csname #1secnumformat\endcsname}}
 \newcommand\sectionsecnumformat{\thesection\quad}
 \newcommand\subsectionsecnumformat{\thesubsection\quad}
+\newcommand\subsubsectionsecnumformat{\thesubsubsection\quad}
 \setaftersecskip{\baselineskip}
 
 %%% Paragraph Style %%%
@@ -202,9 +204,11 @@
 \renewcommand{\cftchapterformatpnum}[1]{\small #1}
 \renewcommand{\cftsectionformatpnum}[1]{\small #1}
 \renewcommand{\cftsubsectionformatpnum}[1]{\small #1}
+\renewcommand{\cftsubsubsectionformatpnum}[1]{\small #1}
 \renewcommand{\cftchapterafterpnum}{\vspace{2pt}}
 \renewcommand{\cftsectionafterpnum}{\vspace{2pt}}
 \renewcommand{\cftsubsectionafterpnum}{\vspace{2pt}}
+\renewcommand{\cftsubsubsectionafterpnum}{\vspace{2pt}}
 
 \renewcommand{\cftchapterfont}{%
 	\scshape\MakeTextLowercase%
@@ -355,6 +359,13 @@
 		}
 	}
 }
+
+\DeclareNameAlias{sortname}{family-given}
+
+\defbibenvironment{bibliography}
+{\begin{enumerate}}
+		{\end{enumerate}}
+{\item}
 
 \renewcommand*{\bibfont}{\normalfont}
 
